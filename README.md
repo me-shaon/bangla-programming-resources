@@ -26,6 +26,11 @@
 * [স্পার্স টেবিল (Sparse Table)](https://tanvir002700.wordpress.com/2015/05/27/sparse-table/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
 * [সাফিক্স এ্যারে(Suffix Array)](https://tanvir002700.wordpress.com/2015/01/13/suffix-array/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller) 
 * [হ্যাশটেবিল (Hashtable)](http://ami-alavola.rhcloud.com/?p=198) 
+* [লিংকড লিস্ট](https://binaryrongo.wordpress.com/2013/06/07/linked-list/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
+* [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26)
+* [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) 
+* [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) 
+* [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54)
 
 
 ##### ম্যাথ ও নাম্বার থিওরী
@@ -37,6 +42,8 @@
 * [গসিয়ান এলিমিনেশন এর দ্বারা লিনিয়ার ইকুয়েশন সল্ভিং](https://sketchingdream.wordpress.com/gauss/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
 * [ইউক্লিডিয়ান অ্যালগরিদম](http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) 
+* [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](https://binaryrongo.wordpress.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
+* [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](https://binaryrongo.wordpress.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
 
 
 ##### গ্রাফ থিওরী
@@ -84,13 +91,18 @@
 
 ##### সর্টিং
 * [যন্ত্র গণকের যন্তর মন্তর - ৩](http://bongobani.blogspot.com/2010/06/blog-post_1625.html) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
+* [বাবল সর্ট](https://binaryrongo.wordpress.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
+* [কাউন্টিং সর্ট (COUNTING SORT)](https://binaryrongo.wordpress.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
 
 ##### সার্চিং
 * [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [বাইসেকশন মেথড](http://blog.faiyaz.info/bisection/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
+* [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) 
+
 
 ##### রিকার্শন, ব্যাকট্র্যাকিং
+* [রিকার্শন (RECURSION)](https://binaryrongo.wordpress.com/2015/12/25/recursion/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
 * [ব্যকট্র্যাকিং বেসিক এবং পারমুটেশন জেনারেটর
 ](http://www.shafaetsplanet.com/planetcoding/?p=1266) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [টাওয়ার অফ হ্যানয়](http://subeen.com/%E0%A6%9F%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AB-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%9F/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
@@ -120,6 +132,7 @@
 * [যন্ত্র গণকের যন্তর মন্তর - ২](http://www.somewhereinblog.net/blog/ragibhasanblog/28912341) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
 * [অফ-বাই-ওয়ান এরর (Off-by-one error)](http://subeen.com/%E0%A6%85%E0%A6%AB-%E0%A6%AC%E0%A6%BE%E0%A6%87-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%8F%E0%A6%B0%E0%A6%B0-off-by-one-error/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [হ্যাশ (Hash) এবং হ্যাশিং (Hashing)](http://ami-alavola.rhcloud.com/?p=183) 
+* [ফ্লোটিং পয়েন্ট নাম্বার ও কিছু সমস্যা](https://binaryrongo.wordpress.com/2014/08/01/floating-point-number/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
 
 
 ---
@@ -292,5 +305,7 @@
 * [তামিম শাহরিয়ার সুবীন এর বই – কম্পিউটার প্রোগ্রামিং](http://cpbook.subeen.com/) 
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](http://hukush-pakush.com/) 
 
-### অনুপ্রেরণা
+### অনুপ্রেরণা এবং ক্যারিয়ার এডভাইজ
 * [কেন আমি প্রোগ্রামিং শিখবো?](http://www.shafaetsplanet.com/planetcoding/?p=1437) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [নবীন প্রোগ্রামারদের জন্য](http://ami-alavola.rhcloud.com/?p=82) 
+* ক্যারিয়ার এডভাইজ [১](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a7/), [২](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a8/), [৩](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a9/), [৪](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%aa/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
