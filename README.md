@@ -306,6 +306,7 @@
 ### বই
 * [তামিম শাহরিয়ার সুবীন এর বই – কম্পিউটার প্রোগ্রামিং](http://cpbook.subeen.com/) 
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](http://hukush-pakush.com/) 
+* [প্রোগ্রামিং প্রতিযোগিতার শুরুর গল্প](https://drive.google.com/file/d/0B8fUdgnb3KKdUDY1TVlBYlViUTg/view) - [মাহবুবুল হাসান](https://www.facebook.com/mahbub.shanto)
 
 ### অনুপ্রেরণা এবং ক্যারিয়ার এডভাইজ
 * [কেন আমি প্রোগ্রামিং শিখবো?](http://www.shafaetsplanet.com/planetcoding/?p=1437) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
