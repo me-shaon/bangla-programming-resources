@@ -27,12 +27,12 @@
 * [কিউ বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%95%e0%a6%bf%e0%a6%89-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
 * [স্পার্স টেবিল (Sparse Table)](https://tanvir002700.wordpress.com/2015/05/27/sparse-table/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
 * [সাফিক্স এ্যারে(Suffix Array)](https://tanvir002700.wordpress.com/2015/01/13/suffix-array/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller) 
-* [হ্যাশটেবিল (Hashtable)](http://ami-alavola.rhcloud.com/?p=198) 
+* [হ্যাশটেবিল (Hashtable)](http://ami-alavola.rhcloud.com/?p=198) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [লিংকড লিস্ট](https://binaryrongo.wordpress.com/2013/06/07/linked-list/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
-* [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26)
-* [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) 
-* [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) 
-* [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54)
+* [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 
 
 ##### ম্যাথ ও নাম্বার থিওরী
@@ -43,7 +43,7 @@
 * [ডিরেঞ্জমেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=600) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu) 
 * [গসিয়ান এলিমিনেশন এর দ্বারা লিনিয়ার ইকুয়েশন সল্ভিং](https://sketchingdream.wordpress.com/gauss/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
 * [ইউক্লিডিয়ান অ্যালগরিদম](http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
-* [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) 
+* [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](https://binaryrongo.wordpress.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
 * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](https://binaryrongo.wordpress.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
 
@@ -77,8 +77,7 @@
 
 
 ##### ডাইনামিক প্রোগ্রামিং
-* [রিকার্শন, সার্চিং এবং ডাইনামিক প্রোগ্রামিং
-](https://sites.google.com/site/smilitude/recursion_and_dp) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
+* [রিকার্শন, সার্চিং এবং ডাইনামিক প্রোগ্রামিং](https://sites.google.com/site/smilitude/recursion_and_dp) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
 * [ডাইনামিক প্রোগ্রামিং-শুরুর কথা](http://www.shafaetsplanet.com/planetcoding/?p=1022) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [ডিপি 'স্টেট', NcR, ০-১ ন্যাপস্যাক](http://www.shafaetsplanet.com/planetcoding/?p=1072) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [কয়েন চেঞ্জ, রক ক্লাইম্বিং](http://www.shafaetsplanet.com/planetcoding/?p=1158) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -100,7 +99,7 @@
 * [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [বাইসেকশন মেথড](http://blog.faiyaz.info/bisection/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
-* [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) 
+* [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 
 
 ##### রিকার্শন, ব্যাকট্র্যাকিং
@@ -111,7 +110,7 @@
 
 ##### স্ট্রিং এলগোরিদম
 * [KMP (Knuth-Morris-Pratt algorithm)](https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller) 
-* [স্ট্রিং হ্যাশিং, রোলিং হ্যাশ এবং রবিন-কার্প এলগোরিদম (Rabin-Karp algorithm)](http://ami-alavola.rhcloud.com/?p=231) 
+* [স্ট্রিং হ্যাশিং, রোলিং হ্যাশ এবং রবিন-কার্প এলগোরিদম (Rabin-Karp algorithm)](http://ami-alavola.rhcloud.com/?p=231) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 
 ##### জিওমেট্রী
 * [সার্কেল ইউনিয়ন](http://chorui12.blogspot.com/2012/05/blog-post.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
@@ -129,11 +128,11 @@
 * [স্ট্যান্ডার্ড টেম্প্লেট লাইব্রেরী](http://www.progkriya.org/gyan/stl.html) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
 * [স্কয়ার রুট ডিকম্পোজিশন (Square Root Decomposition) ](https://tanvir002700.wordpress.com/2015/03/23/square-root-decomposition-3/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller) 
 * [Teach Yourself Programming in Ten Years](http://www.progkriya.org/feature/norvig.html) - পিটার নরভিগ
-* [প্যালিনড্রোম (palindrome)](http://ami-alavola.rhcloud.com/?p=78)
+* [প্যালিনড্রোম (palindrome)](http://ami-alavola.rhcloud.com/?p=78) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [যন্ত্র গণকের যন্তর মন্তর - ১](http://www.somewhereinblog.net/blog/ragibhasanblog/28911437) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
 * [যন্ত্র গণকের যন্তর মন্তর - ২](http://www.somewhereinblog.net/blog/ragibhasanblog/28912341) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
 * [অফ-বাই-ওয়ান এরর (Off-by-one error)](http://subeen.com/%E0%A6%85%E0%A6%AB-%E0%A6%AC%E0%A6%BE%E0%A6%87-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%8F%E0%A6%B0%E0%A6%B0-off-by-one-error/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
-* [হ্যাশ (Hash) এবং হ্যাশিং (Hashing)](http://ami-alavola.rhcloud.com/?p=183) 
+* [হ্যাশ (Hash) এবং হ্যাশিং (Hashing)](http://ami-alavola.rhcloud.com/?p=183) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [ফ্লোটিং পয়েন্ট নাম্বার ও কিছু সমস্যা](https://binaryrongo.wordpress.com/2014/08/01/floating-point-number/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
 
 
@@ -290,7 +289,7 @@
 
 #### অন্যান্য
 * [সফটওয়্যার ডেভেলপমেন্টর ক্লাসিক ভুলগুলো](http://software-engineering-notes-in-bangla.blogspot.com/2015/12/blog-post.html) -  [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-* [প্রোগ্রামিংয়ের সাধারণ ভুলগুলো](http://ami-alavola.rhcloud.com/?p=142) 
+* [প্রোগ্রামিংয়ের সাধারণ ভুলগুলো](http://ami-alavola.rhcloud.com/?p=142) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [সিঙ্গেল সাইন অন বা এস-এস-ও (Single Sign On - SSO)](http://software-engineering-notes-in-bangla.blogspot.com/2015/10/single-sign-on-sso.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [মেথড ওভারলোডিং- ওভাররাইডিং - Method overloading - overriding](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/method-overloading-overriding.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [কোয়ান্টাম কম্পিউটার কী?](http://www.shafaetsplanet.com/planetcoding/?p=2130) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -310,5 +309,5 @@
 
 ### অনুপ্রেরণা এবং ক্যারিয়ার এডভাইজ
 * [কেন আমি প্রোগ্রামিং শিখবো?](http://www.shafaetsplanet.com/planetcoding/?p=1437) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [নবীন প্রোগ্রামারদের জন্য](http://ami-alavola.rhcloud.com/?p=82) 
+* [নবীন প্রোগ্রামারদের জন্য](http://ami-alavola.rhcloud.com/?p=82) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * ক্যারিয়ার এডভাইজ [১](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a7/), [২](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a8/), [৩](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a9/), [৪](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%aa/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
