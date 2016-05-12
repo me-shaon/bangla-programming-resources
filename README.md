@@ -76,7 +76,7 @@
 * [আর্টিকুলেশন পয়েন্ট](https://sketchingdream.wordpress.com/as-artpoint/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
 * [হাভেল হাকিমি এলগোরিদম](http://potasiyam.com/farsan/havel%20hakimi/havel%20hakimi.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [স্ট্রংলি কানেক্টেড কম্পোনেন্ট](http://potasiyam.com/farsan/strongly%20connected%20component/scc.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
-* [2-SAT](http://potasiyam.com/farsan/2sat/2sat.html) - html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [2-SAT](http://potasiyam.com/farsan/2sat/2sat.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
 
 ##### ডাইনামিক প্রোগ্রামিং
