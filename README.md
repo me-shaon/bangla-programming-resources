@@ -74,6 +74,9 @@
 * [ট্রি এর ডায়ামিটার নির্ণয়](http://www.shafaetsplanet.com/planetcoding/?p=521) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট (থিওরী)](http://blog.faiyaz.info/bcc/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
 * [আর্টিকুলেশন পয়েন্ট](https://sketchingdream.wordpress.com/as-artpoint/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
+* [হাভেল হাকিমি এলগোরিদম](http://potasiyam.com/farsan/havel%20hakimi/havel%20hakimi.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [স্ট্রংলি কানেক্টেড কম্পোনেন্ট](http://potasiyam.com/farsan/strongly%20connected%20component/scc.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [2-SAT](http://potasiyam.com/farsan/2sat/2sat.html) - html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
 
 ##### ডাইনামিক প্রোগ্রামিং
@@ -88,6 +91,8 @@
 * [ম্যাট্রিক্স চেইন মাল্টিপ্লিকেশন](http://www.shafaetsplanet.com/planetcoding/?p=1885) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [০/১ ন্যাপসাক (0/1 knapsack)](https://sites.google.com/site/programinggconcept/0-1-knapsack) 
 * [ কয়েন চেঞ্জ](https://sites.google.com/site/programinggconcept/algorithm) 
+* [LCS(Longest Common Subsequence](http://potasiyam.com/farsan/lcs/lcs.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [Maximum 2D Rectangle Sum](http://potasiyam.com/farsan/maximum%202d%20rectangle%20sum/maximum%202d%20rectangle%20sum.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
 
 ##### সর্টিং
@@ -100,6 +105,7 @@
 * [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [বাইসেকশন মেথড](http://blog.faiyaz.info/bisection/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
 * [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [হিউরিস্টিক সার্চ](http://potasiyam.com/farsan/heuristic%20search/heuristic%20search.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
 
 ##### রিকার্শন, ব্যাকট্র্যাকিং
@@ -119,6 +125,7 @@
 * [গেম থিওরি-১](http://www.shafaetsplanet.com/planetcoding/?p=2325) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [গেম থিওরি-২](http://www.shafaetsplanet.com/planetcoding/?p=2608) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [অ্যালগোরিদম গেম থিওরি ৩ (স্প্র্যাগ-গ্রান্ডি সংখ্যা)](http://www.shafaetsplanet.com/planetcoding/?p=2714) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [গেম থিওরী](http://potasiyam.com/farsan/game%20theory/game%20theory.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
 ##### অন্যান্য
 * [ম্যাট্রিক্স এক্সপোনেনসিয়েশন](http://www.progkriya.org/gyan/matrix-expo.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
@@ -134,6 +141,7 @@
 * [অফ-বাই-ওয়ান এরর (Off-by-one error)](http://subeen.com/%E0%A6%85%E0%A6%AB-%E0%A6%AC%E0%A6%BE%E0%A6%87-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%8F%E0%A6%B0%E0%A6%B0-off-by-one-error/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [হ্যাশ (Hash) এবং হ্যাশিং (Hashing)](http://ami-alavola.rhcloud.com/?p=183) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [ফ্লোটিং পয়েন্ট নাম্বার ও কিছু সমস্যা](https://binaryrongo.wordpress.com/2014/08/01/floating-point-number/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
+* [Floyd's Cycle Finding Algorithm](http://potasiyam.com/farsan/floyd%20cycle%20finding/floyd%20cycle%20finding.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
 
 ---
