@@ -28,7 +28,7 @@
 * [স্পার্স টেবিল (Sparse Table)](https://tanvir002700.wordpress.com/2015/05/27/sparse-table/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
 * [সাফিক্স এ্যারে(Suffix Array)](https://tanvir002700.wordpress.com/2015/01/13/suffix-array/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller) 
 * [হ্যাশটেবিল (Hashtable)](http://ami-alavola.rhcloud.com/?p=198) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [লিংকড লিস্ট](http://binaryrongo.anindyaspaul.com/2013/06/07/linked-list/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
+* [লিংকড লিস্ট](http://binaryrongo.anindyaspaul.com/2013/06/07/linked-list/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
@@ -44,8 +44,8 @@
 * [গসিয়ান এলিমিনেশন এর দ্বারা লিনিয়ার ইকুয়েশন সল্ভিং](https://sketchingdream.wordpress.com/gauss/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
 * [ইউক্লিডিয়ান অ্যালগরিদম](http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](http://binaryrongo.anindyaspaul.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
-* [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
+* [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](http://binaryrongo.anindyaspaul.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+* [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 
 
 ##### গ্রাফ থিওরী
@@ -97,8 +97,8 @@
 
 ##### সর্টিং
 * [যন্ত্র গণকের যন্তর মন্তর - ৩](http://bongobani.blogspot.com/2010/06/blog-post_1625.html) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
-* [বাবল সর্ট](http://binaryrongo.anindyaspaul.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
-* [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
+* [বাবল সর্ট](http://binaryrongo.anindyaspaul.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+* [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 
 ##### সার্চিং
 * [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -109,7 +109,7 @@
 
 
 ##### রিকার্শন, ব্যাকট্র্যাকিং
-* [রিকার্শন (RECURSION)](http://binaryrongo.anindyaspaul.com/2015/12/25/recursion/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
+* [রিকার্শন (RECURSION)](http://binaryrongo.anindyaspaul.com/2015/12/25/recursion/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [ব্যকট্র্যাকিং বেসিক এবং পারমুটেশন জেনারেটর
 ](http://www.shafaetsplanet.com/planetcoding/?p=1266) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [টাওয়ার অফ হ্যানয়](http://subeen.com/%E0%A6%9F%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AB-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%9F/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
@@ -140,7 +140,7 @@
 * [যন্ত্র গণকের যন্তর মন্তর - ২](http://www.somewhereinblog.net/blog/ragibhasanblog/28912341) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
 * [অফ-বাই-ওয়ান এরর (Off-by-one error)](http://subeen.com/%E0%A6%85%E0%A6%AB-%E0%A6%AC%E0%A6%BE%E0%A6%87-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%8F%E0%A6%B0%E0%A6%B0-off-by-one-error/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [হ্যাশ (Hash) এবং হ্যাশিং (Hashing)](http://ami-alavola.rhcloud.com/?p=183) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [ফ্লোটিং পয়েন্ট নাম্বার ও কিছু সমস্যা](http://binaryrongo.anindyaspaul.com/2014/08/01/floating-point-number/) - [অনিন্দ্য পাল](https://www.facebook.com/aspaul.93)
+* [ফ্লোটিং পয়েন্ট নাম্বার ও কিছু সমস্যা](http://binaryrongo.anindyaspaul.com/2014/08/01/floating-point-number/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [Floyd's Cycle Finding Algorithm](http://potasiyam.com/farsan/floyd%20cycle%20finding/floyd%20cycle%20finding.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
 
