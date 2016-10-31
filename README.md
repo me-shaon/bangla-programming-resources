@@ -319,6 +319,7 @@
 * বিগ ইন্টিজার [১](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A7/), [২](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A8/), [৩](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A9/), [৪](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%AA/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং](http://subeen.com/%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%9C-%E0%A6%AA%E0%A7%8D/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [ট্যুরিং টেস্ট – মানুষ বনাম কম্পিউটার](http://subeen.com/%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%82-%E0%A6%9F%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
+* [মিউটেবল (mutable) এবং ইমিউটেবল (immutable)](https://ami-alavola.rhcloud.com/?p=287) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 
 
 
