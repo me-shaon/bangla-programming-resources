@@ -289,6 +289,12 @@
 * [টিডিডি – টেস্ট ড্রিভেন ডেভেলাপমেন্ট](http://subeen.com/%e0%a6%9f%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%a1%e0%a6%bf-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%a1%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%ad%e0%a7%87%e0%a6%a8-%e0%a6%a1%e0%a7%87%e0%a6%ad/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [ইউনিট টেস্টিং](http://subeen.com/%e0%a6%87%e0%a6%89%e0%a6%a8%e0%a6%bf%e0%a6%9f-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [লোড টেস্টিং](http://subeen.com/%e0%a6%b2%e0%a7%87%e0%a6%be%e0%a6%a1-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+* [সফটওয়্যার টেস্টিংঃ White Box টেস্টিং ও Black Box http://subeen.com/%e0%a6%b8%e0%a6%ab%e0%a6%9f%e0%a6%93%e0%a7%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82%e0%a6%83-white-box-%e0%a6%9f%e0%a7%87%e0%a6%b8/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
+* [A/B টেস্টিং](http://subeen.com/ab-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+
+
+### ডাটাবেজ সিস্টেম
+* [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%E0%A6%A8%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%9C/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
 
 ---
 
@@ -325,3 +331,5 @@
 * [কেন আমি প্রোগ্রামিং শিখবো?](http://www.shafaetsplanet.com/planetcoding/?p=1437) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [নবীন প্রোগ্রামারদের জন্য](http://ami-alavola.rhcloud.com/?p=82) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * ক্যারিয়ার এডভাইজ [১](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a7/), [২](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a8/), [৩](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a9/), [৪](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%aa/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+* [সফটওয়্যার ইঞ্জিনিয়ারিং ইন্টারভিউ](http://subeen.com/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%82-%E0%A6%87/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+* [প্রোগ্রামিং ইন্টারভিউঃ কোডিং](http://subeen.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%AD%E0%A6%BF%E0%A6%89%E0%A6%83/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
