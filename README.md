@@ -289,7 +289,7 @@
 * [টিডিডি – টেস্ট ড্রিভেন ডেভেলাপমেন্ট](http://subeen.com/%e0%a6%9f%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%a1%e0%a6%bf-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%a1%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%ad%e0%a7%87%e0%a6%a8-%e0%a6%a1%e0%a7%87%e0%a6%ad/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [ইউনিট টেস্টিং](http://subeen.com/%e0%a6%87%e0%a6%89%e0%a6%a8%e0%a6%bf%e0%a6%9f-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [লোড টেস্টিং](http://subeen.com/%e0%a6%b2%e0%a7%87%e0%a6%be%e0%a6%a1-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-* [সফটওয়্যার টেস্টিংঃ White Box টেস্টিং ও Black Box http://subeen.com/%e0%a6%b8%e0%a6%ab%e0%a6%9f%e0%a6%93%e0%a7%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82%e0%a6%83-white-box-%e0%a6%9f%e0%a7%87%e0%a6%b8/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
+* [সফটওয়্যার টেস্টিংঃ White Box টেস্টিং ও Black Box](http://subeen.com/%e0%a6%b8%e0%a6%ab%e0%a6%9f%e0%a6%93%e0%a7%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82%e0%a6%83-white-box-%e0%a6%9f%e0%a7%87%e0%a6%b8/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [A/B টেস্টিং](http://subeen.com/ab-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 
