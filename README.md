@@ -43,6 +43,7 @@
 * [ডিরেঞ্জমেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=600) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu) 
 * [গসিয়ান এলিমিনেশন এর দ্বারা লিনিয়ার ইকুয়েশন সল্ভিং](https://sketchingdream.wordpress.com/gauss/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
 * [ইউক্লিডিয়ান অ্যালগরিদম](http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
+* [Extended Euclidean Algorithm এবং একটুখানি Modular Multiplicative Inverse](http://www.abuasifkhan.me/extended-euclidean-algorithm.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](http://binaryrongo.anindyaspaul.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
@@ -117,6 +118,7 @@
 ##### স্ট্রিং এলগোরিদম
 * [KMP (Knuth-Morris-Pratt algorithm)](https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller) 
 * [স্ট্রিং হ্যাশিং, রোলিং হ্যাশ এবং রবিন-কার্প এলগোরিদম (Rabin-Karp algorithm)](http://ami-alavola.rhcloud.com/?p=231) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [Aho-Corasick দিয়ে String Matching](http://www.abuasifkhan.me/aho-corasick.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 
 ##### জিওমেট্রী
 * [সার্কেল ইউনিয়ন](http://chorui12.blogspot.com/2012/05/blog-post.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
