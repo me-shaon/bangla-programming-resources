@@ -33,6 +33,7 @@
 * [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 
 
 ##### ম্যাথ ও নাম্বার থিওরী
@@ -43,10 +44,13 @@
 * [ডিরেঞ্জমেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=600) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu) 
 * [গসিয়ান এলিমিনেশন এর দ্বারা লিনিয়ার ইকুয়েশন সল্ভিং](https://sketchingdream.wordpress.com/gauss/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
 * [ইউক্লিডিয়ান অ্যালগরিদম](http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
+* [খাতা-কলমে Extended Euclid Method](http://www.abuasifkhan.me/extended-euclid-method.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Extended Euclidean Algorithm এবং একটুখানি Modular Multiplicative Inverse](http://www.abuasifkhan.me/extended-euclidean-algorithm.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](http://binaryrongo.anindyaspaul.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+* বিন্যাস করা যাক [1](http://www.abuasifkhan.me/permutation1.html), [2](http://www.abuasifkhan.me/permutation2.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+* [Chinese Remainder Theorem](http://www.abuasifkhan.me/chinese-remainder-theorem.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 
 
 ##### গ্রাফ থিওরী
@@ -106,7 +110,8 @@
 * [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [বাইসেকশন মেথড](http://blog.faiyaz.info/bisection/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
 * [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [হিউরিস্টিক সার্চ](http://potasiyam.com/farsan/heuristic%20search/heuristic%20search.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [হিউরিস্টিক সার্চ](http://potasiyam.com/farsan/heuristic%20search/heuristic%20search.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid
+* [Painless Binary Search](http://www.abuasifkhan.me/painless-binary-search.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 
 
 ##### রিকার্শন, ব্যাকট্র্যাকিং
@@ -144,6 +149,8 @@
 * [হ্যাশ (Hash) এবং হ্যাশিং (Hashing)](http://ami-alavola.rhcloud.com/?p=183) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [ফ্লোটিং পয়েন্ট নাম্বার ও কিছু সমস্যা](http://binaryrongo.anindyaspaul.com/2014/08/01/floating-point-number/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [Floyd's Cycle Finding Algorithm](http://potasiyam.com/farsan/floyd%20cycle%20finding/floyd%20cycle%20finding.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [কনটেস্ট টাইমে Algorithm Selection](http://www.abuasifkhan.me/algoselection.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+* [Lightweight Set of Boolean ওরফে Bitmask](http://www.abuasifkhan.me/lightweight-set-of-boolean-bitmask.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 
 
 ---
