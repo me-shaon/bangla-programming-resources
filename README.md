@@ -300,6 +300,8 @@
 * [লোড টেস্টিং](http://subeen.com/%e0%a6%b2%e0%a7%87%e0%a6%be%e0%a6%a1-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [সফটওয়্যার টেস্টিংঃ White Box টেস্টিং ও Black Box](http://subeen.com/%e0%a6%b8%e0%a6%ab%e0%a6%9f%e0%a6%93%e0%a7%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82%e0%a6%83-white-box-%e0%a6%9f%e0%a7%87%e0%a6%b8/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [A/B টেস্টিং](http://subeen.com/ab-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+* [Selenium IDE: টেস্ট অটোমেশন-র ফ্রি টুল / প্লাগ-ইন](http://software-engineering-notes-in-bangla.blogspot.com/2016/05/selenium-ide.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
+* [টেস্ট অটোমেশনে ব্যবহৃত ডিজাইন প্যাটার্ন -TAP অথবা POM](http://software-engineering-notes-in-bangla.blogspot.com/2016/08/tap-pom.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 
 
 ### ডাটাবেজ সিস্টেম
@@ -329,6 +331,7 @@
 * [ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং](http://subeen.com/%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%9C-%E0%A6%AA%E0%A7%8D/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [ট্যুরিং টেস্ট – মানুষ বনাম কম্পিউটার](http://subeen.com/%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%82-%E0%A6%9F%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [মিউটেবল (mutable) এবং ইমিউটেবল (immutable)](https://ami-alavola.rhcloud.com/?p=287) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [বাইটকোড ইন্সট্রুমেন্টেশন (Bytecode instrumentation) এবং এর ব্যবহার](http://software-engineering-notes-in-bangla.blogspot.com/2016/11/bytecode-instrumentation.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 
 
 
