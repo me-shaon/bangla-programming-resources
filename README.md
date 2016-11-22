@@ -313,7 +313,7 @@
 
 #### এপিআই (এপ্লিকেশন প্রোগ্রামিং ইন্টারফেস)
 * [ডিজাইনিং রেস্ট এপিআই](http://apikothon.com/category/%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%8F%E0%A6%AA%E0%A6%BF%E0%A6%86%E0%A6%87) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
-* [API Introduction](http://www.sakib.ninja/2016/03/api-introduction.html) - [সাকিব সামি](https://www.facebook.com/s4kibs4mi) 
+* [API Introduction](http://blog.sakib.ninja/2016/03/api-introduction.html) - [সাকিব সামি](https://www.facebook.com/s4kibs4mi) 
 
 #### স্কেলিং এন্ড পারফর্মেন্স অপটিমাইজেশন
 * [ওয়েব সার্ভার স্কেলিং](http://apikothon.com/category/%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%82-%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
@@ -325,7 +325,7 @@
 * [মেথড ওভারলোডিং- ওভাররাইডিং - Method overloading - overriding](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/method-overloading-overriding.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [কোয়ান্টাম কম্পিউটার কী?](http://www.shafaetsplanet.com/planetcoding/?p=2130) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [কোয়ান্টাম কম্পিউটারের শক্তি এবং সীমাবদ্ধতা](http://www.shafaetsplanet.com/planetcoding/?p=2135) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [জাভা- সকেট প্রোগ্রামিং](http://www.sakib.ninja/2015/05/java-socket-programming.html) - [সাকিব সামি](https://www.facebook.com/s4kibs4mi) 
+* [জাভা- সকেট প্রোগ্রামিং](http://blog.sakib.ninja/2015/05/java-socket-programming.html) - [সাকিব সামি](https://www.facebook.com/s4kibs4mi) 
 * [সফটওয়্যার ইন্ডাস্ট্রিতে আসার আগে](http://subeen.com/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * বিগ ইন্টিজার [১](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A7/), [২](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A8/), [৩](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A9/), [৪](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%AA/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং](http://subeen.com/%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%9C-%E0%A6%AA%E0%A7%8D/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
