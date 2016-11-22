@@ -151,6 +151,8 @@
 * [Floyd's Cycle Finding Algorithm](http://potasiyam.com/farsan/floyd%20cycle%20finding/floyd%20cycle%20finding.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [কনটেস্ট টাইমে Algorithm Selection](http://www.abuasifkhan.me/algoselection.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Lightweight Set of Boolean ওরফে Bitmask](http://www.abuasifkhan.me/lightweight-set-of-boolean-bitmask.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+* হ্যাশ ফাংশন [1](http://subeen.com/%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6-%E0%A6%AB%E0%A6%BE%E0%A6%82%E0%A6%B6%E0%A6%A8/), [2](http://subeen.com/%e0%a6%b9%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b6-%e0%a6%ab%e0%a6%be%e0%a6%82%e0%a6%b6%e0%a6%a8-%e0%a7%a8/) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
+* [ফ্লো চার্ট (Flow Chart)](http://subeen.com/%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A7%8B-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F-flow-chart/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 
 
 ---
@@ -307,7 +309,7 @@
 
 ### ডাটাবেজ সিস্টেম
 * [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%E0%A6%A8%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%9C/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
-
+* [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
 ---
 
 ### অন্যান্য
@@ -318,6 +320,7 @@
 
 #### স্কেলিং এন্ড পারফর্মেন্স অপটিমাইজেশন
 * [ওয়েব সার্ভার স্কেলিং](http://apikothon.com/category/%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%82-%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
+* [ভার্টিক্যাল ও হরাইজনটাল স্কেলিং](http://subeen.com/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%93-%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%A8%E0%A6%9F%E0%A6%BE%E0%A6%B2/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 #### অন্যান্য
 * [সফটওয়্যার ডেভেলপমেন্টর ক্লাসিক ভুলগুলো](http://software-engineering-notes-in-bangla.blogspot.com/2015/12/blog-post.html) -  [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
