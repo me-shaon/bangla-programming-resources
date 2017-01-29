@@ -310,6 +310,7 @@
 ### ডাটাবেজ সিস্টেম
 * [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%E0%A6%A8%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%9C/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
 * [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
+
 ---
 
 ### অন্যান্য
@@ -340,7 +341,7 @@
 * [জাভা প্রোগ্রামিং ল্যাংগুয়েজ তৈরির পেছনের গল্প](http://www.bazlur.com/2017/01/blog-post_25.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [প্রোগ্রামিং প্যারাডাইম](http://www.bazlur.com/2017/01/blog-post.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [Agile and Scrum](http://www.bazlur.com/2017/01/agile-and-scrum.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
-* [Act with Prudence](http://www.bazlur.com/2017/01/act-with-prudence.html) - ([বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
+* [Act with Prudence](http://www.bazlur.com/2017/01/act-with-prudence.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 
 
 
