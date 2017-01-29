@@ -110,7 +110,7 @@
 * [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [বাইসেকশন মেথড](http://blog.faiyaz.info/bisection/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
 * [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [হিউরিস্টিক সার্চ](http://potasiyam.com/farsan/heuristic%20search/heuristic%20search.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid
+* [হিউরিস্টিক সার্চ](http://potasiyam.com/farsan/heuristic%20search/heuristic%20search.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [Painless Binary Search](http://www.abuasifkhan.me/painless-binary-search.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 
 
@@ -151,7 +151,7 @@
 * [Floyd's Cycle Finding Algorithm](http://potasiyam.com/farsan/floyd%20cycle%20finding/floyd%20cycle%20finding.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [কনটেস্ট টাইমে Algorithm Selection](http://www.abuasifkhan.me/algoselection.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Lightweight Set of Boolean ওরফে Bitmask](http://www.abuasifkhan.me/lightweight-set-of-boolean-bitmask.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-* হ্যাশ ফাংশন [1](http://subeen.com/%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6-%E0%A6%AB%E0%A6%BE%E0%A6%82%E0%A6%B6%E0%A6%A8/), [2](http://subeen.com/%e0%a6%b9%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b6-%e0%a6%ab%e0%a6%be%e0%a6%82%e0%a6%b6%e0%a6%a8-%e0%a7%a8/) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
+* হ্যাশ ফাংশন [1](http://www.bazlur.com/2016/11/blog-post_20.html), [2](http://www.bazlur.com/2016/11/blog-post_21.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [ফ্লো চার্ট (Flow Chart)](http://subeen.com/%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A7%8B-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F-flow-chart/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 
 
@@ -337,6 +337,10 @@
 * [মিউটেবল (mutable) এবং ইমিউটেবল (immutable)](https://ami-alavola.rhcloud.com/?p=287) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [বাইটকোড ইন্সট্রুমেন্টেশন (Bytecode instrumentation) এবং এর ব্যবহার](http://software-engineering-notes-in-bangla.blogspot.com/2016/11/bytecode-instrumentation.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [সফটওয়্যার ইন্ডাস্ট্রিতে আসার আগে](http://subeen.com/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+* [জাভা প্রোগ্রামিং ল্যাংগুয়েজ তৈরির পেছনের গল্প](http://www.bazlur.com/2017/01/blog-post_25.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
+* [প্রোগ্রামিং প্যারাডাইম](http://www.bazlur.com/2017/01/blog-post.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
+* [Agile and Scrum](http://www.bazlur.com/2017/01/agile-and-scrum.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
+* [Act with Prudence](http://www.bazlur.com/2017/01/act-with-prudence.html) - ([বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 
 
 
@@ -351,3 +355,4 @@
 * ক্যারিয়ার এডভাইজ [১](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a7/), [২](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a8/), [৩](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a9/), [৪](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%aa/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [সফটওয়্যার ইঞ্জিনিয়ারিং ইন্টারভিউ](http://subeen.com/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%82-%E0%A6%87/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [প্রোগ্রামিং ইন্টারভিউঃ কোডিং](http://subeen.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%AD%E0%A6%BF%E0%A6%89%E0%A6%83/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+* [কীভাবে ভাল প্রোগ্রামার হওয়া যায়](http://www.bazlur.com/2016/11/blog-post.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
