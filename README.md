@@ -355,6 +355,8 @@
 * [প্রোগ্রামিং প্যারাডাইম](http://www.bazlur.com/2017/01/blog-post.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [Agile and Scrum](http://www.bazlur.com/2017/01/agile-and-scrum.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [Act with Prudence](http://www.bazlur.com/2017/01/act-with-prudence.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
+* [সোজা বাংলায় ৩ মিনিটে OAuth!](http://www.adhikary.net/post/oauth-bengali/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
+* [OAUTH- (ওঅথ) অথেনটিকেশন কি , কিভাবে কাজ করে ?](http://backdoorweb.com/oauth-%E0%A6%93%E0%A6%85%E0%A6%A5-%E0%A6%85%E0%A6%A5%E0%A7%87%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A6%BF-%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87/) - [ওসমান গনী নাহিদ](https://www.facebook.com/nahidcool1994)
 
 ---
 
