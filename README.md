@@ -296,6 +296,8 @@
 * [গিট ও গিটহাব](http://subeen.com/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%93-%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 
+---
+
 ### সফটওয়্যার টেস্টিং
 * [টিডিডি – টেস্ট ড্রিভেন ডেভেলাপমেন্ট](http://subeen.com/%e0%a6%9f%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%a1%e0%a6%bf-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%a1%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%ad%e0%a7%87%e0%a6%a8-%e0%a6%a1%e0%a7%87%e0%a6%ad/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [ইউনিট টেস্টিং](http://subeen.com/%e0%a6%87%e0%a6%89%e0%a6%a8%e0%a6%bf%e0%a6%9f-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
@@ -305,6 +307,7 @@
 * [Selenium IDE: টেস্ট অটোমেশন-র ফ্রি টুল / প্লাগ-ইন](http://software-engineering-notes-in-bangla.blogspot.com/2016/05/selenium-ide.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [টেস্ট অটোমেশনে ব্যবহৃত ডিজাইন প্যাটার্ন -TAP অথবা POM](http://software-engineering-notes-in-bangla.blogspot.com/2016/08/tap-pom.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 
+---
 
 ### ডাটাবেজ সিস্টেম
 * [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%E0%A6%A8%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%9C/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
@@ -350,12 +353,15 @@
 * [Agile and Scrum](http://www.bazlur.com/2017/01/agile-and-scrum.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [Act with Prudence](http://www.bazlur.com/2017/01/act-with-prudence.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 
+---
 
 
 ### বই
 * [তামিম শাহরিয়ার সুবীন এর বই – কম্পিউটার প্রোগ্রামিং](http://cpbook.subeen.com/)
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](http://hukush-pakush.com/)
 * [প্রোগ্রামিং প্রতিযোগিতার শুরুর গল্প](https://drive.google.com/file/d/0B8fUdgnb3KKdUDY1TVlBYlViUTg/view) - [মাহবুবুল হাসান](https://www.facebook.com/mahbub.shanto)
+
+---
 
 ### অনুপ্রেরণা এবং ক্যারিয়ার এডভাইজ
 * [কেন আমি প্রোগ্রামিং শিখবো?](http://www.shafaetsplanet.com/planetcoding/?p=1437) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
