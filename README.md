@@ -283,6 +283,7 @@
 
 ### সফটওয়্যার আর্কিটেকচার
 * [মাইক্রোসার্ভিস আর্কিটেকচার](http://apikothon.com/microservice-bangla-tutorial) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
+* [সফটওয়্যার আর্কিটেকচার - বাংলা](http://architecture.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 
 ---
 
@@ -336,7 +337,7 @@
 * [ভার্টিক্যাল ও হরাইজনটাল স্কেলিং](http://subeen.com/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%93-%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%A8%E0%A6%9F%E0%A6%BE%E0%A6%B2/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 #### অন্যান্য
-* [সফটওয়্যার ডেভেলপমেন্টর ক্লাসিক ভুলগুলো](http://software-engineering-notes-in-bangla.blogspot.com/2015/12/blog-post.html) -  [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
+* [সফটওয়্যার ডেভেলপমেন্টের ক্লাসিক ভুলগুলো](http://software-engineering-notes-in-bangla.blogspot.com/2015/12/blog-post.html) -  [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [প্রোগ্রামিংয়ের সাধারণ ভুলগুলো](http://ami-alavola.rhcloud.com/?p=142) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [সিঙ্গেল সাইন অন বা এস-এস-ও (Single Sign On - SSO)](http://software-engineering-notes-in-bangla.blogspot.com/2015/10/single-sign-on-sso.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [মেথড ওভারলোডিং- ওভাররাইডিং - Method overloading - overriding](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/method-overloading-overriding.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
