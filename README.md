@@ -355,10 +355,56 @@
 
 ---
 
+### প্রোগ্রামিং ল্যাঙ্গুয়েজ টিউটোরিয়াল সিরিজ
+
+#### পাইথন (Python)
+* [বাংলায় পাইথন](http://python.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+* [হাতে-কলমে পাইথন](http://www.adhikary.net/post/learn-python-by-building-0/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
+* [বাংলায় পাইথন](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
+* [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
+
+
+#### জাভা (Java)
+* [জাভা প্রোগ্রামিং](http://java.howtocode.com.bd/)- [How-to-code](http://www.howtocode.com.bd/)
+* [বাংলা জাভা টিউটোরিয়াল](http://mrubel.com/androidlime/category/java/) - [মোশাররফ রুবেল](https://www.facebook.com/rubel007cse)
+
+#### সি (C)
+* [বাংলায় সি প্রোগ্রামিং শিক্ষা](http://c.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+* [বাংলায় সি প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/c) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
+* [সি টিউটোরিয়াল](http://shoshikkha.com/archives/1394) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [বাংলা সি প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/ctutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
+
+#### সি প্লাস প্লাস (C++)
+* [বাংলা সি প্লাস প্লাস প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/cpptutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
+* [সি প্লাস প্লাস টিউটোরিয়াল](http://shoshikkha.com/archives/category/computer-science/programming/language/c) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+
+
+#### জাভাস্ক্রিপ্ট (Javascript)
+* [জাভাস্ক্রিপ্ট](http://js.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+* [বাংলায় জাভাস্ক্রিপ্ট](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
+* [নতুন করে শিখি জাভাস্ক্রিপ্ট](https://developer.mozilla.org/bn-BD/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
+
+
+#### পিএইচপি (PHP)
+* [বাংলায় পিএইচপি](http://php.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+
+#### গো-ল্যাং (golang)
+* [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](http://golang.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+- [গো নিয়ে গড়াগড়ি](http://go.goragori.com/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
+
+
+#### ক্লোজার (Clojure)
+* [ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ](http://clojure.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+
+#### স্ক্যালা (Scala)
+* [Scala দি নেক্সট বিগ থিং](http://scala.howtocode.com.bd/index.html) - [How-to-code](http://www.howtocode.com.bd/)
+
+
+---
 
 ### বই
 * [তামিম শাহরিয়ার সুবীন এর বই – কম্পিউটার প্রোগ্রামিং](http://cpbook.subeen.com/)
-* [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](http://hukush-pakush.com/)
+* [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](http://hukush-pakush.com/) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
 * [প্রোগ্রামিং প্রতিযোগিতার শুরুর গল্প](https://drive.google.com/file/d/0B8fUdgnb3KKdUDY1TVlBYlViUTg/view) - [মাহবুবুল হাসান](https://www.facebook.com/mahbub.shanto)
 
 ---
