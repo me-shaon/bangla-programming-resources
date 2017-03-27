@@ -92,7 +92,7 @@
 * [ডিপি 'স্টেট', NcR, ০-১ ন্যাপস্যাক](http://www.shafaetsplanet.com/planetcoding/?p=1072) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [কয়েন চেঞ্জ, রক ক্লাইম্বিং](http://www.shafaetsplanet.com/planetcoding/?p=1158) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [ডিপি সলিউশন প্রিন্ট করা এবং LIS](http://www.shafaetsplanet.com/planetcoding/?p=1211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [বিটমাস্ক ডিপি](http://www.shafaetsplanet.com/planetcoding/?p=1357) -
+* [বিটমাস্ক ডিপি](http://www.shafaetsplanet.com/planetcoding/?p=1357) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [মিনিমাম ভারটেক্স কভার(গ্রাফ+ডিপি)](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [লংগেস্ট কমন সাবসিকোয়েন্স(LCS)](http://www.shafaetsplanet.com/planetcoding/?p=1862) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [ম্যাট্রিক্স চেইন মাল্টিপ্লিকেশন](http://www.shafaetsplanet.com/planetcoding/?p=1885) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
