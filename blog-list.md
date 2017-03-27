@@ -4,6 +4,7 @@
 #### ব্লগের তালিকা (লেখকের নামের ক্রমানুসারে):
 
 - [How-to-code](http://www.howtocode.com.bd/)
+- [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
 - [অনিন্দ্য পাল](http://binaryrongo.anindyaspaul.com/)
 - [অনিরুদ্ধ অধিকারী](http://adhikary.net/)
 - [অমিত শীল অমি](http://lordamit.blogspot.com/)
@@ -29,9 +30,12 @@
 - [মাঈনুল ইসলাম](http://tuts.nanodesignsbd.com/)
 - [মানস কুমার মণ্ডল](http://mandal.manash.me/)
 - [মীর ওয়াসি আহমেদ](http://www.progkriya.org/gyan/)
+- [মুনতাসির ওয়াহেদ](http://shoshikkha.com/)
 - [মোঃ শফিউজ্জামান রাজিব](http://subeen.com/)
+- [মোশাররফ রুবেল](http://mrubel.com/)
 - [মোহাম্মদ সায়েফ](https://sketchingdream.wordpress.com/)
 - [রাগিব হাসান](http://www.somewhereinblog.net/blog/ragibhasanblog/)
+- [শরীফ চৌধুরী](http://www.techsharif.com/)
 - [শাফায়েত আশরাফ](http://www.shafaetsplanet.com/planetcoding/)
 - [সাকিব সামি](http://blog.sakib.ninja/)
 - [স্বাগত প্রতীক](https://thehoneymad.wordpress.com/)
