@@ -54,6 +54,8 @@
 * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * বিন্যাস করা যাক [1](http://www.abuasifkhan.me/permutation1.html), [2](http://www.abuasifkhan.me/permutation2.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Chinese Remainder Theorem](http://www.abuasifkhan.me/chinese-remainder-theorem.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+* [প্রোবাবিলিটি: এক্সপেক্টেড ভ্যালু](http://www.shafaetsplanet.com/planetcoding/?p=3060) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [Probability & Expected value](http://shakilcompetitiveprogramming.blogspot.nl/2015/08/probability-expected-value-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 
 #### গ্রাফ থিওরী
