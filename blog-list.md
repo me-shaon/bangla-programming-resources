@@ -36,6 +36,7 @@
 - [মোহাম্মদ সায়েফ](https://sketchingdream.wordpress.com/)
 - [রাগিব হাসান](http://www.somewhereinblog.net/blog/ragibhasanblog/)
 - [শরীফ চৌধুরী](http://www.techsharif.com/)
+- [শাকিল আহমেদ](http://shakilcompetitiveprogramming.blogspot.com/)
 - [শাফায়েত আশরাফ](http://www.shafaetsplanet.com/planetcoding/)
 - [সাকিব সামি](http://blog.sakib.ninja/)
 - [স্বাগত প্রতীক](https://thehoneymad.wordpress.com/)
