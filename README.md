@@ -36,6 +36,7 @@
 * [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+* [Segment tree/ BIT part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/segment-tree-bit-part-1_21.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 
 #### ম্যাথ ও নাম্বার থিওরী
@@ -84,6 +85,12 @@
 * [হাভেল হাকিমি এলগোরিদম](http://potasiyam.com/farsan/havel%20hakimi/havel%20hakimi.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [স্ট্রংলি কানেক্টেড কম্পোনেন্ট](http://potasiyam.com/farsan/strongly%20connected%20component/scc.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [2-SAT](http://potasiyam.com/farsan/2sat/2sat.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [0/1 BFS](http://shakilcompetitiveprogramming.blogspot.nl/2016/05/01-bfs.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [BFS/DFS part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/bfsdfs-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [2-SAT](http://shakilcompetitiveprogramming.blogspot.nl/2014/08/blog-post.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [Union Find Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2014/01/union-find-algorithm-union-find.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [MinMax algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2013/12/minmax-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [Maximum Bipartite Matching by Kuhn’s Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2013/12/maximum-bipartite-matching-by-kuhns.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 
 #### ডাইনামিক প্রোগ্রামিং
@@ -100,6 +107,11 @@
 * [ কয়েন চেঞ্জ](https://sites.google.com/site/programinggconcept/algorithm)
 * [LCS(Longest Common Subsequence](http://potasiyam.com/farsan/lcs/lcs.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [Maximum 2D Rectangle Sum](http://potasiyam.com/farsan/maximum%202d%20rectangle%20sum/maximum%202d%20rectangle%20sum.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [LIS and variation](http://shakilcompetitiveprogramming.blogspot.nl/2016/04/lis-and-variation.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [Digit DP](http://shakilcompetitiveprogramming.blogspot.com/2015/09/digit-dp.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [DP on Tree](http://shakilcompetitiveprogramming.blogspot.nl/2016/06/dp-on-tree.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* Dynamic Programming [1](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-1.html), [2](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-2.html), [3](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-part-3.html), [4](http://shakilcompetitiveprogramming.blogspot.com/2016/03/dp-part-4.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [DP trick - Knuth's optimization](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-tricks-knuths-optimization.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 
 #### সর্টিং
@@ -114,17 +126,25 @@
 * [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [হিউরিস্টিক সার্চ](http://potasiyam.com/farsan/heuristic%20search/heuristic%20search.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [Painless Binary Search](http://www.abuasifkhan.me/painless-binary-search.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+* [Binary Search part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2014/09/binary-search-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+
+
+#### গ্রীডি মেথড
+* Greedy Method [1](http://shakilcompetitiveprogramming.blogspot.com/2014/09/greedy-method.html), [2](http://shakilcompetitiveprogramming.blogspot.com/2015/06/greedy-part-2.html), [3](http://shakilcompetitiveprogramming.blogspot.com/2016/04/greedy-part-3.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [two pointer](http://shakilcompetitiveprogramming.blogspot.com/2015/06/two-pointer.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 
 #### রিকার্শন, ব্যাকট্র্যাকিং
 * [রিকার্শন (RECURSION)](http://binaryrongo.anindyaspaul.com/2015/12/25/recursion/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [ব্যকট্র্যাকিং বেসিক এবং পারমুটেশন জেনারেটর](http://www.shafaetsplanet.com/planetcoding/?p=1266) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [টাওয়ার অফ হ্যানয়](http://subeen.com/%E0%A6%9F%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AB-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%9F/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
+* [Backtrack & N Queen](http://shakilcompetitiveprogramming.blogspot.nl/2015/05/backtrack-n-queen.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 #### স্ট্রিং এলগোরিদম
 * [KMP (Knuth-Morris-Pratt algorithm)](https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
 * [স্ট্রিং হ্যাশিং, রোলিং হ্যাশ এবং রবিন-কার্প এলগোরিদম (Rabin-Karp algorithm)](http://ami-alavola.rhcloud.com/?p=231) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [Aho-Corasick দিয়ে String Matching](http://www.abuasifkhan.me/aho-corasick.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+* [Z Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/z-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 #### জিওমেট্রী
 * [সার্কেল ইউনিয়ন](http://chorui12.blogspot.com/2012/05/blog-post.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
@@ -134,6 +154,7 @@
 * [গেম থিওরি-২](http://www.shafaetsplanet.com/planetcoding/?p=2608) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [অ্যালগোরিদম গেম থিওরি ৩ (স্প্র্যাগ-গ্রান্ডি সংখ্যা)](http://www.shafaetsplanet.com/planetcoding/?p=2714) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [গেম থিওরী](http://potasiyam.com/farsan/game%20theory/game%20theory.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [Game Theory ( Sprague Grundy Theorem )](http://shakilcompetitiveprogramming.blogspot.nl/2014/09/game-theory-sprague-grundy-theorem.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 #### অন্যান্য
 * [ম্যাট্রিক্স এক্সপোনেনসিয়েশন](http://www.progkriya.org/gyan/matrix-expo.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
@@ -154,6 +175,7 @@
 * [Lightweight Set of Boolean ওরফে Bitmask](http://www.abuasifkhan.me/lightweight-set-of-boolean-bitmask.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * হ্যাশ ফাংশন [1](http://www.bazlur.com/2016/11/blog-post_20.html), [2](http://www.bazlur.com/2016/11/blog-post_21.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [ফ্লো চার্ট (Flow Chart)](http://subeen.com/%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A7%8B-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F-flow-chart/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
+* [Minimum Expression](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/minimum-expression.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 
 ---
