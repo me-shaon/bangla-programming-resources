@@ -21,7 +21,7 @@ def main():
 
 def getAuthorList():
     nameDict = {}
-    with open(fileName, "r") as file:
+    with open(fileName, "r", encoding="utf8") as file:
         for line in file:
             nameMatched = re.match(r'^- \[(.*)\]\((.*)\)', line, re.UNICODE) #Find only the blog links
             if nameMatched:
@@ -30,7 +30,7 @@ def getAuthorList():
 
 
 def writeToFile(sortedNames):
-    with open(fileName, "w") as file:
+    with open(fileName, "w", encoding="utf8") as file:
         file.write(headerStub)
 
         for k, v in sortedNames.items():
