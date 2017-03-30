@@ -31,9 +31,13 @@
 * [সাফিক্স এ্যারে(Suffix Array)](https://tanvir002700.wordpress.com/2015/01/13/suffix-array/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
 * [হ্যাশটেবিল (Hashtable)](http://ami-alavola.rhcloud.com/?p=198) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [লিংকড লিস্ট](http://binaryrongo.anindyaspaul.com/2013/06/07/linked-list/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+* [লিংকড লিস্ট – সি](http://shoshikkha.com/archives/1914) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [ডাবলি লিংকড লিস্ট](http://shoshikkha.com/archives/3290) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [স্ট্যাক – অ্যারে ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3321) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [স্ট্যাক – লিংকড লিস্ট ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3521) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Segment tree/ BIT part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/segment-tree-bit-part-1_21.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
@@ -42,6 +46,7 @@
 #### ম্যাথ ও নাম্বার থিওরী
 * [ন্যূনতম সংখ্যাতত্ত্ব](http://www.progkriya.org/gyan/basic-number-theory.html)  - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
 * [প্রাইম জেনারেটর (Sieve of Eratosthenes)](http://www.shafaetsplanet.com/planetcoding/?p=624) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [প্রাইম জেনারেশন – সিভ অব ERATOSTHENES](http://shoshikkha.com/archives/2332) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 * [মডুলার অ্যারিথমেটিক](http://www.shafaetsplanet.com/planetcoding/?p=936) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [বিটওয়াইজ সিভ](http://www.shafaetsplanet.com/planetcoding/?p=855) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [ডিরেঞ্জমেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=600) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -58,6 +63,12 @@
 * [Probability & Expected value](http://shakilcompetitiveprogramming.blogspot.nl/2015/08/probability-expected-value-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [Modular Multiplicative Inverse](https://mukitmkbs.wordpress.com/2014/10/01/modular-multiplicative-inverse/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
 * [Big Mod](https://mukitmkbs.wordpress.com/2014/09/30/big-mod/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
+* [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ](http://shoshikkha.com/archives/3487) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+* [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ – রিটার্নস!](http://shoshikkha.com/archives/3510) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+* [সংখ্যাকে পেটানো! ( বিভাজক নির্ণয় )](http://shoshikkha.com/archives/1069) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+* [রিকার্শনের মাধ্যমে মডুলার এক্সপনেন্সিয়েশন!](http://shoshikkha.com/archives/29) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [Ф ফাংশন (EULER’S PHI FUNCTION) – TOTIENT ফাংশন](http://shoshikkha.com/archives/1472) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [” ফাস্ট ” এক্সপনেনসিয়েশন!](http://shoshikkha.com/archives/4356) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 
 
 #### গ্রাফ থিওরী
@@ -116,12 +127,15 @@
 * [DP on Tree](http://shakilcompetitiveprogramming.blogspot.nl/2016/06/dp-on-tree.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * Dynamic Programming [1](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-1.html), [2](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-2.html), [3](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-part-3.html), [4](http://shakilcompetitiveprogramming.blogspot.com/2016/03/dp-part-4.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [DP trick - Knuth's optimization](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-tricks-knuths-optimization.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং](http://shoshikkha.com/archives/4182) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+* [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং – ২](http://shoshikkha.com/archives/4240) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 
 
 #### সর্টিং
 * [যন্ত্র গণকের যন্তর মন্তর - ৩](http://bongobani.blogspot.com/2010/06/blog-post_1625.html) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
 * [বাবল সর্ট](http://binaryrongo.anindyaspaul.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+* [সর্ট!! পর্ব – ১](http://shoshikkha.com/archives/4022) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 
 #### সার্চিং
 * [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -131,6 +145,8 @@
 * [হিউরিস্টিক সার্চ](http://potasiyam.com/farsan/heuristic%20search/heuristic%20search.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [Painless Binary Search](http://www.abuasifkhan.me/painless-binary-search.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Binary Search part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2014/09/binary-search-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [বাইনারি সার্চঃ ১ম পর্ব](http://shoshikkha.com/archives/116) - [মেসবাহ তানভীর](https://www.facebook.com/mesba.tanvir)
+* [TERNARY SEARCH](http://shoshikkha.com/archives/4332) - [রেদওয়ান আহমেদ]()
 
 
 #### গ্রীডি মেথড
@@ -143,6 +159,7 @@
 * [ব্যকট্র্যাকিং বেসিক এবং পারমুটেশন জেনারেটর](http://www.shafaetsplanet.com/planetcoding/?p=1266) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [টাওয়ার অফ হ্যানয়](http://subeen.com/%E0%A6%9F%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AB-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%9F/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [Backtrack & N Queen](http://shakilcompetitiveprogramming.blogspot.nl/2015/05/backtrack-n-queen.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [ইনক্লুশন এক্সক্লুশন – রিকার্শন](http://shoshikkha.com/archives/2143) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 
 #### স্ট্রিং এলগোরিদম
 * [KMP (Knuth-Morris-Pratt algorithm)](https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
@@ -180,6 +197,9 @@
 * হ্যাশ ফাংশন [1](http://www.bazlur.com/2016/11/blog-post_20.html), [2](http://www.bazlur.com/2016/11/blog-post_21.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [ফ্লো চার্ট (Flow Chart)](http://subeen.com/%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A7%8B-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F-flow-chart/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [Minimum Expression](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/minimum-expression.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [বিটওয়াইজ অপারেটর নিয়ে খেলা](http://shoshikkha.com/archives/2017) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [বিটওয়াইজ অপারেটর – THE POWER HOUSE!](http://shoshikkha.com/archives/2021) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+* [শূণ্য এবং একের গল্প পর্ব এক – বুলিয়ান এলজেব্রা নিয়ে প্রাথমিক আলোচনা](http://shoshikkha.com/archives/4437) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 
 
 ---
