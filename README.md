@@ -382,6 +382,14 @@
 * [ওয়েব সার্ভার স্কেলিং](http://apikothon.com/category/%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%82-%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
 * [ভার্টিক্যাল ও হরাইজনটাল স্কেলিং](http://subeen.com/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%93-%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%A8%E0%A6%9F%E0%A6%BE%E0%A6%B2/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
+
+#### ক্রিপ্টোগ্রাফি
+* [ক্রিপ্টোগ্রাফি পর্ব ১: বেসিক কিছু টার্ম](http://shoshikkha.com/archives/723) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [ক্রিপ্টোগ্রাফি পর্ব ২.১: ক্লাসিকাল সাইফার : ট্রান্সপজিশন](http://shoshikkha.com/archives/899) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [ক্রিপ্টোগ্রাফি পর্ব ২.২: ক্লাসিকাল সাইফার – সাবস্টিটিউশন](http://shoshikkha.com/archives/1250) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [ক্রিপ্টোগ্রাফি পর্ব ২.৩: ভিজনেয়ার সাইফার](http://shoshikkha.com/archives/4520) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+
+
 #### অন্যান্য
 * [সফটওয়্যার ডেভেলপমেন্টের ক্লাসিক ভুলগুলো](http://software-engineering-notes-in-bangla.blogspot.com/2015/12/blog-post.html) -  [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [প্রোগ্রামিংয়ের সাধারণ ভুলগুলো](http://ami-alavola.rhcloud.com/?p=142) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
