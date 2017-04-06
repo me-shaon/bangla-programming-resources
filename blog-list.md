@@ -44,4 +44,5 @@
 - [সাদমান সাকিব](http://shoshikkha.com/)
 - [স্বশিক্ষা]((http://shoshikkha.com/)
 - [স্বাগত প্রতীক](https://thehoneymad.wordpress.com/)
+- [হাসান আবদুল্লাহ](http://hellohasan.com/)
 - [হাসিন হায়দার](https://hasin.me/)
