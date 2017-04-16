@@ -411,21 +411,18 @@
 * [কোয়ান্টাম কম্পিউটার কী?](http://www.shafaetsplanet.com/planetcoding/?p=2130) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [কোয়ান্টাম কম্পিউটারের শক্তি এবং সীমাবদ্ধতা](http://www.shafaetsplanet.com/planetcoding/?p=2135) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [জাভা- সকেট প্রোগ্রামিং](http://blog.sakib.ninja/2015/05/java-socket-programming.html) - [সাকিব সামি](https://www.facebook.com/s4kibs4mi)
-* [সফটওয়্যার ইন্ডাস্ট্রিতে আসার আগে](http://subeen.com/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * বিগ ইন্টিজার [১](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A7/), [২](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A8/), [৩](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%A9/), [৪](http://subeen.com/%E0%A6%AC%E0%A6%BF%E0%A6%97-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%AA/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং](http://subeen.com/%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%9C-%E0%A6%AA%E0%A7%8D/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [ট্যুরিং টেস্ট – মানুষ বনাম কম্পিউটার](http://subeen.com/%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%82-%E0%A6%9F%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
-* [মিউটেবল (mutable) এবং ইমিউটেবল (immutable)](https://ami-alavola.rhcloud.com/?p=287) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [বাইটকোড ইন্সট্রুমেন্টেশন (Bytecode instrumentation) এবং এর ব্যবহার](http://software-engineering-notes-in-bangla.blogspot.com/2016/11/bytecode-instrumentation.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-* [সফটওয়্যার ইন্ডাস্ট্রিতে আসার আগে](http://subeen.com/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [জাভা প্রোগ্রামিং ল্যাংগুয়েজ তৈরির পেছনের গল্প](http://www.bazlur.com/2017/01/blog-post_25.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [প্রোগ্রামিং প্যারাডাইম](http://www.bazlur.com/2017/01/blog-post.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [Agile and Scrum](http://www.bazlur.com/2017/01/agile-and-scrum.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [Act with Prudence](http://www.bazlur.com/2017/01/act-with-prudence.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [সোজা বাংলায় ৩ মিনিটে OAuth!](http://www.adhikary.net/post/oauth-bengali/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [OAUTH- (ওঅথ) অথেনটিকেশন কি , কিভাবে কাজ করে ?](http://backdoorweb.com/oauth-%E0%A6%93%E0%A6%85%E0%A6%A5-%E0%A6%85%E0%A6%A5%E0%A7%87%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A6%BF-%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87/) - [ওসমান গনী নাহিদ](https://www.facebook.com/nahidcool1994)
-* [প্রোগ্রামিংয়ের টুকিটাকি -১ঃ মিউটেবল (mutable) এবং ইমিউটেবল (immutable)](http://ami-alavola.rhcloud.com/?p=287) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [প্রোগ্রামিংয়ের টুকিটাকি -২ঃ টাইপ সিস্টেম (Type System)](http://ami-alavola.rhcloud.com/?p=297) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [মিউটেবল (mutable) এবং ইমিউটেবল (immutable)](http://ami-alavola.rhcloud.com/?p=287) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [টাইপ সিস্টেম (Type System)](http://ami-alavola.rhcloud.com/?p=297) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 
 ---
 
@@ -491,3 +488,4 @@
 * [প্রোগ্রামিং ইন্টারভিউঃ কোডিং](http://subeen.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%AD%E0%A6%BF%E0%A6%89%E0%A6%83/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [Coding Interview question](http://shakilcompetitiveprogramming.blogspot.nl/2016/03/coding-interview-question-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [কীভাবে ভাল প্রোগ্রামার হওয়া যায়](http://www.bazlur.com/2016/11/blog-post.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
+* [সফটওয়্যার ইন্ডাস্ট্রিতে আসার আগে](http://subeen.com/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
