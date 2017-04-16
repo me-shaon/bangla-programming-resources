@@ -489,3 +489,4 @@
 * [Coding Interview question](http://shakilcompetitiveprogramming.blogspot.nl/2016/03/coding-interview-question-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [কীভাবে ভাল প্রোগ্রামার হওয়া যায়](http://www.bazlur.com/2016/11/blog-post.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [সফটওয়্যার ইন্ডাস্ট্রিতে আসার আগে](http://subeen.com/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+* [সিস্টেম ডিজাইনের উপর সম্ভাব্য ইন্টারভিউ প্রশ্নের জন্য যেভাবে প্রিপারেশন নিতে পারেন](http://software-engineering-notes-in-bangla.blogspot.com/2017/04/blog-post.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
