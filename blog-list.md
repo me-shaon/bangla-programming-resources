@@ -14,6 +14,7 @@
 - [আবু আসিফ খান চৌধুরী](http://www.abuasifkhan.me/)
 - [আলাভোলা](http://ami-alavola.rhcloud.com/)
 - [আহমাদ ফাইয়াজ](http://blog.faiyaz.info/)
+- [আহমেদ শামীম হাসান](http://iamshaon.com/)
 - [ইকরাম মাহমুদ](https://sites.google.com/site/smilitude/)
 - [ইকরাম হোসাইন](http://apikothon.com/)
 - [ইশতিয়াক হোসাইন](http://software-engineering-notes-in-bangla.blogspot.com/)

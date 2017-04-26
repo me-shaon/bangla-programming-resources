@@ -346,7 +346,7 @@
 
 ---
 
-### ভার্সন কন্ট্রোল সিস্টেম(গিট)
+### ভার্সন কন্ট্রোল সিস্টেম (GIT)
 * [গিট সম্পর্কে ধারণা, গিট ইন্সটল, ব্যবহার এবং গিটহাব এ একটা প্রজেক্ট পুশ করা](http://tech.jakir.me/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%93-%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE/) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [ভার্সন কন্ট্রোল সিস্টেম](http://software-engineering-notes-in-bangla.blogspot.com/2015/06/blog-post.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [ডেভেলপমেন্টের সময় গিট ব্যবহারের সহজ ওয়ার্ক-ফ্লো](https://hasin.me/2014/05/13/git-workflow-in-bangla/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
@@ -356,6 +356,7 @@
 * [গিট টিউটরিয়াল](http://tuts.nanodesignsbd.com/category/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%9F%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B2/) - [মাঈনুল ইসলাম](https://www.facebook.com/mayeenulislam)
 * [কিভাবে গিটহাবে প্রোজেক্ট রিলিয করতে হয়](http://tuts.nanodesignsbd.com/releasing-github-project/) - [মাঈনুল ইসলাম](https://www.facebook.com/mayeenulislam)
 * [গিট ও গিটহাব](http://subeen.com/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%93-%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+- [গিটহাবে ওপেনসোর্স প্রজেক্টে কন্ট্রিবিউশনের সহজ ওয়ার্কফ্লো](https://medium.com/@me_shaon/%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%93%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%89%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A7%8B-1a2d8b107391) - [আহমেদ শামীম হাসান](https://www.facebook.com/ahmed.shamim.hassan)
 
 
 ---
