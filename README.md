@@ -424,6 +424,8 @@
 * [OAUTH- (ওঅথ) অথেনটিকেশন কি , কিভাবে কাজ করে ?](http://backdoorweb.com/oauth-%E0%A6%93%E0%A6%85%E0%A6%A5-%E0%A6%85%E0%A6%A5%E0%A7%87%E0%A6%A8%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A6%BF-%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87/) - [ওসমান গনী নাহিদ](https://www.facebook.com/nahidcool1994)
 * [মিউটেবল (mutable) এবং ইমিউটেবল (immutable)](http://ami-alavola.rhcloud.com/?p=287) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [টাইপ সিস্টেম (Type System)](http://ami-alavola.rhcloud.com/?p=297) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [রেগুলার এক্সপ্রেশন -এ শুরু](http://samirdas.com/regular-expression-start/) - [সামির দাস](https://www.facebook.com/cse.samir)
+* [রেগুলার এক্সপ্রেশন -এ শেষ](http://samirdas.com/regular-expression-end/) - [সামির দাস](https://www.facebook.com/cse.samir)
 
 ---
 
