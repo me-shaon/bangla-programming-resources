@@ -74,6 +74,7 @@
 * [রিকার্শনের মাধ্যমে মডুলার এক্সপনেন্সিয়েশন!](http://shoshikkha.com/archives/29) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [Ф ফাংশন (EULER’S PHI FUNCTION) – TOTIENT ফাংশন](http://shoshikkha.com/archives/1472) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [” ফাস্ট ” এক্সপনেনসিয়েশন!](http://shoshikkha.com/archives/4356) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+* [মিলার রবিন প্রাইমালিটি টেস্ট](http://blog.sdturja.com/millerrabin/) - [সীমান্ত দেব তূর্য](https://www.facebook.com/SD.Turja)
 
 
 #### গ্রাফ থিওরী
