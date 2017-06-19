@@ -73,32 +73,44 @@
 
 
 #### ম্যাথ ও নাম্বার থিওরী
+
+* প্রাইম নাম্বার (Prime Number)
+    * [প্রাইম জেনারেটর (Sieve of Eratosthenes)](http://www.shafaetsplanet.com/planetcoding/?p=624) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [প্রাইম জেনারেশন – সিভ অব ERATOSTHENES](http://shoshikkha.com/archives/2332) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+    * [বিটওয়াইজ সিভ](http://www.shafaetsplanet.com/planetcoding/?p=855) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](http://binaryrongo.anindyaspaul.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+    * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+    * [মিলার রবিন প্রাইমালিটি টেস্ট](http://blog.sdturja.com/millerrabin/) - [সীমান্ত দেব তূর্য](https://www.facebook.com/SD.Turja)
+
+* মডুলার অ্যারিথমেটিক (Modular Arithmetic)
+    * [মডুলার অ্যারিথমেটিক](http://www.shafaetsplanet.com/planetcoding/?p=936) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [Modular Multiplicative Inverse](https://mukitmkbs.wordpress.com/2014/10/01/modular-multiplicative-inverse/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
+    * [Big Mod](https://mukitmkbs.wordpress.com/2014/09/30/big-mod/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
+    * [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ](http://shoshikkha.com/archives/3487) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+    * [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ – রিটার্নস!](http://shoshikkha.com/archives/3510) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+    * [সংখ্যাকে পেটানো! ( বিভাজক নির্ণয় )](http://shoshikkha.com/archives/1069) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+    * [রিকার্শনের মাধ্যমে মডুলার এক্সপনেন্সিয়েশন!](http://shoshikkha.com/archives/29) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+
+* কম্বিনেটরিক্স (Combinatorics)
+    * বিন্যাস করা যাক [1](http://www.abuasifkhan.me/permutation1.html), [2](http://www.abuasifkhan.me/permutation2.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+    * [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+    * [ডিরেঞ্জমেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=600) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [” ফাস্ট ” এক্সপনেনসিয়েশন!](http://shoshikkha.com/archives/4356) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+
+* ইউক্লিডিয়ান এলগোরিদম (Euclidean Algorithm)
+    * [ইউক্লিডিয়ান অ্যালগরিদম](http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
+    * [খাতা-কলমে Extended Euclid Method](http://www.abuasifkhan.me/extended-euclid-method.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+    * [Extended Euclidean Algorithm এবং একটুখানি Modular Multiplicative Inverse](http://www.abuasifkhan.me/extended-euclidean-algorithm.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+
+* প্রোবাবিলিটি (Probability)
+    * [প্রোবাবিলিটি: এক্সপেক্টেড ভ্যালু](http://www.shafaetsplanet.com/planetcoding/?p=3060) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [Probability & Expected value](http://shakilcompetitiveprogramming.blogspot.nl/2015/08/probability-expected-value-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+
+
 * [ন্যূনতম সংখ্যাতত্ত্ব](http://www.progkriya.org/gyan/basic-number-theory.html)  - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-* [প্রাইম জেনারেটর (Sieve of Eratosthenes)](http://www.shafaetsplanet.com/planetcoding/?p=624) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [প্রাইম জেনারেশন – সিভ অব ERATOSTHENES](http://shoshikkha.com/archives/2332) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-* [মডুলার অ্যারিথমেটিক](http://www.shafaetsplanet.com/planetcoding/?p=936) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [বিটওয়াইজ সিভ](http://www.shafaetsplanet.com/planetcoding/?p=855) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ডিরেঞ্জমেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=600) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [গসিয়ান এলিমিনেশন এর দ্বারা লিনিয়ার ইকুয়েশন সল্ভিং](https://sketchingdream.wordpress.com/gauss/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
-* [ইউক্লিডিয়ান অ্যালগরিদম](http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
-* [খাতা-কলমে Extended Euclid Method](http://www.abuasifkhan.me/extended-euclid-method.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-* [Extended Euclidean Algorithm এবং একটুখানি Modular Multiplicative Inverse](http://www.abuasifkhan.me/extended-euclidean-algorithm.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-* [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](http://binaryrongo.anindyaspaul.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-* [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-* বিন্যাস করা যাক [1](http://www.abuasifkhan.me/permutation1.html), [2](http://www.abuasifkhan.me/permutation2.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Chinese Remainder Theorem](http://www.abuasifkhan.me/chinese-remainder-theorem.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-* [প্রোবাবিলিটি: এক্সপেক্টেড ভ্যালু](http://www.shafaetsplanet.com/planetcoding/?p=3060) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [Probability & Expected value](http://shakilcompetitiveprogramming.blogspot.nl/2015/08/probability-expected-value-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [Modular Multiplicative Inverse](https://mukitmkbs.wordpress.com/2014/10/01/modular-multiplicative-inverse/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
-* [Big Mod](https://mukitmkbs.wordpress.com/2014/09/30/big-mod/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
-* [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ](http://shoshikkha.com/archives/3487) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-* [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ – রিটার্নস!](http://shoshikkha.com/archives/3510) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-* [সংখ্যাকে পেটানো! ( বিভাজক নির্ণয় )](http://shoshikkha.com/archives/1069) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-* [রিকার্শনের মাধ্যমে মডুলার এক্সপনেন্সিয়েশন!](http://shoshikkha.com/archives/29) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [Ф ফাংশন (EULER’S PHI FUNCTION) – TOTIENT ফাংশন](http://shoshikkha.com/archives/1472) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-* [” ফাস্ট ” এক্সপনেনসিয়েশন!](http://shoshikkha.com/archives/4356) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-* [মিলার রবিন প্রাইমালিটি টেস্ট](http://blog.sdturja.com/millerrabin/) - [সীমান্ত দেব তূর্য](https://www.facebook.com/SD.Turja)
 
 
 #### গ্রাফ থিওরী
