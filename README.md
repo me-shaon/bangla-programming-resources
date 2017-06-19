@@ -15,37 +15,61 @@
 * [কমপ্লেক্সিটি ক্লাস(P-NP, টুরিং মেশিন ইত্যাদি)](http://www.shafaetsplanet.com/planetcoding/?p=1642) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 #### ডাটা স্ট্রাকচার
-* [লিংকড লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=2689) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [স্ট্যাক](http://www.shafaetsplanet.com/planetcoding/?p=2342) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ডিসজয়েন্ট সেট(ইউনিয়ন ফাইন্ড)](http://www.shafaetsplanet.com/planetcoding/?p=763) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [অ্যারে ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/array) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-* [স্ট্যাক ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/stack) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-* [কিউ ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/queue) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-* [লিংকড লিস্ট ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/linked-list) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-* [বাইনারি সার্চ ট্রি](http://hellohasan.com/category/data-structure/tree/binary-search-tree-bst) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-* [ট্রাই(প্রিফিক্স ট্রি/রেডিক্স ট্রি)](http://www.shafaetsplanet.com/planetcoding/?p=1679) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [সেগমেন্ট ট্রি-১](http://www.shafaetsplanet.com/planetcoding/?p=1557) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [সেগমেন্ট ট্রি-২(লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/planetcoding/?p=1591) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [অ্যারে কমপ্রেশন/ম্যাপিং](http://www.shafaetsplanet.com/planetcoding/?p=1388) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [লোয়েস্ট কমন অ্যানসেস্টর](http://www.shafaetsplanet.com/planetcoding/?p=1831) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [বাইনারি ইনডেক্সড ট্রি](http://www.shafaetsplanet.com/planetcoding/?p=1961) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ট্রাই ট্রি ( Trie Tree )](http://blog.faiyaz.info/%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%87-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-trie-tree/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
-* [স্ট্যাক বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%95-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
-* [কিউ বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%95%e0%a6%bf%e0%a6%89-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
-* [স্পার্স টেবিল (Sparse Table)](https://tanvir002700.wordpress.com/2015/05/27/sparse-table/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
-* [সাফিক্স এ্যারে(Suffix Array)](https://tanvir002700.wordpress.com/2015/01/13/suffix-array/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
-* [হ্যাশটেবিল (Hashtable)](http://ami-alavola.rhcloud.com/?p=198) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [লিংকড লিস্ট](http://binaryrongo.anindyaspaul.com/2013/06/07/linked-list/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-* [লিংকড লিস্ট – সি](http://shoshikkha.com/archives/1914) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-* [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [ডাবলি লিংকড লিস্ট](http://shoshikkha.com/archives/3290) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-* [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [স্ট্যাক – অ্যারে ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3321) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-* [স্ট্যাক – লিংকড লিস্ট ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3521) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-* [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-* [Segment tree/ BIT part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/segment-tree-bit-part-1_21.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+
+* অ্যাারে (Array)
+    * [অ্যারে ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/array) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    * [অ্যারে কমপ্রেশন/ম্যাপিং](http://www.shafaetsplanet.com/planetcoding/?p=1388) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* লিংকড লিস্ট (Linked List)
+    * [লিংকড লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=2689) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [লিংকড লিস্ট ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/linked-list) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    * [লিংকড লিস্ট](http://binaryrongo.anindyaspaul.com/2013/06/07/linked-list/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+    * [লিংকড লিস্ট – সি](http://shoshikkha.com/archives/1914) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+    * [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+    * [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+    * [ডাবলি লিংকড লিস্ট](http://shoshikkha.com/archives/3290) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+
+* স্ট্যাক (Stack)
+    * [স্ট্যাক](http://www.shafaetsplanet.com/planetcoding/?p=2342) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [স্ট্যাক ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/stack) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    * [স্ট্যাক বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%95-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
+    * [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+    * [স্ট্যাক – অ্যারে ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3321) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+    * [স্ট্যাক – লিংকড লিস্ট ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3521) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+
+* কিউ (Queue)
+    * [কিউ ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/queue) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    * [কিউ বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%95%e0%a6%bf%e0%a6%89-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
+    * [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+    * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+
+* বাইনারী সার্চ ট্রি (Binary Search Tree)
+    * [বাইনারি সার্চ ট্রি](http://hellohasan.com/category/data-structure/tree/binary-search-tree-bst) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+
+* হ্যাশটেবিল (HashTable)
+    * [হ্যাশটেবিল (Hashtable)](http://ami-alavola.rhcloud.com/?p=198) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+
+* ডিসজয়েন্ট সেট (Disjoind Set)
+    * [ডিসজয়েন্ট সেট(ইউনিয়ন ফাইন্ড)](http://www.shafaetsplanet.com/planetcoding/?p=763) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* ট্রাই ট্রি (Trie)
+    * [ট্রাই(প্রিফিক্স ট্রি/রেডিক্স ট্রি)](http://www.shafaetsplanet.com/planetcoding/?p=1679) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [ট্রাই ট্রি ( Trie Tree )](http://blog.faiyaz.info/%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%87-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-trie-tree/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
+
+* সেগমেন্ট ট্রি (Segment Tree)
+    * [সেগমেন্ট ট্রি-১](http://www.shafaetsplanet.com/planetcoding/?p=1557) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [সেগমেন্ট ট্রি-২(লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/planetcoding/?p=1591) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [Segment tree/ BIT part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/segment-tree-bit-part-1_21.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+    * [লোয়েস্ট কমন অ্যানসেস্টর](http://www.shafaetsplanet.com/planetcoding/?p=1831) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* বাইনারি ইনডেক্সড ট্রি (Binary Indexed Tree)
+    * [বাইনারি ইনডেক্সড ট্রি](http://www.shafaetsplanet.com/planetcoding/?p=1961) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* সাফিক্স এ্যারে(Suffix Array)
+    * [সাফিক্স এ্যারে(Suffix Array)](https://tanvir002700.wordpress.com/2015/01/13/suffix-array/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
+
+* স্পার্স টেবিল (Sparse Table)
+    * [স্পার্স টেবিল (Sparse Table)](https://tanvir002700.wordpress.com/2015/05/27/sparse-table/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
 
 
 #### ম্যাথ ও নাম্বার থিওরী
