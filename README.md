@@ -54,6 +54,7 @@
 
 * ডিসজয়েন্ট সেট (Disjoind Set)
     * [ডিসজয়েন্ট সেট(ইউনিয়ন ফাইন্ড)](http://www.shafaetsplanet.com/planetcoding/?p=763) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [Union Find Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2014/01/union-find-algorithm-union-find.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 * ট্রাই ট্রি (Trie)
     * [ট্রাই(প্রিফিক্স ট্রি/রেডিক্স ট্রি)](http://www.shafaetsplanet.com/planetcoding/?p=1679) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -117,41 +118,56 @@
 
 
 ### গ্রাফ থিওরী
-* [গ্রাফ থিওরী - শর্টেস্ট পাথ প্রবলেম](http://www.progkriya.org/gyan/shortest-path.html) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-* [শর্টেস্ট পাথ - প্রবলেম নিয়ে বকর বকর](https://sites.google.com/site/smilitude/shortestpath_problems) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-* [শর্টেস্ট পাথের অ্যালগরিদম](https://sites.google.com/site/smilitude/shortestpath) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-* [অ্যাডজেসেন্সি লিস্ট ট্রিক](http://www.progkriya.org/gyan/adj-list-trick.html) - [মীর ওয়াসি আহমেদ](https://www.facebook.com/mirwasi)
-* [টপোলজিক্যাল সর্ট](https://sites.google.com/site/smilitude/topsort) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-* [গ্রাফ থিওরিতে হাতেখড়ি](http://www.shafaetsplanet.com/planetcoding/?p=143) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [অ্যাডজেসেন্সি ম্যাট্রিক্স](http://www.shafaetsplanet.com/planetcoding/?p=184) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [অ্যাডজেসেন্সি লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ব্রেথড ফার্স্ট সার্চ (বিএফএস)](http://www.shafaetsplanet.com/planetcoding/?p=604) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [মিনিমাম স্প্যানিং ট্রি ১ (প্রিমস অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=692) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [মিনিমাম স্প্যানিং ট্রি ২ (ক্রুসকাল অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=825) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [টপোলজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=848) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ডেপথ ফার্স্ট সার্চ এবং আবারো টপোলোজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=973) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ফ্লাড ফিল অ্যালগরিদম](http://hellohasan.com/2016/08/21/%e0%a6%ab%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%a1-%e0%a6%ab%e0%a6%bf%e0%a6%b2-flood-fill-algorithm-bengali) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-* [ডায়াক্সট্রা](http://www.shafaetsplanet.com/planetcoding/?p=1500) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ফ্লয়েড ওয়ার্শল](http://www.shafaetsplanet.com/planetcoding/?p=1927) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [বেলম্যান ফোর্ড](http://www.shafaetsplanet.com/planetcoding/?p=2044) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [আর্টিকুলেশন পয়েন্ট এবং ব্রীজ](http://www.shafaetsplanet.com/planetcoding/?p=2504) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [স্ট্রংলি কানেক্টেড কম্পোনেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=2531) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ম্যাক্সিমাম ফ্লো-১ ](http://www.shafaetsplanet.com/planetcoding/?p=2195) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ম্যাক্সিমাম ফ্লো-২ ](http://www.shafaetsplanet.com/planetcoding/?p=2231) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* গ্রাফ থিওরি ব্যাসিক
+  * [গ্রাফ থিওরিতে হাতেখড়ি](http://www.shafaetsplanet.com/planetcoding/?p=143) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [অ্যাডজেসেন্সি ম্যাট্রিক্স](http://www.shafaetsplanet.com/planetcoding/?p=184) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [অ্যাডজেসেন্সি লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [অ্যাডজেসেন্সি লিস্ট ট্রিক](http://www.progkriya.org/gyan/adj-list-trick.html) - [মীর ওয়াসি আহমেদ](https://www.facebook.com/mirwasi)
+
+* ব্রেথড ফার্স্ট সার্চ-বিএফএস (Breadth First Search-BFS)
+  * [ব্রেথড ফার্স্ট সার্চ (বিএফএস)](http://www.shafaetsplanet.com/planetcoding/?p=604) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [ট্রি এর ডায়ামিটার নির্ণয়](http://www.shafaetsplanet.com/planetcoding/?p=521) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [0/1 BFS](http://shakilcompetitiveprogramming.blogspot.nl/2016/05/01-bfs.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+  * [BFS/DFS part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/bfsdfs-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+
+* ডেপথ ফার্স্ট সার্চ-ডিএফএস (Depth First Search-DFS)
+  * [ডেপথ ফার্স্ট সার্চ এবং আবারো টপোলোজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=973) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [ফ্লাড ফিল অ্যালগরিদম](http://hellohasan.com/2016/08/21/%e0%a6%ab%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%a1-%e0%a6%ab%e0%a6%bf%e0%a6%b2-flood-fill-algorithm-bengali) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  * [টপোলজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=848) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [টপোলজিক্যাল সর্ট](https://sites.google.com/site/smilitude/topsort) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
+
+* গ্রাফ থিওরী - শর্টেস্ট পাথ (Shortest Path Finding)
+  * [গ্রাফ থিওরী - শর্টেস্ট পাথ প্রবলেম](http://www.progkriya.org/gyan/shortest-path.html) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
+  * [শর্টেস্ট পাথ - প্রবলেম নিয়ে বকর বকর](https://sites.google.com/site/smilitude/shortestpath_problems) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
+  * [শর্টেস্ট পাথের অ্যালগরিদম](https://sites.google.com/site/smilitude/shortestpath) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
+  * [ডায়াক্সট্রা](http://www.shafaetsplanet.com/planetcoding/?p=1500) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [ফ্লয়েড ওয়ার্শল](http://www.shafaetsplanet.com/planetcoding/?p=1927) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [বেলম্যান ফোর্ড](http://www.shafaetsplanet.com/planetcoding/?p=2044) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* মিনিমাম স্প্যানিং ট্রি (Minimum Spanning Tree)
+  * [মিনিমাম স্প্যানিং ট্রি ১ (প্রিমস অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=692) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [মিনিমাম স্প্যানিং ট্রি ২ (ক্রুসকাল অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=825) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট (Bi-connected Component, Bridge, Articulation Point)
+  * [আর্টিকুলেশন পয়েন্ট এবং ব্রীজ](http://www.shafaetsplanet.com/planetcoding/?p=2504) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট (থিওরী)](http://blog.faiyaz.info/bcc/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
+  * [আর্টিকুলেশন পয়েন্ট](https://sketchingdream.wordpress.com/as-artpoint/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
+
+* স্ট্রংলি কানেক্টেড কম্পোনেন্ট (Strongly Connected Component)
+  * [স্ট্রংলি কানেক্টেড কম্পোনেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=2531) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [স্ট্রংলি কানেক্টেড কম্পোনেন্ট](http://potasiyam.com/farsan/strongly%20connected%20component/scc.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+
+* নেটওয়ার্ক ফ্লো এলগোরিদম (Network Flow Algorithm)
+  * [ম্যাক্সিমাম ফ্লো-১ ](http://www.shafaetsplanet.com/planetcoding/?p=2195) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [ম্যাক্সিমাম ফ্লো-২ ](http://www.shafaetsplanet.com/planetcoding/?p=2231) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
 * [স্টেবল ম্যারেজ প্রবলেম](http://www.shafaetsplanet.com/planetcoding/?p=1187) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [মিনিমাম ভারটেক্স কভার](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ট্রি এর ডায়ামিটার নির্ণয়](http://www.shafaetsplanet.com/planetcoding/?p=521) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট (থিওরী)](http://blog.faiyaz.info/bcc/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
-* [আর্টিকুলেশন পয়েন্ট](https://sketchingdream.wordpress.com/as-artpoint/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
-* [হাভেল হাকিমি এলগোরিদম](http://potasiyam.com/farsan/havel%20hakimi/havel%20hakimi.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
-* [স্ট্রংলি কানেক্টেড কম্পোনেন্ট](http://potasiyam.com/farsan/strongly%20connected%20component/scc.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
-* [2-SAT](http://potasiyam.com/farsan/2sat/2sat.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
-* [0/1 BFS](http://shakilcompetitiveprogramming.blogspot.nl/2016/05/01-bfs.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [BFS/DFS part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/bfsdfs-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [2-SAT](http://shakilcompetitiveprogramming.blogspot.nl/2014/08/blog-post.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [Union Find Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2014/01/union-find-algorithm-union-find.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [MinMax algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2013/12/minmax-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [Maximum Bipartite Matching by Kuhn’s Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2013/12/maximum-bipartite-matching-by-kuhns.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [হাভেল হাকিমি এলগোরিদম](http://potasiyam.com/farsan/havel%20hakimi/havel%20hakimi.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [2-SAT](http://potasiyam.com/farsan/2sat/2sat.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+* [2-SAT](http://shakilcompetitiveprogramming.blogspot.nl/2014/08/blog-post.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 
 ### ডাইনামিক প্রোগ্রামিং
@@ -229,6 +245,7 @@
 * [অ্যালগোরিদম গেম থিওরি ৩ (স্প্র্যাগ-গ্রান্ডি সংখ্যা)](http://www.shafaetsplanet.com/planetcoding/?p=2714) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [গেম থিওরী](http://potasiyam.com/farsan/game%20theory/game%20theory.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [Game Theory ( Sprague Grundy Theorem )](http://shakilcompetitiveprogramming.blogspot.nl/2014/09/game-theory-sprague-grundy-theorem.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [MinMax algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2013/12/minmax-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 ### অন্যান্য
 * [ম্যাট্রিক্স এক্সপোনেনসিয়েশন](http://www.progkriya.org/gyan/matrix-expo.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
