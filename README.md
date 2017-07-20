@@ -162,6 +162,7 @@
   * [ম্যাক্সিমাম ফ্লো-১ ](http://www.shafaetsplanet.com/planetcoding/?p=2195) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [ম্যাক্সিমাম ফ্লো-২ ](http://www.shafaetsplanet.com/planetcoding/?p=2231) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
+
 * [স্টেবল ম্যারেজ প্রবলেম](http://www.shafaetsplanet.com/planetcoding/?p=1187) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [মিনিমাম ভারটেক্স কভার](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [Maximum Bipartite Matching by Kuhn’s Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2013/12/maximum-bipartite-matching-by-kuhns.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
@@ -171,20 +172,32 @@
 
 
 ### ডাইনামিক প্রোগ্রামিং
-* [রিকার্শন, সার্চিং এবং ডাইনামিক প্রোগ্রামিং](https://sites.google.com/site/smilitude/recursion_and_dp) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-* [ডাইনামিক প্রোগ্রামিং-শুরুর কথা](http://www.shafaetsplanet.com/planetcoding/?p=1022) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ডিপি 'স্টেট', NcR, ০-১ ন্যাপস্যাক](http://www.shafaetsplanet.com/planetcoding/?p=1072) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [কয়েন চেঞ্জ, রক ক্লাইম্বিং](http://www.shafaetsplanet.com/planetcoding/?p=1158) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ডিপি সলিউশন প্রিন্ট করা এবং LIS](http://www.shafaetsplanet.com/planetcoding/?p=1211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* ডাইনামিক প্রোগ্রামিং ব্যাসিক
+    -  [রিকার্শন, সার্চিং এবং ডাইনামিক প্রোগ্রামিং](https://sites.google.com/site/smilitude/recursion_and_dp) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
+    - [ডাইনামিক প্রোগ্রামিং-শুরুর কথা](http://www.shafaetsplanet.com/planetcoding/?p=1022) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* কয়েন চেঞ্জ (Coin Change)
+    - [ কয়েন চেঞ্জ](https://sites.google.com/site/programinggconcept/algorithm)
+    - [কয়েন চেঞ্জ, রক ক্লাইম্বিং](http://www.shafaetsplanet.com/planetcoding/?p=1158) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* লংগেস্ট কমন সাবসিকোয়েন্স (LCS)
+    - [লংগেস্ট কমন সাবসিকোয়েন্স(LCS)](http://www.shafaetsplanet.com/planetcoding/?p=1862) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    - [LCS(Longest Common Subsequence](http://potasiyam.com/farsan/lcs/lcs.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+
+* লংগেস্ট ইনক্রিসিং সাবসিকোয়েন্স (LIS)
+    - [ডিপি সলিউশন প্রিন্ট করা এবং LIS](http://www.shafaetsplanet.com/planetcoding/?p=1211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    - [LIS and variation](http://shakilcompetitiveprogramming.blogspot.nl/2016/04/lis-and-variation.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+
+* ০/১ ন্যাপসাক (0/1 knapsack)
+    -  [ডিপি 'স্টেট', NcR, ০-১ ন্যাপস্যাক](http://www.shafaetsplanet.com/planetcoding/?p=1072) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    - [০/১ ন্যাপসাক (0/1 knapsack)](https://sites.google.com/site/programinggconcept/0-1-knapsack)
+
+
 * [বিটমাস্ক ডিপি](http://www.shafaetsplanet.com/planetcoding/?p=1357) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [মিনিমাম ভারটেক্স কভার(গ্রাফ+ডিপি)](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [লংগেস্ট কমন সাবসিকোয়েন্স(LCS)](http://www.shafaetsplanet.com/planetcoding/?p=1862) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [ম্যাট্রিক্স চেইন মাল্টিপ্লিকেশন](http://www.shafaetsplanet.com/planetcoding/?p=1885) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [০/১ ন্যাপসাক (0/1 knapsack)](https://sites.google.com/site/programinggconcept/0-1-knapsack)
-* [ কয়েন চেঞ্জ](https://sites.google.com/site/programinggconcept/algorithm)
-* [LCS(Longest Common Subsequence](http://potasiyam.com/farsan/lcs/lcs.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [Maximum 2D Rectangle Sum](http://potasiyam.com/farsan/maximum%202d%20rectangle%20sum/maximum%202d%20rectangle%20sum.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
-* [LIS and variation](http://shakilcompetitiveprogramming.blogspot.nl/2016/04/lis-and-variation.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [Digit DP](http://shakilcompetitiveprogramming.blogspot.com/2015/09/digit-dp.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [DP on Tree](http://shakilcompetitiveprogramming.blogspot.nl/2016/06/dp-on-tree.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * Dynamic Programming [1](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-1.html), [2](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-2.html), [3](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-part-3.html), [4](http://shakilcompetitiveprogramming.blogspot.com/2016/03/dp-part-4.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
@@ -194,28 +207,44 @@
 
 
 ### সর্টিং
+
+* বাবল সর্ট (Bubble sort)
+    - [বাবল সর্ট](http://binaryrongo.anindyaspaul.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+    - [বাবল সর্ট](http://hellohasan.com/2016/10/18/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-bubble-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+
+* কাউন্টিং সর্ট (Counting sort)
+    - [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+    - [কাউন্টিং সর্ট](http://hellohasan.com/2016/09/25/%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-counting-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+
+* মার্জ সর্ট (Merge sort)
+    - [মার্জ সর্ট](http://hellohasan.com/2016/10/22/%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9c-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-merge-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+
+* কুইক সর্ট (Quick sort)
+    - [কুইক সর্ট](http://hellohasan.com/2016/11/02/%e0%a6%95%e0%a7%81%e0%a6%87%e0%a6%95-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-quicksort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+
+
 * [যন্ত্র গণকের যন্তর মন্তর - ৩](http://bongobani.blogspot.com/2010/06/blog-post_1625.html) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
-* [বাবল সর্ট](http://binaryrongo.anindyaspaul.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-* [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [সর্ট!! পর্ব – ১](http://shoshikkha.com/archives/4022) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-* [কাউন্টিং সর্ট](http://hellohasan.com/2016/09/25/%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-counting-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-* [বাবল সর্ট](http://hellohasan.com/2016/10/18/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-bubble-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-* [মার্জ সর্ট](http://hellohasan.com/2016/10/22/%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9c-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-merge-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-* [কুইক সর্ট](http://hellohasan.com/2016/11/02/%e0%a6%95%e0%a7%81%e0%a6%87%e0%a6%95-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-quicksort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
 
 
 ### সার্চিং
-* [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [বাইসেকশন মেথড](http://blog.faiyaz.info/bisection/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
-* [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
-* [লিনিয়ার সার্চ](http://hellohasan.com/2016/10/14/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-linear-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-* [বাইনারি সার্চ](http://hellohasan.com/2016/10/20/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-binary-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-* [হিউরিস্টিক সার্চ](http://potasiyam.com/farsan/heuristic%20search/heuristic%20search.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
-* [Painless Binary Search](http://www.abuasifkhan.me/painless-binary-search.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-* [Binary Search part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2014/09/binary-search-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [বাইনারি সার্চঃ ১ম পর্ব](http://shoshikkha.com/archives/116) - [মেসবাহ তানভীর](https://www.facebook.com/mesba.tanvir)
+
+* লিনিয়ার সার্চ (Linear search)
+    - [লিনিয়ার সার্চ](http://hellohasan.com/2016/10/14/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-linear-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+
+* বাইনারি সার্চ (Binary search)
+    -  [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    -  [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    -  [বাইসেকশন মেথড](http://blog.faiyaz.info/bisection/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
+    - [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+    - [বাইনারি সার্চ](http://hellohasan.com/2016/10/20/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-binary-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    - [বাইনারি সার্চঃ ১ম পর্ব](http://shoshikkha.com/archives/116) - [মেসবাহ তানভীর](https://www.facebook.com/mesba.tanvir)
+    - [Binary Search part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2014/09/binary-search-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+    - [Painless Binary Search](http://www.abuasifkhan.me/painless-binary-search.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+
+
 * [TERNARY SEARCH](http://shoshikkha.com/archives/4332) - [রেদওয়ান আহমেদ]()
+* [হিউরিস্টিক সার্চ](http://potasiyam.com/farsan/heuristic%20search/heuristic%20search.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
 
 ### গ্রীডি মেথড
