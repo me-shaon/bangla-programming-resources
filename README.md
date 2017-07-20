@@ -289,6 +289,7 @@
 * [যন্ত্র গণকের যন্তর মন্তর - ২](http://www.somewhereinblog.net/blog/ragibhasanblog/28912341) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
 * [অফ-বাই-ওয়ান এরর (Off-by-one error)](http://subeen.com/%E0%A6%85%E0%A6%AB-%E0%A6%AC%E0%A6%BE%E0%A6%87-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%8F%E0%A6%B0%E0%A6%B0-off-by-one-error/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [হ্যাশ (Hash) এবং হ্যাশিং (Hashing)](http://ami-alavola.rhcloud.com/?p=183) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
+* [হ্যাশ, হ্যাশিং ও রিভার্স হ্যাশিং](http://deshi.engineer/posts/2017/07/hashes/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [ফ্লোটিং পয়েন্ট নাম্বার ও কিছু সমস্যা](http://binaryrongo.anindyaspaul.com/2014/08/01/floating-point-number/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [Floyd's Cycle Finding Algorithm](http://potasiyam.com/farsan/floyd%20cycle%20finding/floyd%20cycle%20finding.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [কনটেস্ট টাইমে Algorithm Selection](http://www.abuasifkhan.me/algoselection.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
@@ -299,7 +300,11 @@
 * [বিটওয়াইজ অপারেটর নিয়ে খেলা](http://shoshikkha.com/archives/2017) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [বিটওয়াইজ অপারেটর – THE POWER HOUSE!](http://shoshikkha.com/archives/2021) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 * [শূণ্য এবং একের গল্প পর্ব এক – বুলিয়ান এলজেব্রা নিয়ে প্রাথমিক আলোচনা](http://shoshikkha.com/archives/4437) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-
+* ডিসক্রিট ম্যাথ কেন? - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
+    - [পর্ব – ১: রেজা সাহেব ও সেলুনে লাইন দেবার মোবাইল অ্যাপ](http://deshi.engineer/posts/2017/07/why-discrete-math-logic/)
+    - [পর্ব – ২: সেট থিওরি ও রেজা সাহেবের গোয়েন্দাগিরি](http://deshi.engineer/posts/2017/07/why-discrete-math-sets/)
+    - [পর্ব – ৩: গ্রাফ থিওরি ও রেজা সাহেবের নিয়ারেস্ট সেলুন ফাইন্ডার](http://deshi.engineer/posts/2017/07/why-discrete-math-graphs/)
+    
 
 ---
 
