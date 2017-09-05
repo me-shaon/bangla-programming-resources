@@ -65,7 +65,7 @@
     * [সেগমেন্ট ট্রি-২(লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/planetcoding/?p=1591) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * [Segment tree/ BIT part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/segment-tree-bit-part-1_21.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
     * [লোয়েস্ট কমন অ্যানসেস্টর](http://www.shafaetsplanet.com/planetcoding/?p=1831) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [পারসিস্টেন্ট সেগমেন্ট ট্রি-১](https://rezwanarefin01.github.io/data%20structure/2017/08/01/Persistent-Segment-Tree-Part-01.html) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
+    * পারসিস্টেন্ট সেগমেন্ট ট্রি [১](https://rezwanarefin01.github.io/data%20structure/2017/08/01/Persistent-Segment-Tree-Part-01.html), [২](https://rezwanarefin01.github.io/data%20structure/2017/09/05/Persistent-Segment-Tree-Part-02.html) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
 
 * বাইনারি ইনডেক্সড ট্রি (Binary Indexed Tree)
     * [বাইনারি ইনডেক্সড ট্রি](http://www.shafaetsplanet.com/planetcoding/?p=1961) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
