@@ -475,6 +475,7 @@
 * [মেশিন লার্নিং? কম্পিউটার আবার শিখে কিভাবে!](http://adhikary.net/post/machine-learning/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [পাইথন, ম্যাটল্যাব ও জাভাস্ক্রিপ্টে প্রেডিক্টিভ মডেল বিল্ডিং ও পারফর্মেন্স টেস্টিং](https://ml.manash.me/) - [মানস কুমার মণ্ডল](http://mandal.manash.me/)
 * [মেশিন লার্নিং , প্যাটার্ন রিকোগনিশন ও ডিসিশন ট্রি](http://backdoorweb.com/%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8-%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [ওসমান গনী নাহিদ](https://www.facebook.com/nahidcool1994)
+* [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.com.bd/) - [Nuhil Mehdy](https://nuhil.net/)
 
 
 ---
