@@ -259,6 +259,7 @@
 * [টাওয়ার অফ হ্যানয়](http://subeen.com/%E0%A6%9F%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AB-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%9F/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
 * [Backtrack & N Queen](http://shakilcompetitiveprogramming.blogspot.nl/2015/05/backtrack-n-queen.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [ইনক্লুশন এক্সক্লুশন – রিকার্শন](http://shoshikkha.com/archives/2143) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [রিকার্সিভ ফাংশনের সৌন্দর্য](https://hellohasan.com/tag/recursion/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
 
 ### স্ট্রিং এলগোরিদম
 * [KMP (Knuth-Morris-Pratt algorithm)](https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
