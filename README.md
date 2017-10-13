@@ -116,6 +116,7 @@
 * [গসিয়ান এলিমিনেশন এর দ্বারা লিনিয়ার ইকুয়েশন সল্ভিং](https://sketchingdream.wordpress.com/gauss/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
 * [Chinese Remainder Theorem](http://www.abuasifkhan.me/chinese-remainder-theorem.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Ф ফাংশন (EULER’S PHI FUNCTION) – TOTIENT ফাংশন](http://shoshikkha.com/archives/1472) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+* [Fast Fourier Transform](https://rezwanarefin01.github.io/posts/fast-fourier-transform) -  [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
 
 
 ### গ্রাফ থিওরী
