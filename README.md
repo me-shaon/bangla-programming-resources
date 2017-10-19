@@ -86,6 +86,7 @@
     * [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](http://binaryrongo.anindyaspaul.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
     * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
     * [মিলার রবিন প্রাইমালিটি টেস্ট](http://blog.sdturja.com/millerrabin/) - [সীমান্ত দেব তূর্য](https://www.facebook.com/SD.Turja)
+    * [প্রাইম জেনারেশন সিভ ও প্রাইম ফ্যাক্টরাইজেশন](https://returnzerooo.wordpress.com/2016/03/03/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AE-%E0%A6%B8%E0%A6%BF%E0%A6%AD-%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 * মডুলার অ্যারিথমেটিক (Modular Arithmetic)
     * [মডুলার অ্যারিথমেটিক](http://www.shafaetsplanet.com/planetcoding/?p=936) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -152,6 +153,7 @@
 * মিনিমাম স্প্যানিং ট্রি (Minimum Spanning Tree)
   * [মিনিমাম স্প্যানিং ট্রি ১ (প্রিমস অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=692) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [মিনিমাম স্প্যানিং ট্রি ২ (ক্রুসকাল অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=825) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [প্রিম’স অ্যালগোরিদম : মিনিমাম স্প্যানিং ট্রি](https://returnzerooo.wordpress.com/2016/06/09/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%B8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 * বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট (Bi-connected Component, Bridge, Articulation Point)
   * [আর্টিকুলেশন পয়েন্ট এবং ব্রীজ](http://www.shafaetsplanet.com/planetcoding/?p=2504) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -196,6 +198,8 @@
 * ০/১ ন্যাপসাক (0/1 knapsack)
     -  [ডিপি 'স্টেট', NcR, ০-১ ন্যাপস্যাক](http://www.shafaetsplanet.com/planetcoding/?p=1072) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     - [০/১ ন্যাপসাক (0/1 knapsack)](https://sites.google.com/site/programinggconcept/0-1-knapsack)
+    * [০-১ ন্যাপস্যাকঃ টপ ডাউন](https://returnzerooo.wordpress.com/2016/02/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+    * [০-১ ন্যাপস্যাকঃ বটম আপ ও স্পেস অপটিমাইজেশন টেকনিক](https://returnzerooo.wordpress.com/2016/05/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A6%9F%E0%A6%AE-%E0%A6%86%E0%A6%AA/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 
 * [বিটমাস্ক ডিপি](http://www.shafaetsplanet.com/planetcoding/?p=1357) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -271,6 +275,7 @@
 * [Aho-Corasick দিয়ে String Matching](http://www.abuasifkhan.me/aho-corasick.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Z Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/z-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [আহো-কোরাসিক(Aho-Corasick) অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/09/28/%E0%A6%86%E0%A6%B9%E0%A7%8B-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+* [KMP অ্যালগোরিদম](https://returnzerooo.wordpress.com/2016/09/08/kmp/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 ### জিওমেট্রী
 * [সার্কেল ইউনিয়ন](http://chorui12.blogspot.com/2012/05/blog-post.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
@@ -306,11 +311,14 @@
 * [Minimum Expression](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/minimum-expression.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [বিটওয়াইজ অপারেটর নিয়ে খেলা](http://shoshikkha.com/archives/2017) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [বিটওয়াইজ অপারেটর – THE POWER HOUSE!](http://shoshikkha.com/archives/2021) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+* [বিটের মজা, মজার বিট](https://returnzerooo.wordpress.com/2016/06/30/%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%9C%E0%A6%BE-%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9F/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [শূণ্য এবং একের গল্প পর্ব এক – বুলিয়ান এলজেব্রা নিয়ে প্রাথমিক আলোচনা](http://shoshikkha.com/archives/4437) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * ডিসক্রিট ম্যাথ কেন? - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
     - [পর্ব – ১: রেজা সাহেব ও সেলুনে লাইন দেবার মোবাইল অ্যাপ](http://deshi.engineer/posts/2017/07/why-discrete-math-logic/)
     - [পর্ব – ২: সেট থিওরি ও রেজা সাহেবের গোয়েন্দাগিরি](http://deshi.engineer/posts/2017/07/why-discrete-math-sets/)
     - [পর্ব – ৩: গ্রাফ থিওরি ও রেজা সাহেবের নিয়ারেস্ট সেলুন ফাইন্ডার](http://deshi.engineer/posts/2017/07/why-discrete-math-graphs/)
+* [জাভার বিগইন্টিজার(BigInteger)ক্লাস – বেসিক](https://returnzerooo.wordpress.com/2015/11/26/%E0%A6%9C%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+* [জাভার বিগইন্টিজার(BigInteger)ক্লাস – এডভান্সড](https://returnzerooo.wordpress.com/2016/01/08/%E0%A6%9C%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8-2/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 
 ---
