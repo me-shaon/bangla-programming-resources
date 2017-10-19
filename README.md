@@ -106,6 +106,8 @@
     * [ইউক্লিডিয়ান অ্যালগরিদম](http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
     * [খাতা-কলমে Extended Euclid Method](http://www.abuasifkhan.me/extended-euclid-method.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
     * [Extended Euclidean Algorithm এবং একটুখানি Modular Multiplicative Inverse](http://www.abuasifkhan.me/extended-euclidean-algorithm.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+    * [এক্সটেন্ডেড ইউক্লিডীয়ান অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/08/12/%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A1-%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A7%80%E0%A7%9F%E0%A6%BE%E0%A6%A8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+    
 
 * প্রোবাবিলিটি (Probability)
     * [প্রোবাবিলিটি: এক্সপেক্টেড ভ্যালু](http://www.shafaetsplanet.com/planetcoding/?p=3060) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -268,6 +270,7 @@
 * [স্ট্রিং হ্যাশিং, রোলিং হ্যাশ এবং রবিন-কার্প এলগোরিদম (Rabin-Karp algorithm)](http://ami-alavola.rhcloud.com/?p=231) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [Aho-Corasick দিয়ে String Matching](http://www.abuasifkhan.me/aho-corasick.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Z Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/z-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [আহো-কোরাসিক(Aho-Corasick) অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/09/28/%E0%A6%86%E0%A6%B9%E0%A7%8B-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 ### জিওমেট্রী
 * [সার্কেল ইউনিয়ন](http://chorui12.blogspot.com/2012/05/blog-post.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
