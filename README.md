@@ -210,6 +210,7 @@
 * [DP on Tree](http://shakilcompetitiveprogramming.blogspot.nl/2016/06/dp-on-tree.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * Dynamic Programming [1](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-1.html), [2](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-2.html), [3](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-part-3.html), [4](http://shakilcompetitiveprogramming.blogspot.com/2016/03/dp-part-4.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [DP trick - Knuth's optimization](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-tricks-knuths-optimization.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+* [Divide & Conquer Optimization – DP(ডিপি অপ্টিমাইজেশন)](https://returnzerooo.wordpress.com/2017/10/21/%E0%A6%A1%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%85%E0%A6%AA%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং](http://shoshikkha.com/archives/4182) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 * [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং – ২](http://shoshikkha.com/archives/4240) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 
