@@ -42,6 +42,7 @@
     * [কিউ বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%95%e0%a6%bf%e0%a6%89-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
     * [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
     * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+ 
 
 * ট্রি (Tree)
    * [ট্রি ডেটা স্ট্রাকচার](http://hellohasan.com/category/data-structure/tree/tree-basic-concept/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
@@ -76,6 +77,7 @@
 * স্পার্স টেবিল (Sparse Table)
     * [স্পার্স টেবিল (Sparse Table)](https://tanvir002700.wordpress.com/2015/05/27/sparse-table/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
 
+* [পলিসি বেইজড ডাটা স্ট্রাকচার (PBDS)](https://returnzerooo.wordpress.com/2017/12/24/%E0%A6%AA%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%BF-%E0%A6%AC%E0%A7%87%E0%A6%87%E0%A6%9C%E0%A6%A1-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 ### ম্যাথ ও নাম্বার থিওরী
 
@@ -213,6 +215,7 @@
 * [Divide & Conquer Optimization – DP(ডিপি অপ্টিমাইজেশন)](https://returnzerooo.wordpress.com/2017/10/21/%E0%A6%A1%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%85%E0%A6%AA%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং](http://shoshikkha.com/archives/4182) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 * [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং – ২](http://shoshikkha.com/archives/4240) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+* [LightOj Dp – পর্ব ১](https://returnzerooo.wordpress.com/2017/11/12/lightoj-dp-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A7%A7/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 
 ### সর্টিং
@@ -603,3 +606,4 @@
 * [সিস্টেম ডিজাইনের উপর সম্ভাব্য ইন্টারভিউ প্রশ্নের জন্য যেভাবে প্রিপারেশন নিতে পারেন](http://software-engineering-notes-in-bangla.blogspot.com/2017/04/blog-post.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [প্রোগ্রামিং ল্যাঙ্গুয়েজ](http://subeen.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%be%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%bf%e0%a6%82-%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%99%e0%a7%8d%e0%a6%97%e0%a7%81%e0%a7%9f%e0%a7%87/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [প্রোগ্রামিং শেখার এক ডজন টিপস্](http://subeen.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%be%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%bf%e0%a6%82-%e0%a6%b6%e0%a7%87%e0%a6%96%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%95-%e0%a6%a1%e0%a6%9c/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+* [কনফিউজড প্রোগ্রামার](http://www.shafaetsplanet.com/planetcoding/?p=3113) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
