@@ -12,7 +12,7 @@
 - [আনা ফারিহা](http://chorui12.blogspot.com/)
 - [আবু আশরাফ মাসনুন](http://masnun.com/)
 - [আবু আসিফ খান চৌধুরী](http://www.abuasifkhan.me/)
-- [আলাভোলা](http://ami-alavola.rhcloud.com/)
+- [আলাভোলা](https://medium.com/@amialavola)
 - [আহমাদ ফাইয়াজ](http://blog.faiyaz.info/)
 - [আহমেদ শামীম হাসান](http://iamshaon.com/)
 - [ইকরাম মাহমুদ](https://sites.google.com/site/smilitude/)
