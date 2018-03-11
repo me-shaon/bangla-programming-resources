@@ -203,7 +203,6 @@
     * [০-১ ন্যাপস্যাকঃ টপ ডাউন](https://returnzerooo.wordpress.com/2016/02/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
     * [০-১ ন্যাপস্যাকঃ বটম আপ ও স্পেস অপটিমাইজেশন টেকনিক](https://returnzerooo.wordpress.com/2016/05/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A6%9F%E0%A6%AE-%E0%A6%86%E0%A6%AA/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
-
 * [বিটমাস্ক ডিপি](http://www.shafaetsplanet.com/planetcoding/?p=1357) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [মিনিমাম ভারটেক্স কভার(গ্রাফ+ডিপি)](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [ম্যাট্রিক্স চেইন মাল্টিপ্লিকেশন](http://www.shafaetsplanet.com/planetcoding/?p=1885) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -216,6 +215,7 @@
 * [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং](http://shoshikkha.com/archives/4182) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 * [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং – ২](http://shoshikkha.com/archives/4240) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 * [LightOj Dp – পর্ব ১](https://returnzerooo.wordpress.com/2017/11/12/lightoj-dp-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A7%A7/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+* [Dynamic Programming Optimization - Convex Hull Trick](https://rezwanarefin01.github.io/posts/convex-hull-trick/) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
 
 
 ### সর্টিং
