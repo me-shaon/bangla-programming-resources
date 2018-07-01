@@ -587,7 +587,9 @@
 ---
 
 ## বই
-* [তামিম শাহরিয়ার সুবীন এর বই – কম্পিউটার প্রোগ্রামিং](http://cpbook.subeen.com/)
+* [তামিম শাহরিয়ার সুবীন এর সি প্রোগ্রামিং বই – কম্পিউটার প্রোগ্রামিং](http://cpbook.subeen.com/)
+* [তামিম শাহরিয়ার সুবীন এর - পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com/)
+* [সহজ ভাষায় পাইথন ৩ - মাকসুদুর রহমান মাটিন](https://python.maateen.me/)
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](http://hukush-pakush.com/) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
 * [প্রোগ্রামিং প্রতিযোগিতার শুরুর গল্প](https://drive.google.com/file/d/0B8fUdgnb3KKdUDY1TVlBYlViUTg/view) - [মাহবুবুল হাসান](https://www.facebook.com/mahbub.shanto)
 
