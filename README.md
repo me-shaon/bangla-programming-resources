@@ -246,6 +246,9 @@
 
 * মার্জ সর্ট (Merge sort)
     - [মার্জ সর্ট](http://hellohasan.com/2016/10/22/%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9c-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-merge-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    - [মার্জ সর্ট - ১ (ভিডিও)](https://youtu.be/mWuk56Aa6xw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [মার্জ সর্ট - ২ - সি দিয়ে ইমপ্লিমেন্টেশন (ভিডিও)](https://youtu.be/-UzllqjFHW8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [মার্জ সর্ট - ৩ - স্পেস ও টাইম কমপ্লেক্সিটি (ভিডিও)](https://youtu.be/g63rwGXC720) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * কুইক সর্ট (Quick sort)
     - [কুইক সর্ট](http://hellohasan.com/2016/11/02/%e0%a6%95%e0%a7%81%e0%a6%87%e0%a6%95-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-quicksort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
