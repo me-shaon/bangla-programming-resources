@@ -252,12 +252,19 @@
 
 * কুইক সর্ট (Quick sort)
     - [কুইক সর্ট](http://hellohasan.com/2016/11/02/%e0%a6%95%e0%a7%81%e0%a6%87%e0%a6%95-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-quicksort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    - [কুইক সর্ট ১ - অ্যালগরিদম (ভিডিও)](https://youtu.be/PmlfVdY_XjI) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [কুইক সর্ট ২ - পার্টিশন (ভিডিও)](https://youtu.be/kwG0C2Lv-fQ) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * সিলেকশন সর্ট (Selection Sort)
     - [সিলেকশন সর্ট (ভিডিও)](https://youtu.be/qHmByz1YvQs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * ইনসার্শন সর্ট (Insertion Sort)
     - [ইনসার্শন সর্ট (ভিডিও)](https://youtu.be/aBi8ptRBWY8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+
+* হিপ সর্ট (Heap Sort)
+    - [হিপ সর্ট - ১ (ভিডিও)](https://youtu.be/m7x0GETKPaU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [হিপ - ২ - হিপ তৈরি করা (ভিডিও)](https://youtu.be/8Kwh0WgO_TU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [হিপ - ৩ - হিপসর্ট (ভিডিও)](https://youtu.be/FibnepuyOLY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 
 * [যন্ত্র গণকের যন্তর মন্তর - ৩](http://bongobani.blogspot.com/2010/06/blog-post_1625.html) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
