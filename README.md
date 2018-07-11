@@ -28,9 +28,17 @@
     * [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26) - [আলাভোলা](https://medium.com/@amialavola)
     * [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) - [আলাভোলা](https://medium.com/@amialavola)
     * [ডাবলি লিংকড লিস্ট](http://shoshikkha.com/archives/3290) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+    * [লিঙ্কড লিস্ট - ১ (Linked List - 1) - প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/k3wD1KtP8EE) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    * [লিঙ্কড লিস্ট - ২ (Linked List - 2) - নোড বাদ দেওয়া (ভিডিও)](https://youtu.be/rBc-CApEe3s) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    * [লিঙ্কড লিস্ট - ৩ (Linked List - 3) - নোড যোগ করা (ভিডিও)](https://youtu.be/VLd6EnfUuWU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    * [লিঙ্কড লিস্ট - ৪ (Linked List - 4) - ট্রাভার্স করা (ভিডিও)](https://youtu.be/XLBBmEUILi4) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    * [লিঙ্কড লিস্ট - ৫ (Linked List - 5) - ডবলি লিঙ্কড লিস্ট (ভিডিও)](https://youtu.be/kyuPR9SqvDY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    * [লিঙ্কড লিস্ট - ৫ (Linked List - 5) - ডবলি লিঙ্কড লিস্ট (ভিডিও)](https://youtu.be/kyuPR9SqvDY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    * [লিঙ্কড লিস্ট - ৬ (Linked List - 6) - অ্যারে ও লিঙ্কড লিস্ট-এর পার্থক্য (ভিডিও)](https://youtu.be/DKpe5gsySag) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * স্ট্যাক (Stack)
     * [স্ট্যাক](http://www.shafaetsplanet.com/planetcoding/?p=2342) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [স্ট্যাক (ভিডিও)](https://youtu.be/-8JxL-dXg6w) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [স্ট্যাক ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/stack) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
     * [স্ট্যাক বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%95-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
     * [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://medium.com/@amialavola)
@@ -39,16 +47,27 @@
 
 * কিউ (Queue)
     * [কিউ ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/queue) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    * [কিউ (ভিডিও)](https://youtu.be/IFWHj7_OW2k) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [কিউ বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%95%e0%a6%bf%e0%a6%89-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
     * [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://medium.com/@amialavola)
     * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+    * [প্রায়োরিটি কিউ (ভিডিও)](https://youtu.be/v0tzjgW0i8E) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
  
 
 * ট্রি (Tree)
    * [ট্রি ডেটা স্ট্রাকচার](http://hellohasan.com/category/data-structure/tree/tree-basic-concept/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+   * [ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/0I1JVXbHpec) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+   * [ট্রি - ২ (Tree - 2) - কোনটি ট্রি কোনটি নয়? (ভিডিও)](https://youtu.be/Rz93CQd7jXc) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+   * [বাইনারি ট্রি প্রিঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/p0ltqTz93Nk) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+   * [বাইনারি ট্রি পোস্টঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/zd5ayCGPQXA) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+   * [বাইনারি ট্রি ইনঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/D9cvhd-jPGs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * বাইনারী সার্চ ট্রি (Binary Search Tree)
     * [বাইনারি সার্চ ট্রি](http://hellohasan.com/category/data-structure/tree/binary-search-tree-bst) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    * [বাইনারি সার্চ ট্রি - ১ (ভিডিও)](https://youtu.be/FpekDm8ztVA) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    * [বাইনারি সার্চ ট্রি - ২ (ভিডিও)](https://youtu.be/PrHoIGnU3c0) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    * [বাইনারি সার্চ ট্রি - ৩ (ভিডিও)](https://youtu.be/IAHqCl5b4fE) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    * [বাইনারি সার্চ ট্রি - ৪(ভিডিও)](https://youtu.be/F2uwPe3GaVU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * হ্যাশটেবিল (HashTable)
     * [হ্যাশটেবিল (Hashtable)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6-hash-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%82-hashing-12b7cb6056b8) - [আলাভোলা](https://medium.com/@amialavola)
@@ -224,6 +243,7 @@
     - [বাবল সর্ট](http://binaryrongo.anindyaspaul.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
     - [বাবল সর্ট](http://hellohasan.com/2016/10/18/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-bubble-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
     - [বাবল সর্ট](https://bn.shameem.me/bubble-sort-algorithm-bangla/) - [শামীম রেজা](https://www.facebook.com/TryShameem/)
+    - [বাবল সর্ট (ভিডিও)](https://youtu.be/ZUI0VQ9JvDw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * কাউন্টিং সর্ট (Counting sort)
     - [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
@@ -231,9 +251,25 @@
 
 * মার্জ সর্ট (Merge sort)
     - [মার্জ সর্ট](http://hellohasan.com/2016/10/22/%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9c-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-merge-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    - [মার্জ সর্ট - ১ (ভিডিও)](https://youtu.be/mWuk56Aa6xw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [মার্জ সর্ট - ২ - সি দিয়ে ইমপ্লিমেন্টেশন (ভিডিও)](https://youtu.be/-UzllqjFHW8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [মার্জ সর্ট - ৩ - স্পেস ও টাইম কমপ্লেক্সিটি (ভিডিও)](https://youtu.be/g63rwGXC720) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * কুইক সর্ট (Quick sort)
     - [কুইক সর্ট](http://hellohasan.com/2016/11/02/%e0%a6%95%e0%a7%81%e0%a6%87%e0%a6%95-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-quicksort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    - [কুইক সর্ট ১ - অ্যালগরিদম (ভিডিও)](https://youtu.be/PmlfVdY_XjI) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [কুইক সর্ট ২ - পার্টিশন (ভিডিও)](https://youtu.be/kwG0C2Lv-fQ) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+
+* সিলেকশন সর্ট (Selection Sort)
+    - [সিলেকশন সর্ট (ভিডিও)](https://youtu.be/qHmByz1YvQs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+
+* ইনসার্শন সর্ট (Insertion Sort)
+    - [ইনসার্শন সর্ট (ভিডিও)](https://youtu.be/aBi8ptRBWY8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+
+* হিপ সর্ট (Heap Sort)
+    - [হিপ সর্ট - ১ (ভিডিও)](https://youtu.be/m7x0GETKPaU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [হিপ - ২ - হিপ তৈরি করা (ভিডিও)](https://youtu.be/8Kwh0WgO_TU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [হিপ - ৩ - হিপসর্ট (ভিডিও)](https://youtu.be/FibnepuyOLY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 
 * [যন্ত্র গণকের যন্তর মন্তর - ৩](http://bongobani.blogspot.com/2010/06/blog-post_1625.html) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
@@ -244,10 +280,12 @@
 
 * লিনিয়ার সার্চ (Linear search)
     - [লিনিয়ার সার্চ](http://hellohasan.com/2016/10/14/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-linear-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    - [লিনিয়ার সার্চ (ভিডিও)](https://youtu.be/IbV2eELjP2k) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * বাইনারি সার্চ (Binary search)
     -  [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     -  [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    - [বাইনারি সার্চ (ভিডিও)](https://youtu.be/NMC6ltspWys) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     -  [বাইসেকশন মেথড](http://blog.faiyaz.info/bisection/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
     - [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) - [আলাভোলা](https://medium.com/@amialavola)
     - [বাইনারি সার্চ](http://hellohasan.com/2016/10/20/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-binary-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
