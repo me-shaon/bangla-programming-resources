@@ -574,6 +574,9 @@
 * [টাইপ সিস্টেম (Type System)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%AA-%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%AE-type-system-bd2db56c3a52) - [আলাভোলা](https://medium.com/@amialavola)
 * [রেগুলার এক্সপ্রেশন -এ শুরু](http://samirdas.com/regular-expression-start/) - [সামির দাস](https://www.facebook.com/cse.samir)
 * [রেগুলার এক্সপ্রেশন -এ শেষ](http://samirdas.com/regular-expression-end/) - [সামির দাস](https://www.facebook.com/cse.samir)
+* [এক পলকে রেগুলার এক্সপ্রেশন](https://with.zonayed.me/bn/tag/regex/) - [Learn With Zonayed](https://with.zonayed.me/bn)
+* [এক পলকে মার্কডাউন মার্কাপ ল্যাংগুয়েজ](https://with.zonayed.me/bn/%e0%a6%9f%e0%a6%bf%e0%a6%aa%e0%a7%8d%e0%a6%b8-%e0%a6%8f%e0%a6%a8%e0%a7%8d%e0%a6%a1-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b8/%e0%a6%8f%e0%a6%95-%e0%a6%aa%e0%a6%b2%e0%a6%95%e0%a7%87-%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a6%a1%e0%a6%be%e0%a6%89%e0%a6%a8-%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a6%be/) - [Learn With Zonayed](https://with.zonayed.me/bn)
+* [এক পলকে সিকিউর শেল Secure Shell (SSH)](https://with.zonayed.me/bn/tag/ssh/) - [Learn With Zonayed](https://with.zonayed.me/bn)
 
 ---
 
