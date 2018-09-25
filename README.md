@@ -369,6 +369,7 @@
 
 * [বাংলায় অবজেক্ট ওরিয়েন্টেড কনসেপ্ট (ভিডিও)](http://lordamit.blogspot.com/2012/07/blog-post.html) - [অমিত শীল অমি](https://www.facebook.com/lordamit)
 * [সলিড (S.O.L.I.D. ডিজাইন প্রিন্সিপালস](http://masnun.com/2015/06/15/bangla-screencast-solid-design-principles.html) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
+* [অবজেক্ট অরিয়েন্টেড প্রোগ্রামিং সি++](https://with.dibakar.me/category/programming/cppbn/oopbn/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
 
 
 ---
