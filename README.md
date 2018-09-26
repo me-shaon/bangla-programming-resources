@@ -369,6 +369,7 @@
 
 * [বাংলায় অবজেক্ট ওরিয়েন্টেড কনসেপ্ট (ভিডিও)](http://lordamit.blogspot.com/2012/07/blog-post.html) - [অমিত শীল অমি](https://www.facebook.com/lordamit)
 * [সলিড (S.O.L.I.D. ডিজাইন প্রিন্সিপালস](http://masnun.com/2015/06/15/bangla-screencast-solid-design-principles.html) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
+* [অবজেক্ট অরিয়েন্টেড প্রোগ্রামিং সি++](https://with.dibakar.me/category/programming/cppbn/oopbn/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
 
 
 ---
@@ -577,6 +578,8 @@
 * [এক পলকে রেগুলার এক্সপ্রেশন](https://with.zonayed.me/bn/tag/regex/) - [Learn With Zonayed](https://with.zonayed.me/bn)
 * [এক পলকে মার্কডাউন মার্কাপ ল্যাংগুয়েজ](https://with.zonayed.me/bn/%e0%a6%9f%e0%a6%bf%e0%a6%aa%e0%a7%8d%e0%a6%b8-%e0%a6%8f%e0%a6%a8%e0%a7%8d%e0%a6%a1-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b8/%e0%a6%8f%e0%a6%95-%e0%a6%aa%e0%a6%b2%e0%a6%95%e0%a7%87-%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a6%a1%e0%a6%be%e0%a6%89%e0%a6%a8-%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a6%be/) - [Learn With Zonayed](https://with.zonayed.me/bn)
 * [এক পলকে সিকিউর শেল Secure Shell (SSH)](https://with.zonayed.me/bn/tag/ssh/) - [Learn With Zonayed](https://with.zonayed.me/bn)
+* [ব্লকচেইন? সে আবার কি? আল্টিমেট অখাটি বাংলায় ব্লকচেইন ১০১](https://with.dibakar.me/2018/08/03/%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%95%E0%A6%9A%E0%A7%87%E0%A6%87%E0%A6%A8-%E0%A6%B8%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
+* [আনরিয়েল ইঞ্জিন ৪](https://with.dibakar.me/category/game-development/unreal-engine/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
 
 ---
 
