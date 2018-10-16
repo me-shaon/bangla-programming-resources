@@ -637,7 +637,7 @@
 * [তামিম শাহরিয়ার সুবীন এর - পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com/)
 * [সহজ ভাষায় পাইথন ৩ - মাকসুদুর রহমান মাটিন](https://python.maateen.me/)
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](http://hukush-pakush.com/) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-* [প্রোগ্রামিং প্রতিযোগিতার শুরুর গল্প](https://drive.google.com/file/d/0B8fUdgnb3KKdUDY1TVlBYlViUTg/view) - [মাহবুবুল হাসান](https://www.facebook.com/mahbub.shanto)
+* [প্রোগ্রামিং প্রতিযোগিতার শুরুর গল্প](https://drive.google.com/file/d/0B0uOHynlj5e7M19Kc08zU0JyM2M/view) - [মাহবুবুল হাসান](https://www.facebook.com/mahbub.shanto)
 
 ---
 
