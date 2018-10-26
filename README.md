@@ -617,6 +617,10 @@
 
 ### পিএইচপি (PHP)
 * [বাংলায় পিএইচপি](http://php.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+* [পিএইচপি বাংলা টিউটোরিয়াল](http://www.webcoachbd.com/php-basic/) - [webcoachbd](http://www.webcoachbd.com)
+* [পিএইচপি](https://www.letslearncoding.co/category/web-development/backend-development/php) - [letslearncoding](https://www.letslearncoding.co)
+* [সহজ পদ্ধতিতে পিএইচপি শিখুন](https://www.sattacademy.com/php/) - [sattacademy](https://www.sattacademy.com/)
+* [বাংলায় পিএইচপি প্রোগ্রামিং ল্যাঙ্গুয়েজ](https://jakir.me/php/) - [jakir](https://www.facebook.com/jakir007)
 
 ### গো-ল্যাং (golang)
 * [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](http://golang.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
