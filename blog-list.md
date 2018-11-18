@@ -17,7 +17,7 @@
 - [আহমেদ শামীম হাসান](http://iamshaon.com/)
 - [ইকরাম মাহমুদ](https://sites.google.com/site/smilitude/)
 - [ইকরাম হোসাইন](http://apikothon.com/)
-- [ইশতিয়াক হোসাইন](http://software-engineering-notes-in-bangla.blogspot.com/)
+- [ইশতিয়াক হোসেন](http://software-engineering-notes-in-bangla.blogspot.com/)
 - [এস. এম. ফরহাদ আলী](https://logicalforhad.wordpress.com/)
 - [ওসমান গনী নাহিদ](http://backdoorweb.com/)
 - [জাকির হোসাইন](http://tech.jakir.me/)
