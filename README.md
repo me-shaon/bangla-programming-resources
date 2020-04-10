@@ -83,6 +83,9 @@
 * সেগমেন্ট ট্রি (Segment Tree)
     * [সেগমেন্ট ট্রি-১](http://www.shafaetsplanet.com/planetcoding/?p=1557) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * [সেগমেন্ট ট্রি-২(লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/planetcoding/?p=1591) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    *[সেগমেন্ট ট্রি](https://iishanto.me/2020/04/01/%e0%a6%b8%e0%a7%87%e2%80%8c%e0%a6%97%e0%a7%87%e2%80%8c%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+    *[সেগমেন্ট ট্রি লেজি প্রপাগেশন](https://iishanto.me/2020/04/09/%e0%a6%b2%e0%a7%87%e0%a6%9c%e0%a6%bf-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%97%e0%a7%87%e0%a6%b6%e0%a6%a8/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+    
     * [Segment tree/ BIT part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/segment-tree-bit-part-1_21.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
     * [লোয়েস্ট কমন অ্যানসেস্টর](http://www.shafaetsplanet.com/planetcoding/?p=1831) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * পারসিস্টেন্ট সেগমেন্ট ট্রি [১](https://rezwanarefin01.github.io/posts/persistent-segment-tree-01/), [২](https://rezwanarefin01.github.io/posts/persistent-segment-tree-02/) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
