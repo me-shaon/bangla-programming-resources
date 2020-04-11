@@ -41,6 +41,7 @@
 - [মোহাম্মদ সায়েফ](https://sketchingdream.wordpress.com/)
 - [রাগিব হাসান](http://www.somewhereinblog.net/blog/ragibhasanblog/)
 - [রেজওয়ান আরেফিন](https://rezwanarefin01.github.io/)
+- [শরিফ হাসান](https://iishanto.me/)
 - [শরীফ চৌধুরী](http://www.techsharif.com/)
 - [শাকিল আহমেদ](http://shakilcompetitiveprogramming.blogspot.com/)
 - [শাফায়েত আশরাফ](http://www.shafaetsplanet.com/planetcoding/)
