@@ -323,6 +323,7 @@
 * [Z Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/z-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [আহো-কোরাসিক(Aho-Corasick) অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/09/28/%E0%A6%86%E0%A6%B9%E0%A7%8B-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [KMP অ্যালগোরিদম](https://returnzerooo.wordpress.com/2016/09/08/kmp/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+* [নুথ-মরিসন-প্র্যাট (কেএমপি) অ্যালগরিদম](http://www.shafaetsplanet.com/?p=3209) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 ### জিওমেট্রী
 * [সার্কেল ইউনিয়ন](http://chorui12.blogspot.com/2012/05/blog-post.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
