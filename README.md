@@ -56,6 +56,7 @@
 * [ডিভিসর এর সংখ্যা নির্নয় (Finding Number of Divisors) ](https://www.shawonruet.com/2016/07/finding-number-of-divisors.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 * [ডিভিসর এর যোগফল নির্নয় (Finding Sum Of Divisors) ](https://www.shawonruet.com/2016/07/finding-sum-of-divisors.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 * [Josephus Number ( জোসেফাস নম্বর)](https://www.shawonruet.com/2017/01/josephus-number.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
+* [বিগ ইন্টিজার রিমেইন্ডার (Big Integer Remainder) ](https://www.shawonruet.com/2016/07/big-integer-remainder.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 
 ##### গ্রাফ থিওরী
 * [গ্রাফ থিওরী - শর্টেস্ট পাথ প্রবলেম](http://www.progkriya.org/gyan/shortest-path.html) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
