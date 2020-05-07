@@ -102,7 +102,7 @@
 * [ কয়েন চেঞ্জ](https://sites.google.com/site/programinggconcept/algorithm) 
 * [LCS(Longest Common Subsequence](http://potasiyam.com/farsan/lcs/lcs.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [Maximum 2D Rectangle Sum](http://potasiyam.com/farsan/maximum%202d%20rectangle%20sum/maximum%202d%20rectangle%20sum.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
-
+* [ডায়নামিক প্রোগ্রামিং এবং রিকার্শন দিয়ে NCR কম্বিনেশন](https://www.shawonruet.com/2018/12/ncr.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 
 ##### সর্টিং
 * [যন্ত্র গণকের যন্তর মন্তর - ৩](http://bongobani.blogspot.com/2010/06/blog-post_1625.html) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
