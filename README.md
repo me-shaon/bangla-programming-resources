@@ -51,6 +51,7 @@
 * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * বিন্যাস করা যাক [1](http://www.abuasifkhan.me/permutation1.html), [2](http://www.abuasifkhan.me/permutation2.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Chinese Remainder Theorem](http://www.abuasifkhan.me/chinese-remainder-theorem.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+* [বিগ মড (Big Mod)](https://www.shawonruet.com/2017/06/blog-post.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 * [ডিভিসর এর সংখ্যা নির্নয় (Finding Number of Divisors) ](https://www.shawonruet.com/2016/07/finding-number-of-divisors.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 * [ডিভিসর এর যোগফল নির্নয় (Finding Sum Of Divisors) ](https://www.shawonruet.com/2016/07/finding-sum-of-divisors.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 * [Josephus Number ( জোসেফাস নম্বর)](https://www.shawonruet.com/2017/01/josephus-number.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
