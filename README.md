@@ -49,6 +49,7 @@
 * [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) - [আলাভোলা](https://www.facebook.com/profile.php?id=100011395313091)
 * [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](http://binaryrongo.anindyaspaul.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+* [সেগমেন্টেড সিভ (Segmented Sieve)](https://www.shawonruet.com/2016/10/segmented-sieve.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 * বিন্যাস করা যাক [1](http://www.abuasifkhan.me/permutation1.html), [2](http://www.abuasifkhan.me/permutation2.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [Chinese Remainder Theorem](http://www.abuasifkhan.me/chinese-remainder-theorem.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 * [বিগ মড (Big Mod)](https://www.shawonruet.com/2017/06/blog-post.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
