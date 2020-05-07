@@ -74,6 +74,7 @@
 * [টপোলজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=848) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [ডেপথ ফার্স্ট সার্চ এবং আবারো টপোলোজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=973) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [ডায়াক্সট্রা](http://www.shafaetsplanet.com/planetcoding/?p=1500) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [Dijkstra algorithm step by step in C++ Bangla ](https://www.shawonruet.com/2019/10/dijkstra-algorithm-step-by-step-in-c.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 * [ফ্লয়েড ওয়ার্শল](http://www.shafaetsplanet.com/planetcoding/?p=1927) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [বেলম্যান ফোর্ড](http://www.shafaetsplanet.com/planetcoding/?p=2044) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [আর্টিকুলেশন পয়েন্ট এবং ব্রীজ](http://www.shafaetsplanet.com/planetcoding/?p=2504) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
