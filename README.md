@@ -63,6 +63,7 @@
 * [অ্যাডজেসেন্সি ম্যাট্রিক্স](http://www.shafaetsplanet.com/planetcoding/?p=184) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [অ্যাডজেসেন্সি লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [ব্রেথড ফার্স্ট সার্চ (বিএফএস)](http://www.shafaetsplanet.com/planetcoding/?p=604) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [ব্রেথড ফার্স্ট সার্চ (বিএফএস) স্টেপ বাই স্টেপ](https://www.shawonruet.com/2017/02/breadth-first-search-bfs.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 * [মিনিমাম স্প্যানিং ট্রি ১ (প্রিমস অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=692) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [মিনিমাম স্প্যানিং ট্রি ২ (ক্রুসকাল অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=825) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [টপোলজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=848) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
