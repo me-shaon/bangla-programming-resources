@@ -85,6 +85,7 @@
 * [স্ট্রংলি কানেক্টেড কম্পোনেন্ট](http://potasiyam.com/farsan/strongly%20connected%20component/scc.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [2-SAT](http://potasiyam.com/farsan/2sat/2sat.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 * [Bipartite Checking](https://www.shawonruet.com/2019/11/bipartite-checking-algorithm-step-by.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
+* [ট্রাভেলিং সেলসম্যান](https://www.shawonruet.com/2019/12/traveling-salesman-problem-step-by-step.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 
 
 ##### ডাইনামিক প্রোগ্রামিং
