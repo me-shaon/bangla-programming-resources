@@ -116,6 +116,7 @@
 * [যন্ত্র গণকের যন্তর মন্তর - ৩](http://bongobani.blogspot.com/2010/06/blog-post_1625.html) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
 * [বাবল সর্ট](http://binaryrongo.anindyaspaul.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+* [পেয়ার সর্ট Pair Sort in C++ ( Sort An Array According To Another Array Value) ](https://www.shawonruet.com/2016/07/sort-array-according-to-another-array.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 
 ##### সার্চিং
 * [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
