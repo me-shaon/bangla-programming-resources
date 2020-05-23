@@ -115,7 +115,7 @@
     * [প্রাইম জেনারেশন সিভ ও প্রাইম ফ্যাক্টরাইজেশন](https://returnzerooo.wordpress.com/2016/03/03/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AE-%E0%A6%B8%E0%A6%BF%E0%A6%AD-%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
     * [সেগমেন্টেড সিভ (Segmented Sieve)](https://www.shawonruet.com/2016/10/segmented-sieve.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
     * [ডিভিসর এর সংখ্যা নির্নয় (Finding Number of Divisors) ](https://www.shawonruet.com/2016/07/finding-number-of-divisors.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-* [ডিভিসর এর যোগফল নির্নয় (Finding Sum Of Divisors) ](https://www.shawonruet.com/2016/07/finding-sum-of-divisors.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
+    * [ডিভিসর এর যোগফল নির্নয় (Finding Sum Of Divisors) ](https://www.shawonruet.com/2016/07/finding-sum-of-divisors.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 
 * মডুলার অ্যারিথমেটিক (Modular Arithmetic)
     * [মডুলার অ্যারিথমেটিক](http://www.shafaetsplanet.com/planetcoding/?p=936) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
