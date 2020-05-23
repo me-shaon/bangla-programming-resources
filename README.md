@@ -113,7 +113,7 @@
     * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
     * [মিলার রবিন প্রাইমালিটি টেস্ট](http://blog.sdturja.com/millerrabin/) - [সীমান্ত দেব তূর্য](https://www.facebook.com/SD.Turja)
     * [প্রাইম জেনারেশন সিভ ও প্রাইম ফ্যাক্টরাইজেশন](https://returnzerooo.wordpress.com/2016/03/03/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AE-%E0%A6%B8%E0%A6%BF%E0%A6%AD-%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-    * [সেগমেন্টেড সিভ (Segmented Sieve)](https://www.shawonruet.com/2016/10/segmented-sieve.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
+    * [সেগমেন্টেড সিভ (Segmented Sieve)](https://www.shawonruet.com/2016/10/segmented-sieve.html) - [আসাদুল্লাহ শাওন](https://www.facebook.com/ashadullah.shawon)
     * [ডিভিসর এর সংখ্যা নির্নয় (Finding Number of Divisors) ](https://www.shawonruet.com/2016/07/finding-number-of-divisors.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
     * [ডিভিসর এর যোগফল নির্নয় (Finding Sum Of Divisors) ](https://www.shawonruet.com/2016/07/finding-sum-of-divisors.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 
@@ -121,12 +121,12 @@
     * [মডুলার অ্যারিথমেটিক](http://www.shafaetsplanet.com/planetcoding/?p=936) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * [Modular Multiplicative Inverse](https://mukitmkbs.wordpress.com/2014/10/01/modular-multiplicative-inverse/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
     * [Big Mod](https://mukitmkbs.wordpress.com/2014/09/30/big-mod/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
-    * [বিগ মড (Big Mod)](https://www.shawonruet.com/2017/06/blog-post.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
+    * [বিগ মড (Big Mod)](https://www.shawonruet.com/2017/06/blog-post.html) - [আসাদুল্লাহ শাওন](https://www.facebook.com/ashadullah.shawon)
     * [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ](http://shoshikkha.com/archives/3487) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
     * [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ – রিটার্নস!](http://shoshikkha.com/archives/3510) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
     * [সংখ্যাকে পেটানো! ( বিভাজক নির্ণয় )](http://shoshikkha.com/archives/1069) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
     * [রিকার্শনের মাধ্যমে মডুলার এক্সপনেন্সিয়েশন!](http://shoshikkha.com/archives/29) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-    * [বিগ ইন্টিজার রিমেইন্ডার (Big Integer Remainder) ](https://www.shawonruet.com/2016/07/big-integer-remainder.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
+    * [বিগ ইন্টিজার রিমেইন্ডার (Big Integer Remainder) ](https://www.shawonruet.com/2016/07/big-integer-remainder.html) - [আসাদুল্লাহ শাওন](https://www.facebook.com/ashadullah.shawon)
 
 * কম্বিনেটরিক্স (Combinatorics)
     * বিন্যাস করা যাক [1](http://www.abuasifkhan.me/permutation1.html), [2](http://www.abuasifkhan.me/permutation2.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
