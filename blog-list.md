@@ -19,7 +19,6 @@
 - [ইকরাম হোসাইন](http://apikothon.com/)
 - [ইশতিয়াক হোসেন](http://software-engineering-notes-in-bangla.blogspot.com/)
 - [এস. এম. ফরহাদ আলী](https://logicalforhad.wordpress.com/)
-- [ওসমান গনী নাহিদ](http://backdoorweb.com/)
 - [জাকির হোসাইন](http://tech.jakir.me/)
 - [তানভীর হাসান অনিক](https://tanvir002700.wordpress.com/)
 - [তামান্না নিশাত রিনি](http://subeen.com/)
