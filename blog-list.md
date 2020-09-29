@@ -29,7 +29,6 @@
 - [প্রোগ্রামিং কনসেপ্ট](https://sites.google.com/site/programinggconcept/home)
 - [ফারসান রশীদ](http://potasiyam.com/farsan/)
 - [বজলুর রহমান রোকন](http://www.bazlur.com/)
-- [মাকসুদুর রহমান মাটিন](https://bn.maateen.me/)
 - [মাঈনুল ইসলাম](http://tuts.nanodesignsbd.com/)
 - [মানস কুমার মণ্ডল](http://mandal.manash.me/)
 - [মীর ওয়াসি আহমেদ](http://www.progkriya.org/gyan/)
