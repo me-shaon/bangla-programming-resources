@@ -46,7 +46,6 @@
 - [শাকিল আহমেদ](http://shakilcompetitiveprogramming.blogspot.com/)
 - [শাফায়েত আশরাফ](http://www.shafaetsplanet.com/planetcoding/)
 - [শামীম রেজা](https://bn.shameem.me/)
-- [সাকিব সামি](http://blog.sakib.ninja/)
 - [সাদমান সাকিব](http://shoshikkha.com/)
 - [সামির দাস](http://samirdas.com/)
 - [সীমান্ত দেব তূর্য](https://www.facebook.com/SD.Turja)
