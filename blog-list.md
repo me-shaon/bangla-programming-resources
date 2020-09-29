@@ -27,7 +27,6 @@
 - [নুহিল মেহেদী](https://nuhil.net/)
 - [প্রোগক্রিয়া](http://www.progkriya.org/gyan/)
 - [প্রোগ্রামিং কনসেপ্ট](https://sites.google.com/site/programinggconcept/home)
-- [ফারসান রশীদ](http://potasiyam.com/farsan/)
 - [বজলুর রহমান রোকন](http://www.bazlur.com/)
 - [মাকসুদুর রহমান মাটিন](https://bn.maateen.me/)
 - [মাঈনুল ইসলাম](http://tuts.nanodesignsbd.com/)
