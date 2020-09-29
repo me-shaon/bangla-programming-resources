@@ -31,7 +31,6 @@
 - [বজলুর রহমান রোকন](http://www.bazlur.com/)
 - [মাকসুদুর রহমান মাটিন](https://bn.maateen.me/)
 - [মাঈনুল ইসলাম](http://tuts.nanodesignsbd.com/)
-- [মানস কুমার মণ্ডল](http://mandal.manash.me/)
 - [মীর ওয়াসি আহমেদ](http://www.progkriya.org/gyan/)
 - [মুকিত  চৌধুরী](https://mukitmkbs.wordpress.com/)
 - [মুনতাসির ওয়াহেদ](http://shoshikkha.com/)
