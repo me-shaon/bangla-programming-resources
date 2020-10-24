@@ -609,7 +609,7 @@
 ## প্রোগ্রামিং ল্যাঙ্গুয়েজ টিউটোরিয়াল সিরিজ
 
 ### পাইথন (Python)
-* [বাংলায় পাইথন](http://python.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+* [বাংলায় পাইথন](http://python.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
 * [হাতে-কলমে পাইথন](http://www.adhikary.net/post/learn-python-by-building-0/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [বাংলায় পাইথন](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
