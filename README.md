@@ -677,3 +677,11 @@
 * [প্রোগ্রামিং ল্যাঙ্গুয়েজ](http://subeen.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%be%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%bf%e0%a6%82-%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%99%e0%a7%8d%e0%a6%97%e0%a7%81%e0%a7%9f%e0%a7%87/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [প্রোগ্রামিং শেখার এক ডজন টিপস্](http://subeen.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%be%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%bf%e0%a6%82-%e0%a6%b6%e0%a7%87%e0%a6%96%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%95-%e0%a6%a1%e0%a6%9c/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [কনফিউজড প্রোগ্রামার](http://www.shafaetsplanet.com/planetcoding/?p=3113) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+
+---
+
+## বাংলা টেক টক এবং পডকাস্ট
+* [Tech Tong Youtube Channel](https://www.youtube.com/c/TechTongBD)
+* [BSADD Community, BUET Youtube Channel](https://www.youtube.com/channel/UCSEEEKX5ts05xGkdeZJIvmw)
+* [বাংলা টেক টক পডকাস্ট](https://banglatechtalk.com)
