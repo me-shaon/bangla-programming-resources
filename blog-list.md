@@ -49,7 +49,6 @@
 - [সীমান্ত দেব তূর্য](https://www.facebook.com/SD.Turja)
 - [সুদীপ সরকার](https://returnzerooo.wordpress.com)
 - [স্বশিক্ষা](http://shoshikkha.com/)
-- [স্বাগত প্রতীক](https://thehoneymad.wordpress.com/)
 - [হাসান আবদুল্লাহ](http://hellohasan.com/)
 - [হাসিন হায়দার](https://hasin.me/)
 - [দিবাকর সূত্রধর](https://with.dibakar.me/)
