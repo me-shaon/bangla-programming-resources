@@ -36,7 +36,6 @@
 - [মেসবাহ তানভীর](http://shoshikkha.com/)
 - [মোঃ শফিউজ্জামান রাজিব](http://subeen.com/)
 - [মোশাররফ রুবেল](http://mrubel.com/)
-- [মোহাম্মদ সায়েফ](https://sketchingdream.wordpress.com/)
 - [রাগিব হাসান](http://www.somewhereinblog.net/blog/ragibhasanblog/)
 - [রেজওয়ান আরেফিন](https://rezwanarefin01.github.io/)
 - [শরিফ হাসান](https://iishanto.me/)
