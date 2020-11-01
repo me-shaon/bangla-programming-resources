@@ -9,13 +9,10 @@
 import os
 import logging
 import requests
-
 import markdown
 from lxml import etree
-
 import json
 from alive_progress import alive_bar
-
 import pandas
 import time
 
@@ -56,7 +53,6 @@ class LinkTester():
                 bar()
 
         self.__generate_report()
-        # print(json.dumps(self.lines, indent=4))
 
     def __link_extractor(self, line):
         
@@ -153,6 +149,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
