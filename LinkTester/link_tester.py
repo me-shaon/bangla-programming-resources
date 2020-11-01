@@ -1,3 +1,11 @@
+# Author : Mohammad Sheikh Ghazanfar (https://github.com/msghera)
+
+# I hereby declare that, the author accepts no responsibility for 
+# the topicality, correctness, completeness or quality of the 
+# the code. Also, using this code is propieratorily protected for 
+# https://github.com/msghera/bangla-programming-resources.
+
+
 import os
 import logging
 import requests
