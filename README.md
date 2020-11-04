@@ -671,3 +671,4 @@
 * [Tech Tong Youtube Channel](https://www.youtube.com/c/TechTongBD)
 * [BSADD Community, BUET Youtube Channel](https://www.youtube.com/channel/UCSEEEKX5ts05xGkdeZJIvmw)
 * [বাংলা টেক টক পডকাস্ট](https://banglatechtalk.com)
+* [Klassroom, Youtube Channel](https://www.youtube.com/c/KlassroomGlobal/)
