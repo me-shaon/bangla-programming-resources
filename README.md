@@ -84,9 +84,9 @@
     * [সেগমেন্ট ট্রি-১](http://www.shafaetsplanet.com/planetcoding/?p=1557) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * [সেগমেন্ট ট্রি-২(লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/planetcoding/?p=1591) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     
-    * [সেগমেন্ট ট্রি](https://iishanto.me/2020/04/01/%e0%a6%b8%e0%a7%87%e2%80%8c%e0%a6%97%e0%a7%87%e2%80%8c%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+    * [সেগমেন্ট ট্রি](https://iishanto.com/2020/04/01/%e0%a6%b8%e0%a7%87%e2%80%8c%e0%a6%97%e0%a7%87%e2%80%8c%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d/) - [শরিফ হাসান](https://facebook.com/io.shanto)
     
-    * [সেগমেন্ট ট্রি লেজি প্রপাগেশন](https://iishanto.me/2020/04/09/%e0%a6%b2%e0%a7%87%e0%a6%9c%e0%a6%bf-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%97%e0%a7%87%e0%a6%b6%e0%a6%a8/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+    * [সেগমেন্ট ট্রি লেজি প্রপাগেশন](https://iishanto.com/2020/04/09/%e0%a6%b2%e0%a7%87%e0%a6%9c%e0%a6%bf-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%97%e0%a7%87%e0%a6%b6%e0%a6%a8/) - [শরিফ হাসান](https://facebook.com/io.shanto)
     
     * [Segment tree/ BIT part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/segment-tree-bit-part-1_21.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
     * [লোয়েস্ট কমন অ্যানসেস্টর](http://www.shafaetsplanet.com/planetcoding/?p=1831) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -545,7 +545,9 @@
 * [মেশিন লার্নিং? কম্পিউটার আবার শিখে কিভাবে!](http://adhikary.net/post/machine-learning/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.com.bd/) - [নুহিল মেহেদী](https://www.facebook.com/nuhil)
 * [Multi Layer Perceptron And Back Propagation Step By Step in Bangla ](https://www.shawonruet.com/2018/06/multi-layer-perception-and-back.html) - -[আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
-
+* [মেশিন লার্নিং (১): শুরুর কথা।](https://iishanto.com/2020/07/22/%e0%a6%ae%e0%a7%87%e0%a6%b6%e0%a6%bf%e0%a6%a8-%e0%a6%b2%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a8%e0%a6%bf%e0%a6%82-%e0%a7%a7-%e0%a6%b6%e0%a7%81%e0%a6%b0%e0%a7%81%e0%a6%b0-%e0%a6%95%e0%a6%a5%e0%a6%be/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+* [মেশিন লার্নিং (২): লিনিয়ার রিগ্রেশন, মডেল রিপ্রেজেন্টেশন ও কস্ট (Cost) ফাংশন](https://iishanto.com/2020/08/04/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b0%e0%a6%bf%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%95%e0%a6%b7%e0%a7%8d%e0%a6%9f-%e0%a6%ab/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+* [কস্ট ফাংশনের অন্তরীকরণ এবং গ্র্যাডিয়েন্ট ডিসেন্ট](https://iishanto.com/2020/11/06/%e0%a6%95%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%ab%e0%a6%be%e0%a6%82%e0%a6%b6%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%a8%e0%a7%8d%e0%a6%a4%e0%a6%b0%e0%a7%80%e0%a6%95%e0%a6%b0%e0%a6%a3-%e0%a6%8f/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 ---
 ## অন্যান্য
 
