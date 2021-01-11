@@ -605,7 +605,7 @@
 
 
 ### জাভা (Java)
-* [জাভা প্রোগ্রামিং](http://java.howtocode.com.bd/)- [How-to-code](http://www.howtocode.com.bd/)
+* [জাভা প্রোগ্রামিং](http://java.howtocode.dev/)- [How-to-code](http://www.howtocode.dev/)
 * [বাংলা জাভা টিউটোরিয়াল](http://mrubel.com/androidlime/category/java/) - [মোশাররফ রুবেল](https://www.facebook.com/rubel007cse)
 * [জাভা এন্টারপ্রাইজ এডিশন](http://dimikcomputing.com/course/javaee-online-course/) - [Therap (BD) Ltd.](www.therapbd.com)
 ### সি (C)
