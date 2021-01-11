@@ -609,7 +609,7 @@
 * [বাংলা জাভা টিউটোরিয়াল](http://mrubel.com/androidlime/category/java/) - [মোশাররফ রুবেল](https://www.facebook.com/rubel007cse)
 * [জাভা এন্টারপ্রাইজ এডিশন](http://dimikcomputing.com/course/javaee-online-course/) - [Therap (BD) Ltd.](www.therapbd.com)
 ### সি (C)
-* [বাংলায় সি প্রোগ্রামিং শিক্ষা](http://c.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+* [বাংলায় সি প্রোগ্রামিং শিক্ষা](http://c.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
 * [বাংলায় সি প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/c) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [সি টিউটোরিয়াল](http://shoshikkha.com/archives/1394) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [বাংলা সি প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/ctutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
