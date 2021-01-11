@@ -630,7 +630,7 @@
 * [বাংলায় পিএইচপি](http://php.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 
 ### গো-ল্যাং (golang)
-* [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](http://golang.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+* [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](https://golang.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
 - [গো নিয়ে গড়াগড়ি](http://go.goragori.com/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
 
 
