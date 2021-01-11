@@ -627,7 +627,7 @@
 
 
 ### পিএইচপি (PHP)
-* [বাংলায় পিএইচপি](http://php.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+* [বাংলায় পিএইচপি](https//php.howtocode.dev- [How-to-code](https/www.howtocode.dev/)
 
 ### গো-ল্যাং (golang)
 * [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](https://golang.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
@@ -635,10 +635,10 @@
 
 
 ### ক্লোজার (Clojure)
-* [ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ](http://clojure.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+* [ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ](https//clojure.howtocode.dev [How-to-code](https://www.howtocode.dev/)
 
 ### স্ক্যালা (Scala)
-* [Scala দি নেক্সট বিগ থিং](http://scala.howtocode.com.bd/index.html) - [How-to-code](http://www.howtocode.com.bd/)
+* [Scala দি নেক্সট বিগ থিং](https://scala.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
 
 
 ---
