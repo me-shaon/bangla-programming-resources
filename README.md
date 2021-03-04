@@ -52,6 +52,7 @@
     * [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://medium.com/@amialavola)
     * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
     * [প্রায়োরিটি কিউ (ভিডিও)](https://youtu.be/v0tzjgW0i8E) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    * [বাইনারি হিপ বা প্রায়োরিটি কিউ](https://iishanto.com/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b9%e0%a7%80%e0%a6%aa-heap-%e0%a6%ac%e0%a6%be-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a7%9f%e0%a7%8b%e0%a6%b0%e0%a6%bf%e0%a6%9f/) - [শরিফ হাসান](https://facebook.com/io.shanto)
  
 
 * ট্রি (Tree)
@@ -109,6 +110,7 @@
     * [প্রাইম জেনারেটর (Sieve of Eratosthenes)](http://www.shafaetsplanet.com/planetcoding/?p=624) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * [প্রাইম জেনারেশন – সিভ অব ERATOSTHENES](http://shoshikkha.com/archives/2332) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
     * [বিটওয়াইজ সিভ](http://www.shafaetsplanet.com/planetcoding/?p=855) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [সংখ্যাতত্ত্ব: মৌলিক সংখ্যা (prime number) ও তার অ্যালগরিদম](https://iishanto.com/prime-numbers-efficient-prime-factorization-bangla/) - [শরিফ হাসান](https://facebook.com/io.shanto)
     * [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](http://binaryrongo.anindyaspaul.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
     * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
     * [মিলার রবিন প্রাইমালিটি টেস্ট](http://simantaturja.blogspot.com/2019/05/blog-post.html) - [সীমান্ত দেব তূর্য](https://www.facebook.com/SD.Turja)
@@ -119,6 +121,7 @@
 
 * মডুলার অ্যারিথমেটিক (Modular Arithmetic)
     * [মডুলার অ্যারিথমেটিক](http://www.shafaetsplanet.com/planetcoding/?p=936) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [সংখ্যাতত্ত্ব: মডুলার অ্যারিথমেটিক (Modular arithmetic) – Big mod](https://iishanto.com/modular-arithmetic-and-modular-inverse-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
     * [Modular Multiplicative Inverse](https://mukitmkbs.wordpress.com/2014/10/01/modular-multiplicative-inverse/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
     * [Big Mod](https://mukitmkbs.wordpress.com/2014/09/30/big-mod/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
     * [বিগ মড (Big Mod)](https://www.shawonruet.com/2017/06/blog-post.html) - [আসাদুল্লাহ শাওন](https://www.facebook.com/ashadullah.shawon)
@@ -158,6 +161,7 @@
   * [অ্যাডজেসেন্সি ম্যাট্রিক্স](http://www.shafaetsplanet.com/planetcoding/?p=184) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [অ্যাডজেসেন্সি লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [অ্যাডজেসেন্সি লিস্ট ট্রিক](http://www.progkriya.org/gyan/adj-list-trick.html) - [মীর ওয়াসি আহমেদ](https://www.facebook.com/mirwasi)
+  * [গ্রাফ বেসিক: গ্রাফ এবং গ্রাফ এর রিপ্রেজেন্টেশন](https://iishanto.com/%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab-%e0%a6%b0%e0%a6%bf%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%9c%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a7%87%e0%a6%b6%e0%a6%a8-adjacency-list-and-adjacenc/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 
 * ব্রেথড ফার্স্ট সার্চ-বিএফএস (Breadth First Search-BFS)
   * [ব্রেথড ফার্স্ট সার্চ (বিএফএস)](http://www.shafaetsplanet.com/planetcoding/?p=604) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -165,6 +169,7 @@
   * [0/1 BFS](http://shakilcompetitiveprogramming.blogspot.nl/2016/05/01-bfs.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
   * [BFS/DFS part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/bfsdfs-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
   * [ব্রেথড ফার্স্ট সার্চ (বিএফএস) স্টেপ বাই স্টেপ](https://www.shawonruet.com/2017/02/breadth-first-search-bfs.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
+  * [গ্রাফঃ বিএফএস (BFS) গ্রাফ ট্রাভার্সাল অ্যালগরিদম](https://iishanto.com/%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%83-%e0%a6%ac%e0%a6%bf%e0%a6%8f%e0%a6%ab%e0%a6%8f%e0%a6%b8-%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 
 * ডেপথ ফার্স্ট সার্চ-ডিএফএস (Depth First Search-DFS)
   * [ডেপথ ফার্স্ট সার্চ এবং আবারো টপোলোজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=973) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -181,6 +186,8 @@
   * [Dijkstra algorithm step by step in C++ Bangla ](https://www.shawonruet.com/2019/10/dijkstra-algorithm-step-by-step-in-c.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
   * [ফ্লয়েড ওয়ার্শল](http://www.shafaetsplanet.com/planetcoding/?p=1927) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [বেলম্যান ফোর্ড](http://www.shafaetsplanet.com/planetcoding/?p=2044) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [গ্রাফ শর্টেস্ট পাথ: ডায়াক্সট্রা অ্যালগরিদম](https://iishanto.com/dijkstra-algorithm-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+  * [গ্রাফ শর্টেস্ট পাথ: বেলম্যান ফোর্ড অ্যালগরিদম](https://iishanto.com/single-source-shortest-path-bellman-ford-algorithm/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 
 * মিনিমাম স্প্যানিং ট্রি (Minimum Spanning Tree)
   * [মিনিমাম স্প্যানিং ট্রি ১ (প্রিমস অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=692) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -303,12 +310,14 @@
     -  [বাইসেকশন মেথড](http://blog.faiyaz.info/bisection/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
     - [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) - [আলাভোলা](https://medium.com/@amialavola)
     - [বাইনারি সার্চ](http://hellohasan.com/2016/10/20/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-binary-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+    - [বাইনারি সার্চ ও তার অ্যালগরিদম](https://iishanto.com/binary-search-algorithm-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
     - [বাইনারি সার্চঃ ১ম পর্ব](http://shoshikkha.com/archives/116) - [মেসবাহ তানভীর](https://www.facebook.com/mesba.tanvir)
     - [Binary Search part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2014/09/binary-search-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
     - [Painless Binary Search](http://www.abuasifkhan.me/painless-binary-search.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 
-
-* [TERNARY SEARCH](http://shoshikkha.com/archives/4332) - [রেদওয়ান আহমেদ]()
+* টারনারি সার্চ
+   - [TERNARY SEARCH](http://shoshikkha.com/archives/4332) - [রেদওয়ান আহমেদ]()
+   - [টারনারি সার্চ ও তার অ্যালগরিদম](https://iishanto.com/ternary-search-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 
 
 ### গ্রীডি মেথড
@@ -518,6 +527,7 @@
 * [গিট টিউটরিয়াল](http://tuts.nanodesignsbd.com/category/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%9F%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B2/) - [মাঈনুল ইসলাম](https://www.facebook.com/mayeenulislam)
 * [কিভাবে গিটহাবে প্রোজেক্ট রিলিয করতে হয়](http://tuts.nanodesignsbd.com/releasing-github-project/) - [মাঈনুল ইসলাম](https://www.facebook.com/mayeenulislam)
 * [গিট ও গিটহাব](http://subeen.com/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%93-%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+* [Git Bangla tutorial: গিট এবং গিটহাব: নতুনদের জন্য গিট](https://iishanto.com/git-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 - [গিটহাবে ওপেনসোর্স প্রজেক্টে কন্ট্রিবিউশনের সহজ ওয়ার্কফ্লো](https://medium.com/@me_shaon/%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%93%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%89%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A7%8B-1a2d8b107391) - [আহমেদ শামীম হাসান](https://www.facebook.com/ahmed.shamim.hassan)
 
 
@@ -548,6 +558,7 @@
 * [মেশিন লার্নিং (১): শুরুর কথা।](https://iishanto.com/2020/07/22/%e0%a6%ae%e0%a7%87%e0%a6%b6%e0%a6%bf%e0%a6%a8-%e0%a6%b2%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a8%e0%a6%bf%e0%a6%82-%e0%a7%a7-%e0%a6%b6%e0%a7%81%e0%a6%b0%e0%a7%81%e0%a6%b0-%e0%a6%95%e0%a6%a5%e0%a6%be/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 * [মেশিন লার্নিং (২): লিনিয়ার রিগ্রেশন, মডেল রিপ্রেজেন্টেশন ও কস্ট (Cost) ফাংশন](https://iishanto.com/2020/08/04/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b0%e0%a6%bf%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%95%e0%a6%b7%e0%a7%8d%e0%a6%9f-%e0%a6%ab/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 * [কস্ট ফাংশনের অন্তরীকরণ এবং গ্র্যাডিয়েন্ট ডিসেন্ট](https://iishanto.com/2020/11/06/%e0%a6%95%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%ab%e0%a6%be%e0%a6%82%e0%a6%b6%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%a8%e0%a7%8d%e0%a6%a4%e0%a6%b0%e0%a7%80%e0%a6%95%e0%a6%b0%e0%a6%a3-%e0%a6%8f/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+* [Face recognition: ছবি থেকে মুখ শনাক্তকরণ পদ্ধতি](https://iishanto.com/face-recognition-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 ---
 ## অন্যান্য
 
