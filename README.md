@@ -421,7 +421,7 @@
 ### স্ট্রাটেজি ডিজাইন প্যাটার্ণ
 
 * [স্ট্রাটেজি ডিজাইন প্যাটার্ণ](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/strategy-design-pattern.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
-* [স্ট্রাটেজি ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/strategy_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
+* [স্ট্রাটেজি ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/strategy_pattern.html) - [How-to-code](http://www.howtocode.dev/)
 * [স্ট্রাটেজি ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/06/15/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-strategy/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
 ### ডেকোরেটর ডিজাইন প্যাটার্ণ
@@ -430,33 +430,33 @@
 
 ### প্রোটোটাইপ ডিজাইন প্যাটার্ণ
 
-* [প্রোটোটাইপ ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/prototype_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
+* [প্রোটোটাইপ ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/prototype_pattern.html) - [How-to-code](http://www.howtocode.dev/)
 * [প্রোটোটাইপ ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/06/24/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A7%8B%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%AA-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-prototype-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
 ### এডাপ্টার ডিজাইন প্যাটার্ণ
 
-* [এডাপ্টার ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/adapter_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
+* [এডাপ্টার ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/adapter_pattern.html) - [How-to-code](http://www.howtocode.dev/)
 * [এডাপ্টার ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/07/07/%E0%A6%8F%E0%A6%A1%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-adapter-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
 ### ইটারেটর ডিজাইন প্যাটার্ণ
 
-* [ইটারেটর ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/iterator_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
+* [ইটারেটর ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/iterator_pattern.html) - [How-to-code](http://www.howtocode.dev/)
 * [ইটারেটর ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/10/25/iterator-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
 ### চেইন অফ রেসপন্সিবিলিটি ডিজাইন প্যাটার্ণ
 
-* [চেইন অফ রেসপন্সিবিলিটি ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/chain_of_responsibility.html) - [How-to-code](http://www.howtocode.com.bd/)
+* [চেইন অফ রেসপন্সিবিলিটি ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/chain_of_responsibility.html) - [How-to-code](http://www.howtocode.dev/)
 * [Chain of Responsibility ওরফে দায়িত্বের ফাইল চালাচালি](http://lordamit.blogspot.com/2012/06/chain-of-responsibility.html) - [অমিত শীল অমি](https://www.facebook.com/lordamit)
 * [চেইন অফ রেসপন্সিবিলিটি ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/05/26/%E0%A6%9A%E0%A7%87%E0%A6%87%E0%A6%A8-%E0%A6%85%E0%A6%AB-%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%9F%E0%A6%BF/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
 ### অবজারভার ডিজাইন প্যাটার্ণ
 
-* [অবজারভার ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/observer_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
+* [অবজারভার ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/observer_pattern.html) - [How-to-code](http://www.howtocode.dev/)
 * [অবজারভার ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/05/29/%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-observer-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
 ### কম্পোজিট ডিজাইন প্যাটার্ণ
 
-* [কম্পোজিট ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/composite_design_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
+* [কম্পোজিট ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/composite_design_pattern.html) - [How-to-code](http://www.howtocode.dev/)
 * [কম্পোজিট ডিজাইন প্যাটার্ন](https://logicalforhad.wordpress.com/2015/04/26/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%9C%E0%A6%BF%E0%A6%9F-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
 ### মেমেন্টো ডিজাইন প্যাটার্ণ
@@ -513,7 +513,7 @@
 
 ## সফটওয়্যার আর্কিটেকচার
 * [মাইক্রোসার্ভিস আর্কিটেকচার](http://apikothon.com/microservice-bangla-tutorial) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
-* [সফটওয়্যার আর্কিটেকচার - বাংলা](http://architecture.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+* [সফটওয়্যার আর্কিটেকচার - বাংলা](http://architecture.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
 
 ---
 
@@ -521,7 +521,7 @@
 * [গিট সম্পর্কে ধারণা, গিট ইন্সটল, ব্যবহার এবং গিটহাব এ একটা প্রজেক্ট পুশ করা](http://tech.jakir.me/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%93-%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE/) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [ভার্সন কন্ট্রোল সিস্টেম](http://software-engineering-notes-in-bangla.blogspot.com/2015/06/blog-post.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [ডেভেলপমেন্টের সময় গিট ব্যবহারের সহজ ওয়ার্ক-ফ্লো](https://hasin.me/2014/05/13/git-workflow-in-bangla/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
-* [বাংলায় গিট কোর্স](http://git.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+* [বাংলায় গিট কোর্স](http://git.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
 * [গিট](https://azharibnmostafiz.wordpress.com/category/%E0%A6%97%E0%A6%BF%E0%A6%9F/) - [আজহার ইবনে মোস্তাফিজ](https://www.facebook.com/theazharul)
 * [গিট টিউটরিয়াল (ভিডিও)](http://git.certainly.rocks/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
 * [গিট টিউটরিয়াল](http://tuts.nanodesignsbd.com/category/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%9F%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B2/) - [মাঈনুল ইসলাম](https://www.facebook.com/mayeenulislam)
@@ -553,7 +553,7 @@
 ## আর্টিফিশিয়াল ইন্টিলিজেন্স, মেশিন লার্নিং
 
 * [মেশিন লার্নিং? কম্পিউটার আবার শিখে কিভাবে!](http://adhikary.net/post/machine-learning/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
-* [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.com.bd/) - [নুহিল মেহেদী](https://www.facebook.com/nuhil)
+* [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.dev/) - [নুহিল মেহেদী](https://www.facebook.com/nuhil)
 * [Multi Layer Perceptron And Back Propagation Step By Step in Bangla ](https://www.shawonruet.com/2018/06/multi-layer-perception-and-back.html) - -[আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
 * [মেশিন লার্নিং (১): শুরুর কথা।](https://iishanto.com/2020/07/22/%e0%a6%ae%e0%a7%87%e0%a6%b6%e0%a6%bf%e0%a6%a8-%e0%a6%b2%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a8%e0%a6%bf%e0%a6%82-%e0%a7%a7-%e0%a6%b6%e0%a7%81%e0%a6%b0%e0%a7%81%e0%a6%b0-%e0%a6%95%e0%a6%a5%e0%a6%be/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 * [মেশিন লার্নিং (২): লিনিয়ার রিগ্রেশন, মডেল রিপ্রেজেন্টেশন ও কস্ট (Cost) ফাংশন](https://iishanto.com/2020/08/04/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b0%e0%a6%bf%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%95%e0%a6%b7%e0%a7%8d%e0%a6%9f-%e0%a6%ab/) - [শরিফ হাসান](https://facebook.com/io.shanto)
