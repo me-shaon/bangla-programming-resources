@@ -552,6 +552,7 @@
 
 ## আর্টিফিশিয়াল ইন্টিলিজেন্স, মেশিন লার্নিং
 
+* [হাতেকলমে মেশিন লার্নিং (আর এবং পাইথন প্রোগ্রামিং এনভায়রনমেন্ট)](https://rakibul-hassan.gitbook.io/mlbook-titanic/) - [রকিবুল হাসান](https://github.com/raqueeb)
 * [মেশিন লার্নিং? কম্পিউটার আবার শিখে কিভাবে!](http://adhikary.net/post/machine-learning/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.dev/) - [নুহিল মেহেদী](https://www.facebook.com/nuhil)
 * [Multi Layer Perceptron And Back Propagation Step By Step in Bangla ](https://www.shawonruet.com/2018/06/multi-layer-perception-and-back.html) - -[আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
