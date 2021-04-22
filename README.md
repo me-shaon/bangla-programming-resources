@@ -33,7 +33,6 @@
     * [লিঙ্কড লিস্ট - ৩ (Linked List - 3) - নোড যোগ করা (ভিডিও)](https://youtu.be/VLd6EnfUuWU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [লিঙ্কড লিস্ট - ৪ (Linked List - 4) - ট্রাভার্স করা (ভিডিও)](https://youtu.be/XLBBmEUILi4) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [লিঙ্কড লিস্ট - ৫ (Linked List - 5) - ডবলি লিঙ্কড লিস্ট (ভিডিও)](https://youtu.be/kyuPR9SqvDY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [লিঙ্কড লিস্ট - ৫ (Linked List - 5) - ডবলি লিঙ্কড লিস্ট (ভিডিও)](https://youtu.be/kyuPR9SqvDY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [লিঙ্কড লিস্ট - ৬ (Linked List - 6) - অ্যারে ও লিঙ্কড লিস্ট-এর পার্থক্য (ভিডিও)](https://youtu.be/DKpe5gsySag) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * স্ট্যাক (Stack)
