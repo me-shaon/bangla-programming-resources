@@ -684,3 +684,27 @@
 * [BSADD Community, BUET Youtube Channel](https://www.youtube.com/channel/UCSEEEKX5ts05xGkdeZJIvmw)
 * [বাংলা টেক টক পডকাস্ট](https://banglatechtalk.com)
 * [Klassroom, Youtube Channel](https://www.youtube.com/c/KlassroomGlobal/)
+---
+## ইউটিউব চ্যানেল 
+### বাংলা 
+* [Anisul Islam](https://www.youtube.com/user/ANIS3730)
+* [Tamim Shahriar](https://www.youtube.com/user/subeents)
+* [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub)
+* [Stack Learner](https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw)
+* [JS Bangladesh](https://www.youtube.com/channel/UCC-aIlmCJvIERahr2spCEDg)
+* [Code With Zonayed](https://www.youtube.com/channel/UCV-LSzDRvKuLNC6SlChWkJA)
+* [Hablu Programmer](https://www.youtube.com/channel/UCpGQisjfG8w-E21cG4ScEOA)
+* [Rasel Ahmed](https://www.youtube.com/channel/UC94qXY-Icq1xaoGCQI11-mw)
+* [Zulkarnine Mahmud](https://www.youtube.com/channel/UCH2RRllj1QbqFRgAlqhesGQ)
+* [Rabbil Hasan](https://www.youtube.com/channel/UCSMFY8_rooijS-Zv43tKCrQ)
+* [Learn with Sumit](https://www.youtube.com/user/sumitanalyzen)
+* [Learn Hunter](https://www.youtube.com/channel/UC7lIh9A3Isi_v0o_bvu5dKQ)
+* [Learn with Hasin Hayder](https://www.youtube.com/channel/UCwkHodC3PikVnMUQ2w-LraA)
+
+### English
+* [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+* [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+* [Easy Tutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA)
+* [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+* [Bro Code](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
+* [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
