@@ -701,10 +701,4 @@
 * [Learn Hunter](https://www.youtube.com/channel/UC7lIh9A3Isi_v0o_bvu5dKQ)
 * [Learn with Hasin Hayder](https://www.youtube.com/channel/UCwkHodC3PikVnMUQ2w-LraA)
 
-### English
-* [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
-* [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
-* [Easy Tutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA)
-* [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
-* [Bro Code](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
-* [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+
