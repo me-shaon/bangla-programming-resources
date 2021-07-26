@@ -1,8 +1,8 @@
 # Author : Mohammad Sheikh Ghazanfar (https://github.com/msghera)
 
-# I hereby declare that, the author accepts no responsibility for 
-# the topicality, correctness, completeness or quality of the 
-# the code. Also, using this code is propieratorily protected for 
+# I hereby declare that, the author accepts no responsibility for
+# the topicality, correctness, completeness or quality of the
+# the code. Also, using this code is propieratorily protected for
 # https://github.com/msghera/bangla-programming-resources.
 
 
@@ -16,55 +16,59 @@ from alive_progress import alive_bar
 import pandas
 import time
 
-logging.basicConfig(format='[%(asctime)s] : %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', level=logging.INFO)
+logging.basicConfig(
+    format="[%(asctime)s] : %(message)s",
+    datefmt="%m/%d/%Y %I:%M:%S %p",
+    level=logging.INFO,
+)
 logger = logging.getLogger(__name__)
 
-class LinkTester():
 
+class LinkTester:
     def __init__(self, filepath, **kwargs):
 
         self.filepath = filepath
-        self.only_error = kwargs.get('only_error', False)
-        self.output_filename = kwargs.get('output_filename', None)
+        self.only_error = kwargs.get("only_error", False)
+        self.output_filename = kwargs.get("output_filename", None)
 
         self.header = {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36" ,
-            'referer':'https://www.google.com/'
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
+            "referer": "https://www.google.com/",
         }
 
-
-        logger.info(f'Initiating LinkTester for : {self.filepath}\n')
+        logger.info(f"Initiating LinkTester for : {self.filepath}\n")
 
         if self.filepath is None:
-            raise 'Filepath can not be None'
+            raise "Filepath can not be None"
         try:
             with open(self.filepath, "r") as file:
-                self.lines = file.read().split('\n')
-        except IOError:    
-            raise f'Error occured while opening or reding the file {self.filepath}.'
+                self.lines = file.read().split("\n")
+        except IOError:
+            raise f"Error occured while opening or reding the file {self.filepath}."
 
         with alive_bar(len(self.lines)) as bar:
             for line_id in range(len(self.lines)):
                 self.lines[line_id] = self.__link_extractor(self.lines[line_id])
 
                 for i in range(len(self.lines[line_id])):
-                    self.lines[line_id][i]['result'] = self.__link_tester(self.lines[line_id][i]['link'], line_id)
+                    self.lines[line_id][i]["result"] = self.__link_tester(
+                        self.lines[line_id][i]["link"], line_id
+                    )
 
                 bar()
 
         self.__generate_report()
 
     def __link_extractor(self, line):
-        
-        if len(line) == 0 : return []
-        else : line = line.strip()
-       
+
+        if len(line) == 0:
+            return []
+        else:
+            line = line.strip()
+
         doc, ret = etree.fromstring(markdown.markdown(line)), []
-        for link in doc.xpath('//a'):
-            cur = {
-                'text' : link.text,
-                'link' : link.get('href')
-            }
+        for link in doc.xpath("//a"):
+            cur = {"text": link.text, "link": link.get("href")}
 
             ret.append(cur)
 
@@ -74,78 +78,88 @@ class LinkTester():
 
         response = None
         try:
-            response = requests.get(link, headers =  self.header)
+            response = requests.get(link, headers=self.header)
             response = {
-                'responded' : True, 
-                'status_code' : f'Status Code : {response.status_code}',
-                'is_okay' : (response.status_code // 100) == 2
+                "responded": True,
+                "status_code": f"Status Code : {response.status_code}",
+                "is_okay": (response.status_code // 100) == 2,
             }
-        
-        except Exception as exception:
-            response = {
-                'responded' : False, 
-                'status_code' : f'Issue : {exception}' 
-            }
-        
-        if response['responded'] : 
-            if not response['is_okay'] :
-                logger.info(f'Broken link found at line : {line_number}.\n')
 
-        else : 
-            logger.info(f'Broken link found at line : {line_number}.\n')
+        except Exception as exception:
+            response = {"responded": False, "status_code": f"Issue : {exception}"}
+
+        if response["responded"]:
+            if not response["is_okay"]:
+                logger.info(f"Broken link found at line : {line_number}.\n")
+
+        else:
+            logger.info(f"Broken link found at line : {line_number}.\n")
 
         time.sleep(2)
         return response
 
     def __generate_report(self):
-        line_number, response_type, text, link  = [], [], [], []
+        line_number, response_type, text, link = [], [], [], []
 
         for line_id in range(len(self.lines)):
 
             line = self.lines[line_id]
             for each in line:
 
-                if self.only_error and each['result']['responded'] and  each['result'].get('is_okay', False) :
+                if (
+                    self.only_error
+                    and each["result"]["responded"]
+                    and each["result"].get("is_okay", False)
+                ):
                     continue
 
                 line_number.append(line_id)
-                
-                if each['result']['responded'] :
-                    if each['result']['is_okay'] :
-                        response_type.append('Okay')
-                    else :
-                        response_type.append('Error Response')
+
+                if each["result"]["responded"]:
+                    if each["result"]["is_okay"]:
+                        response_type.append("Okay")
+                    else:
+                        response_type.append("Error Response")
                 else:
-                    response_type.append('No Response')
+                    response_type.append("No Response")
 
-                text.append(each['text'])
-                link.append(each['link'])
-    
-        if self.output_filename is None :
-            self.output_filename = os.path.basename(self.filepath.split()[0]) + '_LinkTesterResult.csv'
+                text.append(each["text"])
+                link.append(each["link"])
 
-        try : 
-            pandas.DataFrame({
-                'Line Number' : line_number,
-                'Response Type' : response_type,
-                'Text for Link' : text,
-                'Link' : link
-            }).to_csv(self.output_filename, index=False)
+        if self.output_filename is None:
+            self.output_filename = (
+                os.path.basename(self.filepath.split()[0]) + "_LinkTesterResult.csv"
+            )
 
-        except : 
-            raise 'Issue in Output file creation.'
+        try:
+            pandas.DataFrame(
+                {
+                    "Line Number": line_number,
+                    "Response Type": response_type,
+                    "Text for Link": text,
+                    "Link": link,
+                }
+            ).to_csv(self.output_filename, index=False)
 
-        total_broken_links = len(response_type) - sum([1 for res in response_type if res == 'Okay'])
-        logger.info(f'\nLink Test is completed. Total {total_broken_links} link(s) found as broken out of {len(response_type)}. Detailed Report can be found at : {self.output_filename}\n')
+        except:
+            raise "Issue in Output file creation."
+
+        total_broken_links = len(response_type) - sum(
+            [1 for res in response_type if res == "Okay"]
+        )
+        logger.info(
+            f"\nLink Test is completed. Total {total_broken_links} link(s) found as broken out of {len(response_type)}. Detailed Report can be found at : {self.output_filename}\n"
+        )
 
 
 def main():
     dir_path = os.path.dirname(os.path.realpath(__file__))
-    files = [f for f in os.listdir('../') if f.split('.')[-1]=='md']
+    files = [f for f in os.listdir("../") if f.split(".")[-1] == "md"]
     filepaths = [os.path.join(dir_path, os.pardir, f) for f in files]
 
     for file in filepaths:
         LinkTester(file)
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
