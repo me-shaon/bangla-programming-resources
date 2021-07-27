@@ -41,19 +41,22 @@ class LinkTester:
         if self.filepath is None:
             raise "Filepath can not be None"
         try:
-            with open(self.filepath, "r") as file:
+            with open(self.filepath, "r", encoding="utf8") as file:
                 self.lines = file.read().split("\n")
         except IOError:
-            raise f"Error occured while opening or reding the file {self.filepath}."
+            raise f"Error occured while opening or reading the file {self.filepath}."
 
         with alive_bar(len(self.lines)) as bar:
             for line_id in range(len(self.lines)):
                 self.lines[line_id] = self.__link_extractor(self.lines[line_id])
 
                 for i in range(len(self.lines[line_id])):
-                    self.lines[line_id][i]["result"] = self.__link_tester(
-                        self.lines[line_id][i]["link"], line_id
-                    )
+                    try:
+                        self.lines[line_id][i]["result"] = self.__link_tester(
+                            self.lines[line_id][i]["link"], line_id+1
+                        )
+                    except:
+                        logger.info(f"LinkTester failed to test at line : {line_id+1}\n")
 
                 bar()
 
@@ -88,12 +91,13 @@ class LinkTester:
         except Exception as exception:
             response = {"responded": False, "status_code": f"Issue : {exception}"}
 
+        broken_statement = f"Broken link found at line : {line_number}.\n"
         if response["responded"]:
             if not response["is_okay"]:
-                logger.info(f"Broken link found at line : {line_number}.\n")
+                logger.info(broken_statement)
 
         else:
-            logger.info(f"Broken link found at line : {line_number}.\n")
+            logger.info(broken_statement)
 
         time.sleep(2)
         return response
@@ -155,7 +159,7 @@ class LinkTester:
 def main():
     dir_path = os.path.dirname(os.path.realpath(__file__))
     files = [f for f in os.listdir("../") if f.split(".")[-1] == "md"]
-    filepaths = [os.path.join(dir_path, os.pardir, f) for f in files]
+    filepaths = [os.path.abspath(os.path.join(dir_path, os.pardir, f)) for f in files]
 
     for file in filepaths:
         LinkTester(file)
