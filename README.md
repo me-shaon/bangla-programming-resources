@@ -285,6 +285,7 @@
 
 * সিলেকশন সর্ট (Selection Sort)
     - [সিলেকশন সর্ট (ভিডিও)](https://youtu.be/qHmByz1YvQs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [সিলেকশন সর্ট(Selection sort) অ্যালগরিদম](https://baburjhuli.blogspot.com/2022/02/selection-sort-algorithm.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 * ইনসার্শন সর্ট (Insertion Sort)
     - [ইনসার্শন সর্ট (ভিডিও)](https://youtu.be/aBi8ptRBWY8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
