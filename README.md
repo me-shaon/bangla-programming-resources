@@ -43,6 +43,8 @@
     * [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://medium.com/@amialavola)
     * [স্ট্যাক – অ্যারে ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3321) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
     * [স্ট্যাক – লিংকড লিস্ট ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3521) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+    * [স্ট্যাক(Stack) ডাটা-স্ট্রাকচার ইন পাইথন](https://baburjhuli.blogspot.com/2022/02/stack-ds-in-python.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+    * [Stack data structure in javascript](https://baburjhuli.blogspot.com/2022/01/stack-data-structure-in-javascript.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 * কিউ (Queue)
     * [কিউ ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/queue) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
