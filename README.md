@@ -54,8 +54,9 @@
     * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
     * [প্রায়োরিটি কিউ (ভিডিও)](https://youtu.be/v0tzjgW0i8E) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [বাইনারি হিপ বা প্রায়োরিটি কিউ](https://iishanto.com/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b9%e0%a7%80%e0%a6%aa-heap-%e0%a6%ac%e0%a6%be-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a7%9f%e0%a7%8b%e0%a6%b0%e0%a6%bf%e0%a6%9f/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+    * [কিউ(Queue) ডাটা-স্ট্রাকচার ইন পাইথন](https://baburjhuli.blogspot.com/2022/02/queue-ds-in-python.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+    * [কিউ(Queue) ডাটা-স্ট্রাকচার ইন জাভাস্ক্রিপ্ট](https://baburjhuli.blogspot.com/2022/01/queue-data-structure-in-javascript.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
  
-
 * ট্রি (Tree)
    * [ট্রি ডেটা স্ট্রাকচার](http://hellohasan.com/category/data-structure/tree/tree-basic-concept/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
    * [ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/0I1JVXbHpec) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
