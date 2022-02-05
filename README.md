@@ -43,6 +43,8 @@
     * [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://medium.com/@amialavola)
     * [স্ট্যাক – অ্যারে ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3321) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
     * [স্ট্যাক – লিংকড লিস্ট ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3521) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+    * [স্ট্যাক(Stack) ডাটা-স্ট্রাকচার ইন পাইথন](https://baburjhuli.blogspot.com/2022/02/stack-ds-in-python.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+    * [Stack data structure in javascript](https://baburjhuli.blogspot.com/2022/01/stack-data-structure-in-javascript.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 * কিউ (Queue)
     * [কিউ ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/queue) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
@@ -52,8 +54,9 @@
     * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
     * [প্রায়োরিটি কিউ (ভিডিও)](https://youtu.be/v0tzjgW0i8E) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [বাইনারি হিপ বা প্রায়োরিটি কিউ](https://iishanto.com/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b9%e0%a7%80%e0%a6%aa-heap-%e0%a6%ac%e0%a6%be-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a7%9f%e0%a7%8b%e0%a6%b0%e0%a6%bf%e0%a6%9f/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+    * [কিউ(Queue) ডাটা-স্ট্রাকচার ইন পাইথন](https://baburjhuli.blogspot.com/2022/02/queue-ds-in-python.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+    * [কিউ(Queue) ডাটা-স্ট্রাকচার ইন জাভাস্ক্রিপ্ট](https://baburjhuli.blogspot.com/2022/01/queue-data-structure-in-javascript.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
  
-
 * ট্রি (Tree)
    * [ট্রি ডেটা স্ট্রাকচার](http://hellohasan.com/category/data-structure/tree/tree-basic-concept/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
    * [ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/0I1JVXbHpec) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
@@ -262,6 +265,7 @@
     - [বাবল সর্ট](http://hellohasan.com/2016/10/18/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-bubble-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
     - [বাবল সর্ট](https://shameem.me/bubble-sort-algorithm-bangla/) - [শামীম রেজা](https://www.facebook.com/TryShameem/)
     - [বাবল সর্ট (ভিডিও)](https://youtu.be/ZUI0VQ9JvDw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [বাবল সর্ট(Bubble sort) অ্যালগরিদম](https://baburjhuli.blogspot.com/2022/02/bubble-sort-algorithm.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 * কাউন্টিং সর্ট (Counting sort)
     - [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
@@ -282,6 +286,7 @@
 
 * সিলেকশন সর্ট (Selection Sort)
     - [সিলেকশন সর্ট (ভিডিও)](https://youtu.be/qHmByz1YvQs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [সিলেকশন সর্ট(Selection sort) অ্যালগরিদম](https://baburjhuli.blogspot.com/2022/02/selection-sort-algorithm.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 * ইনসার্শন সর্ট (Insertion Sort)
     - [ইনসার্শন সর্ট (ভিডিও)](https://youtu.be/aBi8ptRBWY8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
