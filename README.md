@@ -17,6 +17,8 @@
 * [বিগ ও নোটেশন (Big O Notation) সম্পর্কে](https://baburjhuli.blogspot.com/2021/07/introduction-to-big-o-notation.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 * [অ্যালগরিদম(algorithm) লিখার নিয়ম](https://baburjhuli.blogspot.com/2021/08/algorithm.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 * [ফ্লোচার্ট (Flowchart) নিয়ে আলোচনা](https://baburjhuli.blogspot.com/2021/08/flowchart.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+* [অ্যালগরিদমে টাইম কমপ্লিক্সিটি(complexity) - পর্ব (০১)](https://baburjhuli.blogspot.com/2021/07/time-complexity-in-algorithm-part-01.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+*  [অ্যালগরিদমে টাইম কমপ্লিক্সিটি(complexity) - পর্ব (০২)](https://baburjhuli.blogspot.com/2021/08/time-complexity-in-algorithm-part-02.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 ### ডাটা স্ট্রাকচার
 
