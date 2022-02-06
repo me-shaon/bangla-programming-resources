@@ -15,6 +15,8 @@
 * [কমপ্লেক্সিটি ক্লাস(P-NP, টুরিং মেশিন ইত্যাদি)](http://www.shafaetsplanet.com/planetcoding/?p=1642) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [ডেটা স্ট্রাকচার এবং অ্যালগরিদম পরিচিতি](https://baburjhuli.blogspot.com/2021/08/introduction-to-data-structures-and-algorithms.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 * [বিগ ও নোটেশন (Big O Notation) সম্পর্কে](https://baburjhuli.blogspot.com/2021/07/introduction-to-big-o-notation.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+* [অ্যালগরিদম(algorithm) লিখার নিয়ম](https://baburjhuli.blogspot.com/2021/08/algorithm.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+* [ফ্লোচার্ট (Flowchart) নিয়ে আলোচনা](https://baburjhuli.blogspot.com/2021/08/flowchart.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 ### ডাটা স্ট্রাকচার
 
