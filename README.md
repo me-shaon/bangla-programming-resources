@@ -13,6 +13,12 @@
 ### ব্যাসিক
 * [বিগ "O" নোটেশন](http://www.shafaetsplanet.com/planetcoding/?p=1313)  - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [কমপ্লেক্সিটি ক্লাস(P-NP, টুরিং মেশিন ইত্যাদি)](http://www.shafaetsplanet.com/planetcoding/?p=1642) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [ডেটা স্ট্রাকচার এবং অ্যালগরিদম পরিচিতি](https://baburjhuli.blogspot.com/2021/08/introduction-to-data-structures-and-algorithms.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+* [বিগ ও নোটেশন (Big O Notation) সম্পর্কে](https://baburjhuli.blogspot.com/2021/07/introduction-to-big-o-notation.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+* [অ্যালগরিদম(algorithm) লিখার নিয়ম](https://baburjhuli.blogspot.com/2021/08/algorithm.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+* [ফ্লোচার্ট (Flowchart) নিয়ে আলোচনা](https://baburjhuli.blogspot.com/2021/08/flowchart.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+* [অ্যালগরিদমে টাইম কমপ্লিক্সিটি(complexity) - পর্ব (০১)](https://baburjhuli.blogspot.com/2021/07/time-complexity-in-algorithm-part-01.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+*  [অ্যালগরিদমে টাইম কমপ্লিক্সিটি(complexity) - পর্ব (০২)](https://baburjhuli.blogspot.com/2021/08/time-complexity-in-algorithm-part-02.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 ### ডাটা স্ট্রাকচার
 
@@ -45,6 +51,8 @@
     * [স্ট্যাক – লিংকড লিস্ট ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3521) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
     * [স্ট্যাক(Stack) ডাটা-স্ট্রাকচার ইন পাইথন](https://baburjhuli.blogspot.com/2022/02/stack-ds-in-python.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
     * [Stack data structure in javascript](https://baburjhuli.blogspot.com/2022/01/stack-data-structure-in-javascript.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+    * [চেক প্যালিনড্রোম (Palindrome) - using Stack](https://baburjhuli.blogspot.com/2022/02/check-palindrome-using-stack.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+    * [ফাইন্ড ফ্যাক্টরিয়াল - Using Stack](https://baburjhuli.blogspot.com/2022/02/find-palindrome-number-using-stack.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 * কিউ (Queue)
     * [কিউ ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/queue) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
@@ -306,7 +314,7 @@
 * লিনিয়ার সার্চ (Linear search)
     - [লিনিয়ার সার্চ](http://hellohasan.com/2016/10/14/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-linear-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
     - [লিনিয়ার সার্চ (ভিডিও)](https://youtu.be/IbV2eELjP2k) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-
+    - [লিনিয়ার সার্চ (Linear Search) অ্যালগরিদম](https://baburjhuli.blogspot.com/2021/09/linear-search-in-javascript.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 * বাইনারি সার্চ (Binary search)
     -  [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     -  [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
