@@ -243,9 +243,9 @@
     - [ডিপি সলিউশন প্রিন্ট করা এবং LIS](http://www.shafaetsplanet.com/planetcoding/?p=1211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     - [LIS and variation](http://shakilcompetitiveprogramming.blogspot.nl/2016/04/lis-and-variation.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
-* ০/১ ন্যাপসাক (0/1 knapsack)
+* ০/১ ন্যাপস্যাক (0/1 knapsack)
     -  [ডিপি 'স্টেট', NcR, ০-১ ন্যাপস্যাক](http://www.shafaetsplanet.com/planetcoding/?p=1072) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    - [০/১ ন্যাপসাক (0/1 knapsack)](https://sites.google.com/site/programinggconcept/0-1-knapsack)
+    - [০/১ ন্যাপস্যাক (0/1 knapsack)](https://sites.google.com/site/programinggconcept/0-1-knapsack)
     * [০-১ ন্যাপস্যাকঃ টপ ডাউন](https://returnzerooo.wordpress.com/2016/02/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
     * [০-১ ন্যাপস্যাকঃ বটম আপ ও স্পেস অপটিমাইজেশন টেকনিক](https://returnzerooo.wordpress.com/2016/05/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A6%9F%E0%A6%AE-%E0%A6%86%E0%A6%AA/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
     * [0/1 knapsack step by step in Bangla](https://www.shawonruet.com/2018/12/01-knapsack.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
