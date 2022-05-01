@@ -393,6 +393,7 @@
     - [পর্ব – ১: রেজা সাহেব ও সেলুনে লাইন দেবার মোবাইল অ্যাপ](http://deshi.engineer/posts/2017/07/why-discrete-math-logic/)
     - [পর্ব – ২: সেট থিওরি ও রেজা সাহেবের গোয়েন্দাগিরি](http://deshi.engineer/posts/2017/07/why-discrete-math-sets/)
     - [পর্ব – ৩: গ্রাফ থিওরি ও রেজা সাহেবের নিয়ারেস্ট সেলুন ফাইন্ডার](http://deshi.engineer/posts/2017/07/why-discrete-math-graphs/)
+* [ডিসক্রিট ম্যাথমেটিক্স | Discrete mathematics - আনিসুল ইসলাম](https://www.youtube.com/watch?v=Uhr1DokOojs&list=PLgH5QX0i9K3rYy9DVhk28m8enSo8xxiZ3)
 * [জাভার বিগইন্টিজার(BigInteger)ক্লাস – বেসিক](https://returnzerooo.wordpress.com/2015/11/26/%E0%A6%9C%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [জাভার বিগইন্টিজার(BigInteger)ক্লাস – এডভান্সড](https://returnzerooo.wordpress.com/2016/01/08/%E0%A6%9C%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8-2/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [Josephus Number ( জোসেফাস নম্বর)](https://www.shawonruet.com/2017/01/josephus-number.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
