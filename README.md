@@ -13,10 +13,16 @@
 ### ব্যাসিক
 * [বিগ "O" নোটেশন](http://www.shafaetsplanet.com/planetcoding/?p=1313)  - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [কমপ্লেক্সিটি ক্লাস(P-NP, টুরিং মেশিন ইত্যাদি)](http://www.shafaetsplanet.com/planetcoding/?p=1642) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [ডেটা স্ট্রাকচার এবং অ্যালগরিদম পরিচিতি](https://baburjhuli.blogspot.com/2021/08/introduction-to-data-structures-and-algorithms.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+* [বিগ ও নোটেশন (Big O Notation) সম্পর্কে](https://baburjhuli.blogspot.com/2021/07/introduction-to-big-o-notation.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+* [অ্যালগরিদম(algorithm) লিখার নিয়ম](https://baburjhuli.blogspot.com/2021/08/algorithm.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+* [ফ্লোচার্ট (Flowchart) নিয়ে আলোচনা](https://baburjhuli.blogspot.com/2021/08/flowchart.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+* [অ্যালগরিদমে টাইম কমপ্লিক্সিটি(complexity) - পর্ব (০১)](https://baburjhuli.blogspot.com/2021/07/time-complexity-in-algorithm-part-01.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+*  [অ্যালগরিদমে টাইম কমপ্লিক্সিটি(complexity) - পর্ব (০২)](https://baburjhuli.blogspot.com/2021/08/time-complexity-in-algorithm-part-02.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 ### ডাটা স্ট্রাকচার
 
-* অ্যাারে (Array)
+* অ্যারে (Array)
     * [অ্যারে ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/array) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
     * [অ্যারে কমপ্রেশন/ম্যাপিং](http://www.shafaetsplanet.com/planetcoding/?p=1388) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
@@ -43,6 +49,10 @@
     * [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://medium.com/@amialavola)
     * [স্ট্যাক – অ্যারে ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3321) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
     * [স্ট্যাক – লিংকড লিস্ট ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3521) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+    * [স্ট্যাক(Stack) ডাটা-স্ট্রাকচার ইন পাইথন](https://baburjhuli.blogspot.com/2022/02/stack-ds-in-python.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+    * [Stack data structure in javascript](https://baburjhuli.blogspot.com/2022/01/stack-data-structure-in-javascript.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+    * [চেক প্যালিনড্রোম (Palindrome) - using Stack](https://baburjhuli.blogspot.com/2022/02/check-palindrome-using-stack.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+    * [ফাইন্ড ফ্যাক্টরিয়াল - Using Stack](https://baburjhuli.blogspot.com/2022/02/find-palindrome-number-using-stack.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 * কিউ (Queue)
     * [কিউ ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/queue) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
@@ -52,8 +62,9 @@
     * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
     * [প্রায়োরিটি কিউ (ভিডিও)](https://youtu.be/v0tzjgW0i8E) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [বাইনারি হিপ বা প্রায়োরিটি কিউ](https://iishanto.com/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b9%e0%a7%80%e0%a6%aa-heap-%e0%a6%ac%e0%a6%be-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a7%9f%e0%a7%8b%e0%a6%b0%e0%a6%bf%e0%a6%9f/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+    * [কিউ(Queue) ডাটা-স্ট্রাকচার ইন পাইথন](https://baburjhuli.blogspot.com/2022/02/queue-ds-in-python.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
+    * [কিউ(Queue) ডাটা-স্ট্রাকচার ইন জাভাস্ক্রিপ্ট](https://baburjhuli.blogspot.com/2022/01/queue-data-structure-in-javascript.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
  
-
 * ট্রি (Tree)
    * [ট্রি ডেটা স্ট্রাকচার](http://hellohasan.com/category/data-structure/tree/tree-basic-concept/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
    * [ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/0I1JVXbHpec) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
@@ -72,7 +83,7 @@
 * হ্যাশটেবিল (HashTable)
     * [হ্যাশটেবিল (Hashtable)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6-hash-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%82-hashing-12b7cb6056b8) - [আলাভোলা](https://medium.com/@amialavola)
 
-* ডিসজয়েন্ট সেট (Disjoind Set)
+* ডিসজয়েন্ট সেট (Disjoint Set)
     * [ডিসজয়েন্ট সেট(ইউনিয়ন ফাইন্ড)](http://www.shafaetsplanet.com/planetcoding/?p=763) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * [Union Find Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2014/01/union-find-algorithm-union-find.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
@@ -262,6 +273,7 @@
     - [বাবল সর্ট](http://hellohasan.com/2016/10/18/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-bubble-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
     - [বাবল সর্ট](https://shameem.me/bubble-sort-algorithm-bangla/) - [শামীম রেজা](https://www.facebook.com/TryShameem/)
     - [বাবল সর্ট (ভিডিও)](https://youtu.be/ZUI0VQ9JvDw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [বাবল সর্ট(Bubble sort) অ্যালগরিদম](https://baburjhuli.blogspot.com/2022/02/bubble-sort-algorithm.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 * কাউন্টিং সর্ট (Counting sort)
     - [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
@@ -282,6 +294,7 @@
 
 * সিলেকশন সর্ট (Selection Sort)
     - [সিলেকশন সর্ট (ভিডিও)](https://youtu.be/qHmByz1YvQs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+    - [সিলেকশন সর্ট(Selection sort) অ্যালগরিদম](https://baburjhuli.blogspot.com/2022/02/selection-sort-algorithm.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 
 * ইনসার্শন সর্ট (Insertion Sort)
     - [ইনসার্শন সর্ট (ভিডিও)](https://youtu.be/aBi8ptRBWY8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
@@ -301,7 +314,7 @@
 * লিনিয়ার সার্চ (Linear search)
     - [লিনিয়ার সার্চ](http://hellohasan.com/2016/10/14/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-linear-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
     - [লিনিয়ার সার্চ (ভিডিও)](https://youtu.be/IbV2eELjP2k) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-
+    - [লিনিয়ার সার্চ (Linear Search) অ্যালগরিদম](https://baburjhuli.blogspot.com/2021/09/linear-search-in-javascript.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
 * বাইনারি সার্চ (Binary search)
     -  [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     -  [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -380,6 +393,7 @@
     - [পর্ব – ১: রেজা সাহেব ও সেলুনে লাইন দেবার মোবাইল অ্যাপ](http://deshi.engineer/posts/2017/07/why-discrete-math-logic/)
     - [পর্ব – ২: সেট থিওরি ও রেজা সাহেবের গোয়েন্দাগিরি](http://deshi.engineer/posts/2017/07/why-discrete-math-sets/)
     - [পর্ব – ৩: গ্রাফ থিওরি ও রেজা সাহেবের নিয়ারেস্ট সেলুন ফাইন্ডার](http://deshi.engineer/posts/2017/07/why-discrete-math-graphs/)
+* [ডিসক্রিট ম্যাথমেটিক্স | Discrete mathematics - আনিসুল ইসলাম](https://www.youtube.com/watch?v=Uhr1DokOojs&list=PLgH5QX0i9K3rYy9DVhk28m8enSo8xxiZ3)
 * [জাভার বিগইন্টিজার(BigInteger)ক্লাস – বেসিক](https://returnzerooo.wordpress.com/2015/11/26/%E0%A6%9C%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [জাভার বিগইন্টিজার(BigInteger)ক্লাস – এডভান্সড](https://returnzerooo.wordpress.com/2016/01/08/%E0%A6%9C%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8-2/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [Josephus Number ( জোসেফাস নম্বর)](https://www.shawonruet.com/2017/01/josephus-number.html) - [আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
@@ -551,6 +565,7 @@
 
 ## আর্টিফিশিয়াল ইন্টিলিজেন্স, মেশিন লার্নিং
 
+* [হাতেকলমে মেশিন লার্নিং (আর এবং পাইথন প্রোগ্রামিং এনভায়রনমেন্ট)](https://rakibul-hassan.gitbook.io/mlbook-titanic/) - [রকিবুল হাসান](https://github.com/raqueeb)
 * [মেশিন লার্নিং? কম্পিউটার আবার শিখে কিভাবে!](http://adhikary.net/post/machine-learning/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.dev/) - [নুহিল মেহেদী](https://www.facebook.com/nuhil)
 * [Multi Layer Perceptron And Back Propagation Step By Step in Bangla ](https://www.shawonruet.com/2018/06/multi-layer-perception-and-back.html) - -[আসাদুল্লাহ শাওন](https://web.facebook.com/ashadullah.shawon)
@@ -591,7 +606,6 @@
 * [প্রোগ্রামিং প্যারাডাইম](http://www.bazlur.com/2017/01/blog-post.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [Agile and Scrum](http://www.bazlur.com/2017/01/agile-and-scrum.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [Act with Prudence](http://www.bazlur.com/2017/01/act-with-prudence.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
-* [সোজা বাংলায় ৩ মিনিটে OAuth!](http://www.adhikary.net/post/oauth-bengali/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [মিউটেবল (mutable) এবং ইমিউটেবল (immutable)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%AE%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%87%E0%A6%AC%E0%A6%B2-mutable-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%87%E0%A6%AE%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A7%87%E0%A6%AC%E0%A6%B2-immutable-b1f4d9c9090f) - [আলাভোলা](https://medium.com/@amialavola)
 * [টাইপ সিস্টেম (Type System)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%AA-%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%AE-type-system-bd2db56c3a52) - [আলাভোলা](https://medium.com/@amialavola)
 * [রেগুলার এক্সপ্রেশন -এ শুরু](http://samirdas.com/regular-expression-start/) - [সামির দাস](https://www.facebook.com/cse.samir)
@@ -642,6 +656,7 @@
 ### গো-ল্যাং (golang)
 * [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](https://golang.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
 - [গো নিয়ে গড়াগড়ি](http://go.goragori.com/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
+- [Golang কোডিং বুট ক্যাম্প ক্লাস ](https://www.youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - [MASTER-ACADEMY](https://www.youtube.com/c/MASTERACADEMY4)
 
 
 ### ক্লোজার (Clojure)
@@ -679,14 +694,15 @@
 
 ---
 
-## বাংলা টেক টক এবং পডকাস্ট
+## টেক টক এবং পডকাস্ট
 * [Tech Tong Youtube Channel](https://www.youtube.com/c/TechTongBD)
 * [BSADD Community, BUET Youtube Channel](https://www.youtube.com/channel/UCSEEEKX5ts05xGkdeZJIvmw)
 * [বাংলা টেক টক পডকাস্ট](https://banglatechtalk.com)
 * [Klassroom, Youtube Channel](https://www.youtube.com/c/KlassroomGlobal/)
+
 ---
+
 ## ইউটিউব চ্যানেল 
-### বাংলা 
 * [Anisul Islam](https://www.youtube.com/user/ANIS3730)
 * [Tamim Shahriar](https://www.youtube.com/user/subeents)
 * [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub)
@@ -700,5 +716,3 @@
 * [Learn with Sumit](https://www.youtube.com/user/sumitanalyzen)
 * [Learn Hunter](https://www.youtube.com/channel/UC7lIh9A3Isi_v0o_bvu5dKQ)
 * [Learn with Hasin Hayder](https://www.youtube.com/channel/UCwkHodC3PikVnMUQ2w-LraA)
-
-
