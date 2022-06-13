@@ -716,3 +716,4 @@
 * [Learn with Sumit](https://www.youtube.com/user/sumitanalyzen)
 * [Learn Hunter](https://www.youtube.com/channel/UC7lIh9A3Isi_v0o_bvu5dKQ)
 * [Learn with Hasin Hayder](https://www.youtube.com/channel/UCwkHodC3PikVnMUQ2w-LraA)
+* [রকিবের সাথে 'কৃত্রিম বুদ্ধিমত্তা'](https://www.youtube.com/c/রকিবেরসাথেকৃত্রিমবুদ্ধিমত্তা)
