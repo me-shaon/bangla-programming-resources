@@ -719,3 +719,4 @@
 * [রকিবের সাথে 'কৃত্রিম বুদ্ধিমত্তা'](https://www.youtube.com/c/রকিবেরসাথেকৃত্রিমবুদ্ধিমত্তা)
 * [Lecturelia](https://www.youtube.com/c/Lecturelia/featured)
 * [Farhan Hossan](https://www.youtube.com/c/FarhanHossan) 
+* [Foyzul Karim](https://www.youtube.com/c/FoyzulKarim)
