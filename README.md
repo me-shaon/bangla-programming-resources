@@ -626,6 +626,11 @@
 * [বাংলায় পাইথন](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [পাইথন বাংলা টিউটোরিয়াল](https://pythonbangla.com) - [Mahmud Ahsan](https://twitter.com/mahmudahsan)
+* [বাংলায় পাইথন টিউটোরিয়াল](https://www.sattacademy.com/python/index.php) - [sattacademy](http://www.sattacademy.com/)
+* [বাংলায় পাইথন টিউটোরিয়াল](https://pybangle.wordpress.com/2016/06/01/%e0%a6%87%e0%a6%a8%e0%a7%8d%e0%a6%b8%e0%a6%9f%e0%a6%b2%e0%a7%87%e0%a6%b6%e0%a6%a8/) - [pybangle](http://www.pybangle.wordpress.com/)
+
+
+
 
 
 ### জাভা (Java)
