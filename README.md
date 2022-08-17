@@ -625,8 +625,6 @@
 * [হাতে-কলমে পাইথন](http://www.adhikary.net/post/learn-python-by-building-0/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [বাংলায় পাইথন](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
-* [পাইথন বাংলা টিউটোরিয়াল](https://pythonbangla.com) - [Mahmud Ahsan](https://twitter.com/mahmudahsan)
-
 
 ### জাভা (Java)
 * [জাভা প্রোগ্রামিং](http://java.howtocode.dev/)- [How-to-code](http://www.howtocode.dev/)
