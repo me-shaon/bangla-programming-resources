@@ -644,7 +644,7 @@
 * [সি প্লাস প্লাস টিউটোরিয়াল](http://shoshikkha.com/archives/category/computer-science/programming/language/c) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 
 ### সি শার্প (C#)
-* [আসন C# শিখি](https://intisarbnaim.com/bn/categories/%E0%A6%86%E0%A6%B8%E0%A7%81%E0%A6%A8-c-sharp-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%BF/) - [ইনতিসার বিন নাইম](https://intisarbnaim.com/bn/)
+* [আসুন C# শিখি](https://intisarbnaim.com/bn/categories/%E0%A6%86%E0%A6%B8%E0%A7%81%E0%A6%A8-c-sharp-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%BF/) - [ইনতিসার বিন নাইম](https://intisarbnaim.com/bn/)
 
 ### জাভাস্ক্রিপ্ট (Javascript)
 * [জাভাস্ক্রিপ্ট](http://js.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
