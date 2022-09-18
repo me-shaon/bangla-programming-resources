@@ -632,6 +632,7 @@
 * [জাভা প্রোগ্রামিং](http://java.howtocode.dev/)- [How-to-code](http://www.howtocode.dev/)
 * [বাংলা জাভা টিউটোরিয়াল](http://mrubel.com/androidlime/category/java/) - [মোশাররফ রুবেল](https://www.facebook.com/rubel007cse)
 * [জাভা এন্টারপ্রাইজ এডিশন](http://dimikcomputing.com/course/javaee-online-course/) - [Therap (BD) Ltd.](www.therapbd.com)
+
 ### সি (C)
 * [বাংলায় সি প্রোগ্রামিং শিক্ষা](http://c.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
 * [বাংলায় সি প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/c) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
@@ -642,6 +643,8 @@
 * [বাংলা সি প্লাস প্লাস প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/cpptutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
 * [সি প্লাস প্লাস টিউটোরিয়াল](http://shoshikkha.com/archives/category/computer-science/programming/language/c) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 
+### সি শার্প (C#)
+* [আসুন C# শিখি](https://intisarbnaim.com/bn/categories/%E0%A6%86%E0%A6%B8%E0%A7%81%E0%A6%A8-c-sharp-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%BF/) - [ইনতিসার বিন নাইম](https://intisarbnaim.com/bn/)
 
 ### জাভাস্ক্রিপ্ট (Javascript)
 * [জাভাস্ক্রিপ্ট](http://js.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
