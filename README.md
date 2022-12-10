@@ -64,7 +64,7 @@
     * [বাইনারি হিপ বা প্রায়োরিটি কিউ](https://iishanto.com/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b9%e0%a7%80%e0%a6%aa-heap-%e0%a6%ac%e0%a6%be-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a7%9f%e0%a7%8b%e0%a6%b0%e0%a6%bf%e0%a6%9f/) - [শরিফ হাসান](https://facebook.com/io.shanto)
     * [কিউ(Queue) ডাটা-স্ট্রাকচার ইন পাইথন](https://baburjhuli.blogspot.com/2022/02/queue-ds-in-python.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
     * [কিউ(Queue) ডাটা-স্ট্রাকচার ইন জাভাস্ক্রিপ্ট](https://baburjhuli.blogspot.com/2022/01/queue-data-structure-in-javascript.html) - [শাকিল বাবু](https://www.facebook.com/profile.php?id=100025305922873)
- 
+
 * ট্রি (Tree)
    * [ট্রি ডেটা স্ট্রাকচার](http://hellohasan.com/category/data-structure/tree/tree-basic-concept/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
    * [ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/0I1JVXbHpec) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
@@ -94,11 +94,11 @@
 * সেগমেন্ট ট্রি (Segment Tree)
     * [সেগমেন্ট ট্রি-১](http://www.shafaetsplanet.com/planetcoding/?p=1557) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * [সেগমেন্ট ট্রি-২(লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/planetcoding/?p=1591) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    
+
     * [সেগমেন্ট ট্রি](https://iishanto.com/2020/04/01/%e0%a6%b8%e0%a7%87%e2%80%8c%e0%a6%97%e0%a7%87%e2%80%8c%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-    
+
     * [সেগমেন্ট ট্রি লেজি প্রপাগেশন](https://iishanto.com/2020/04/09/%e0%a6%b2%e0%a7%87%e0%a6%9c%e0%a6%bf-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%97%e0%a7%87%e0%a6%b6%e0%a6%a8/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-    
+
     * [Segment tree/ BIT part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/segment-tree-bit-part-1_21.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
     * [লোয়েস্ট কমন অ্যানসেস্টর](http://www.shafaetsplanet.com/planetcoding/?p=1831) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
     * পারসিস্টেন্ট সেগমেন্ট ট্রি [১](https://rezwanarefin01.github.io/posts/persistent-segment-tree-01/), [২](https://rezwanarefin01.github.io/posts/persistent-segment-tree-02/) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
@@ -152,7 +152,7 @@
     * [খাতা-কলমে Extended Euclid Method](http://www.abuasifkhan.me/extended-euclid-method.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
     * [Extended Euclidean Algorithm এবং একটুখানি Modular Multiplicative Inverse](http://www.abuasifkhan.me/extended-euclidean-algorithm.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
     * [এক্সটেন্ডেড ইউক্লিডীয়ান অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/08/12/%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A1-%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A7%80%E0%A7%9F%E0%A6%BE%E0%A6%A8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-    
+
 
 * প্রোবাবিলিটি (Probability)
     * [প্রোবাবিলিটি: এক্সপেক্টেড ভ্যালু](http://www.shafaetsplanet.com/planetcoding/?p=3060) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -705,7 +705,7 @@
 
 ---
 
-## ইউটিউব চ্যানেল 
+## ইউটিউব চ্যানেল
 * [Anisul Islam](https://www.youtube.com/user/ANIS3730)
 * [Tamim Shahriar](https://www.youtube.com/user/subeents)
 * [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub)
@@ -721,5 +721,9 @@
 * [Learn with Hasin Hayder](https://www.youtube.com/channel/UCwkHodC3PikVnMUQ2w-LraA)
 * [রকিবের সাথে 'কৃত্রিম বুদ্ধিমত্তা'](https://www.youtube.com/c/রকিবেরসাথেকৃত্রিমবুদ্ধিমত্তা)
 * [Lecturelia](https://www.youtube.com/c/Lecturelia/featured)
-* [Farhan Hossan](https://www.youtube.com/c/FarhanHossan) 
+* [Farhan Hossan](https://www.youtube.com/c/FarhanHossan)
 * [Foyzul Karim](https://www.youtube.com/c/FoyzulKarim)
+* [Code For Food](https://www.youtube.com/@CodeForFoodTutorials)
+* [CODE ABC](https://www.youtube.com/@CODEABC)
+* [webdeveloper bd](https://www.youtube.com/@webdeveloperbd)
+* [Study With Janin A Apurba](https://www.youtube.com/@studywithjanin)
