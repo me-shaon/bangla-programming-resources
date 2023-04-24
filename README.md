@@ -729,3 +729,4 @@
 * [Study With Janin A Apurba](https://www.youtube.com/@studywithjanin)
 * [Procoder BD](https://www.youtube.com/@ProcoderBD)
 * [Programming Hero Community](https://www.youtube.com/@ProgrammingHeroCommunity)
+* [Bangla Coding Tutor](https://www.youtube.com/c/BanglaCodingTutor)
