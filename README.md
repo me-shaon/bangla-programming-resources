@@ -467,6 +467,8 @@
 * [অবজারভার ডিজাইন প্যাটার্ণ](http://architecture.howtocode.dev/design_patterns/observer_pattern.html) - [How-to-code](http://www.howtocode.dev/)
 * [অবজারভার ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/05/29/%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-observer-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 * [অবজারভার ডিজাইন প্যাটার্ণ](http://software-engineering-notes-in-bangla.blogspot.com/2019/09/observer-design-pattern.html) - [ইসতিয়াক হুসাইন](https://www.linkedin.com/in/ishtiaquehussain/)
+* [অবজারভার ডিজাইন প্যাটার্ণ](https://dev.to/ashrafhussain17/-2mhe) - [আসরাফ হুসাইন](https://github.com/ashrafhussain17)
+
 
 ### কম্পোজিট ডিজাইন প্যাটার্ণ
 
