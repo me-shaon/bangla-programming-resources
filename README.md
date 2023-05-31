@@ -618,10 +618,13 @@
 * [এক পলকে সিকিউর শেল Secure Shell (SSH)](https://with.zonayed.me/bn/tag/ssh/) - [Learn With Zonayed](https://with.zonayed.me/bn)
 * [ব্লকচেইন? সে আবার কি? আল্টিমেট অখাটি বাংলায় ব্লকচেইন ১০১](https://with.dibakar.me/2018/08/03/%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%95%E0%A6%9A%E0%A7%87%E0%A6%87%E0%A6%A8-%E0%A6%B8%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
 * [আনরিয়েল ইঞ্জিন ৪](https://with.dibakar.me/category/game-development/unreal-engine/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
+* 
 
 ---
 
 ## প্রোগ্রামিং ল্যাঙ্গুয়েজ টিউটোরিয়াল সিরিজ
+### ফান্ডামেন্টাল
+* [বাংলায় সফটওয়্যার ইঞ্জিনিয়ারিং ফান্ডামেন্টাল](https://www.youtube.com/playlist?list=PLkyGuIcLcmx0NDDhUydksZTsCWE_4daBJ) - [রাব্বিল হাসান](https://www.youtube.com/@RabbilHasanRupom)
 
 ### পাইথন (Python)
 * [বাংলায় পাইথন](http://python.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
@@ -658,6 +661,9 @@
 
 ### পিএইচপি (PHP)
 * [বাংলায় পিএইচপি](https://php.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
+
+### ডার্ট
+* [বাংলায় ডার্ট ও ফ্লাটার বেসিক ](https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7) - [রাব্বিল হাসান](https://www.youtube.com/@RabbilHasanRupom)
 
 ### গো-ল্যাং (golang)
 * [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](https://golang.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
