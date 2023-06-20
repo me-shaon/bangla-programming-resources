@@ -568,6 +568,7 @@
 
 ## আর্টিফিশিয়াল ইন্টিলিজেন্স, মেশিন লার্নিং
 
+* [হাতেকলমে ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং (এনএলপি) - শুরুর ধারণা](https://github.com/raqueeb/nlp_bangla) - [রকিবুল হাসান](https://github.com/raqueeb)
 * [হাতেকলমে মেশিন লার্নিং (আর এবং পাইথন প্রোগ্রামিং এনভায়রনমেন্ট)](https://rakibul-hassan.gitbook.io/mlbook-titanic/) - [রকিবুল হাসান](https://github.com/raqueeb)
 * [মেশিন লার্নিং? কম্পিউটার আবার শিখে কিভাবে!](http://adhikary.net/post/machine-learning/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.dev/) - [নুহিল মেহেদী](https://www.facebook.com/nuhil)
@@ -576,6 +577,7 @@
 * [মেশিন লার্নিং (২): লিনিয়ার রিগ্রেশন, মডেল রিপ্রেজেন্টেশন ও কস্ট (Cost) ফাংশন](https://iishanto.com/2020/08/04/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b0%e0%a6%bf%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%95%e0%a6%b7%e0%a7%8d%e0%a6%9f-%e0%a6%ab/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 * [কস্ট ফাংশনের অন্তরীকরণ এবং গ্র্যাডিয়েন্ট ডিসেন্ট](https://iishanto.com/2020/11/06/%e0%a6%95%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%ab%e0%a6%be%e0%a6%82%e0%a6%b6%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%a8%e0%a7%8d%e0%a6%a4%e0%a6%b0%e0%a7%80%e0%a6%95%e0%a6%b0%e0%a6%a3-%e0%a6%8f/) - [শরিফ হাসান](https://facebook.com/io.shanto)
 * [Face recognition: ছবি থেকে মুখ শনাক্তকরণ পদ্ধতি](https://iishanto.com/face-recognition-bangla-tutorial/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+* [Deep learning Bangla resources with TensorFlow](https://github.com/menon92/DL-Sneak-Peek) - [Mehadi Hasan Menon](https://github.com/menon92)
 ---
 ## অন্যান্য
 
@@ -686,6 +688,7 @@
 * [সহজ ভাষায় পাইথন ৩ - মাকসুদুর রহমান মাটিন](https://python.maateen.me/)
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](http://hukush-pakush.com/) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
 * [প্রোগ্রামিং প্রতিযোগিতার শুরুর গল্প](https://drive.google.com/file/d/0B0uOHynlj5e7M19Kc08zU0JyM2M/view) - [মাহবুবুল হাসান](https://www.facebook.com/mahbub.shanto)
+* [সফটওয়্যার ইঞ্জিনিয়ারিং আলাপ](https://www.rokomari.com/book/304538/software-engineering-talk)
 
 ---
 
@@ -706,15 +709,11 @@
 
 ---
 
-## টেক টক এবং পডকাস্ট
+## টেক টক, পডকাস্ট এবং ইউটিউব চ্যানেল
 * [Tech Tong Youtube Channel](https://www.youtube.com/c/TechTongBD)
 * [BSADD Community, BUET Youtube Channel](https://www.youtube.com/channel/UCSEEEKX5ts05xGkdeZJIvmw)
 * [বাংলা টেক টক পডকাস্ট](https://banglatechtalk.com)
 * [Klassroom, Youtube Channel](https://www.youtube.com/c/KlassroomGlobal/)
-
----
-
-## ইউটিউব চ্যানেল
 * [Anisul Islam](https://www.youtube.com/user/ANIS3730)
 * [Tamim Shahriar](https://www.youtube.com/user/subeents)
 * [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub)
@@ -739,3 +738,4 @@
 * [Procoder BD](https://www.youtube.com/@ProcoderBD)
 * [Programming Hero Community](https://www.youtube.com/@ProgrammingHeroCommunity)
 * [Bangla Coding Tutor](https://www.youtube.com/c/BanglaCodingTutor)
+* [Megaminds Learning](https://www.youtube.com/@MegamindsLearning)
