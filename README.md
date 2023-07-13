@@ -581,6 +581,9 @@
 ---
 ## অন্যান্য
 
+### সিস্টেম ডিজাইন
+* [সিস্টেম ডিজাইন বাংলা](https://github.com/lahin31/system-design-bangla) - [লাহিন](https://www.linkedin.com/in/lahin31/)
+
 ### এপিআই (এপ্লিকেশন প্রোগ্রামিং ইন্টারফেস)
 * [ডিজাইনিং রেস্ট এপিআই](http://apikothon.com/category/%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%8F%E0%A6%AA%E0%A6%BF%E0%A6%86%E0%A6%87) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
 
@@ -620,7 +623,6 @@
 * [এক পলকে সিকিউর শেল Secure Shell (SSH)](https://with.zonayed.me/bn/tag/ssh/) - [Learn With Zonayed](https://with.zonayed.me/bn)
 * [ব্লকচেইন? সে আবার কি? আল্টিমেট অখাটি বাংলায় ব্লকচেইন ১০১](https://with.dibakar.me/2018/08/03/%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%95%E0%A6%9A%E0%A7%87%E0%A6%87%E0%A6%A8-%E0%A6%B8%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
 * [আনরিয়েল ইঞ্জিন ৪](https://with.dibakar.me/category/game-development/unreal-engine/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
-* 
 
 ---
 
