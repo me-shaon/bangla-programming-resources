@@ -34,6 +34,7 @@
     * [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26) - [আলাভোলা](https://medium.com/@amialavola)
     * [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) - [আলাভোলা](https://medium.com/@amialavola)
     * [ডাবলি লিংকড লিস্ট](http://shoshikkha.com/archives/3290) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+    * [লিঙ্কড লিস্ট সম্পর্কে ধারণা এবং সি প্রোগ্রামিং এ ইমপ্লিমেন্টেশন](https://jakir.me/%E0%A6%B2%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%A1-%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F-linked-list/) - [জাকির হোসাইন](https://www.facebook.com/jakir007/)
     * [লিঙ্কড লিস্ট - ১ (Linked List - 1) - প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/k3wD1KtP8EE) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [লিঙ্কড লিস্ট - ২ (Linked List - 2) - নোড বাদ দেওয়া (ভিডিও)](https://youtu.be/rBc-CApEe3s) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
     * [লিঙ্কড লিস্ট - ৩ (Linked List - 3) - নোড যোগ করা (ভিডিও)](https://youtu.be/VLd6EnfUuWU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
