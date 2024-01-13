@@ -661,6 +661,7 @@
 * [বাংলায় জাভাস্ক্রিপ্ট](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [নতুন করে শিখি জাভাস্ক্রিপ্ট](https://developer.mozilla.org/bn-BD/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
 * [হাতেকলমে জাভাস্ক্রিপ্ট](https://js.zonayed.me) - [Learn With Zonayed](https://with.zonayed.me/bn)
+* [কোডিং JS](https://nipu.gitbook.io/coding-js) - [কোডিং JS](https://nipu.gitbook.io/coding-js/)
 
 
 ### পিএইচপি (PHP)
