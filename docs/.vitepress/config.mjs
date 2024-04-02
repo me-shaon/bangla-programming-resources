@@ -7,6 +7,7 @@ export default defineConfig({
     "Bangla tutorial, reference and resource list on programming topics",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    ignoreDeadLinks: true,
     siteTitle: "বাংলায় প্রোগ্রামিং রিসোর্সসমূহ",
     nav: [
       { text: "হোমপেজ", link: "/" },

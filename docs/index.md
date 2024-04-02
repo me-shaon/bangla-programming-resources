@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: চলুন শুরু যাক
-      link: /markdown-examples
+      link: /resources
     - theme: alt
       text: GitHub
       link: https://github.com/me-shaon/bangla-programming-resources
