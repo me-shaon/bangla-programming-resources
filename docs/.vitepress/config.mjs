@@ -27,5 +27,10 @@ export default defineConfig({
         link: "https://github.com/me-shaon/bangla-programming-resources",
       },
     ],
+
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2016-present Ahmed Shamim",
+    },
   },
 });
