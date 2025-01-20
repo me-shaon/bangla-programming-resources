@@ -672,10 +672,10 @@
 * [বাংলায় ডার্ট ও ফ্লাটার বেসিক ](https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7) - [রাব্বিল হাসান](https://www.youtube.com/@RabbilHasanRupom)
 
 ### গো-ল্যাং (golang)
-* [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](https://golang.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
+- [Vivasoft Go বুটক্যাম্প](https://academy.vivasoftltd.com/golang-bootcamp/)
+- [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](https://golang.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
 - [গো নিয়ে গড়াগড়ি](http://go.goragori.com/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
 - [Golang কোডিং বুট ক্যাম্প ক্লাস ](https://www.youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - [MASTER-ACADEMY](https://www.youtube.com/c/MASTERACADEMY4)
-
 
 ### ক্লোজার (Clojure)
 * [ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ](https://clojure.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
