@@ -638,6 +638,8 @@
 * [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [পাইথন বাংলা টিউটোরিয়াল](https://pythonbangla.com) - [Mahmud Ahsan](https://twitter.com/mahmudahsan)
 
+### আর (R)
+* [R Programming Tutorial: Bangla Course(আর প্রোগ্রামিং টিউটোরিয়াল: বাংলা কোর্স)](https://www.youtube.com/playlist?list=PLurbSF7_tErorQohT-g0Mi3Iluos7dAAW)
 
 ### জাভা (Java)
 * [জাভা প্রোগ্রামিং](http://java.howtocode.dev/)- [How-to-code](http://www.howtocode.dev/)
