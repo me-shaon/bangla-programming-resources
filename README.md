@@ -745,4 +745,5 @@
 * [Programming Hero Community](https://www.youtube.com/@ProgrammingHeroCommunity)
 * [Bangla Coding Tutor](https://www.youtube.com/c/BanglaCodingTutor)
 * [Megaminds Learning](https://www.youtube.com/@MegamindsLearning)
-* [Learn With Tawhid ](https://www.youtube.com/@LearnWithTawhid)
+* [Learn With Tawhid](https://www.youtube.com/@LearnWithTawhid)
+* [সুদীপ্ত কর / Sudipta Kar](https://www.youtube.com/@cryptexcode)
