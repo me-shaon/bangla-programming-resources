@@ -747,3 +747,4 @@
 * [Megaminds Learning](https://www.youtube.com/@MegamindsLearning)
 * [Learn With Tawhid](https://www.youtube.com/@LearnWithTawhid)
 * [সুদীপ্ত কর / Sudipta Kar](https://www.youtube.com/@cryptexcode)
+* [STUDY MART](https://www.youtube.com/@StudyMart)
