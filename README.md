@@ -228,6 +228,8 @@
 
 ### ডাইনামিক প্রোগ্রামিং
 
+* [ডাইনািমক প্রোগ্রামিং এ হাতেখড়ি - তাসনিম রেজা, মামনুন সিয়াম](https://dp-bn.github.io/file/book-0.1.alpha.pdf) 
+
 * ডাইনামিক প্রোগ্রামিং ব্যাসিক
     -  [রিকার্শন, সার্চিং এবং ডাইনামিক প্রোগ্রামিং](https://sites.google.com/site/smilitude/recursion_and_dp) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
     - [ডাইনামিক প্রোগ্রামিং-শুরুর কথা](http://www.shafaetsplanet.com/planetcoding/?p=1022) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
