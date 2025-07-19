@@ -745,3 +745,41 @@
 * [Programming Hero Community](https://www.youtube.com/@ProgrammingHeroCommunity)
 * [Bangla Coding Tutor](https://www.youtube.com/c/BanglaCodingTutor)
 * [Megaminds Learning](https://www.youtube.com/@MegamindsLearning)
+
+
+
+# 🧠 Top 20 AI & Productivity Tools (2025)
+
+## AI Tools
+
+| Tool | Purpose | Link |
+|---|---|---|
+| [ChatGPT (OpenAI)](https://chat.openai.com/) | Writing, coding, brainstorming, customer support | [chat.openai.com](https://chat.openai.com/) |
+| [Claude (Anthropic)](https://claude.ai/) | Long document analysis, summarization | [claude.ai](https://claude.ai/) |
+| [Gemini (Google)](https://gemini.google.com/) | Google AI assistant, creative tasks | [gemini.google.com](https://gemini.google.com/) |
+| [Microsoft Copilot](https://copilot.microsoft.com/) | AI assistant for MS Office apps | [copilot.microsoft.com](https://copilot.microsoft.com/) |
+| [Perplexity AI](https://www.perplexity.ai/) | AI-powered research & answers | [perplexity.ai](https://www.perplexity.ai/) |
+| [Midjourney](https://www.midjourney.com/) | AI art generation | [midjourney.com](https://www.midjourney.com/) |
+| [Sora (OpenAI)](https://openai.com/sora) | AI video generation | [openai.com/sora](https://openai.com/sora) |
+| [Runway](https://runwayml.com/) | AI video editing & creation | [runwayml.com](https://runwayml.com/) |
+| [Leonardo AI](https://leonardo.ai/) | AI game art & creative graphics | [leonardo.ai](https://leonardo.ai/) |
+| [Fireflies.ai](https://fireflies.ai/) | AI meeting notes & transcription | [fireflies.ai](https://fireflies.ai/) |
+
+---
+
+## Productivity & Automation Tools
+
+| Tool | Purpose | Link |
+|---|---|---|
+| [Notion](https://www.notion.so/) | Notes, docs, AI-powered workspace | [notion.so](https://www.notion.so/) |
+| [ClickUp](https://clickup.com/) | Task management & collaboration | [clickup.com](https://clickup.com/) |
+| [Trello](https://trello.com/) | Visual task boards | [trello.com](https://trello.com/) |
+| [Asana](https://asana.com/) | Project management & teamwork | [asana.com](https://asana.com/) |
+| [Slack](https://slack.com/) | Team communication & app integration | [slack.com](https://slack.com/) |
+| [Zapier](https://zapier.com/) | Workflow automation between apps | [zapier.com](https://zapier.com/) |
+| [Make (Integromat)](https://www.make.com/) | Advanced automation workflows | [make.com](https://www.make.com/) |
+| [Loom](https://www.loom.com/) | Video messaging & screen recording | [loom.com](https://www.loom.com/) |
+| [Grammarly](https://www.grammarly.com/) | AI writing assistant & grammar checking | [grammarly.com](https://www.grammarly.com/) |
+| [Microsoft Loop](https://loop.microsoft.com/) | Collaborative workspace & notes | [loop.microsoft.com](https://loop.microsoft.com/) |
+
+---
