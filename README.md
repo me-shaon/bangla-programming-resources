@@ -633,10 +633,8 @@
 
 ### পাইথন (Python)
 * [বাংলায় পাইথন](http://python.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
-* [হাতে-কলমে পাইথন](http://www.adhikary.net/post/learn-python-by-building-0/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [বাংলায় পাইথন](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
-* [পাইথন বাংলা টিউটোরিয়াল](https://pythonbangla.com) - [Mahmud Ahsan](https://twitter.com/mahmudahsan)
 
 ### আর (R)
 * [R Programming Tutorial: Bangla Course(আর প্রোগ্রামিং টিউটোরিয়াল: বাংলা কোর্স)](https://www.youtube.com/playlist?list=PLurbSF7_tErorQohT-g0Mi3Iluos7dAAW)
