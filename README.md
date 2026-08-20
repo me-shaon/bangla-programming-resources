@@ -533,6 +533,7 @@
 ## সফটওয়্যার আর্কিটেকচার
 * [মাইক্রোসার্ভিস আর্কিটেকচার](http://apikothon.com/microservice-bangla-tutorial) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
 * [সফটওয়্যার আর্কিটেকচার - বাংলা](http://architecture.howtocode.dev/) - [How-to-code](http://www.howtocode.dev/)
+* [ওপেন টেক কো-অপারেটিভ সফটওয়্যার আর্কিটেকচার ও প্র্যাকটিক্যাল লার্নিং](https://equisaas-bd.com/open-tech-cooperative-bangladesh/) - [EquiSaaS BD](https://equisaas-bd.com/)
 
 ---
 
@@ -752,3 +753,4 @@
 * [Learn With Tawhid](https://www.youtube.com/@LearnWithTawhid)
 * [সুদীপ্ত কর / Sudipta Kar](https://www.youtube.com/@cryptexcode)
 * [STUDY MART](https://www.youtube.com/@StudyMart)
+* [EquiSaaS BD](https://www.youtube.com/@equisaas) - সফটওয়্যার ইঞ্জিনিয়ারিং টিউটোরিয়াল এবং ওপেন টেক কো-অপ [equisaas-bd.com/lms](https://equisaas-bd.com/lms/)
